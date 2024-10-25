@@ -1,0 +1,811 @@
+Reference year,Region of usual residence (SA4),Occupation of main job,Male,Female
+Aug-14,New South Wales,Managers,329,188
+Aug-14,New South Wales,Professionals,416.6,436.3
+Aug-14,New South Wales,Technicians and Trades Workers,429.5,60.5
+Aug-14,New South Wales,Community and Personal Service Workers,106.9,238.8
+Aug-14,New South Wales,Clerical and Administrative Workers,120,382.2
+Aug-14,New South Wales,Sales Workers,140.1,204.8
+Aug-14,New South Wales,Machinery Operators and Drivers,209.7,17.3
+Aug-14,New South Wales,Labourers,204.5,118.5
+Aug-14,New South Wales,Not employed,0,0
+Aug-14,Victoria,Managers,263.5,128.1
+Aug-14,Victoria,Professionals,327.3,387.1
+Aug-14,Victoria,Technicians and Trades Workers,347,58.6
+Aug-14,Victoria,Community and Personal Service Workers,91.8,186.9
+Aug-14,Victoria,Clerical and Administrative Workers,105.2,293
+Aug-14,Victoria,Sales Workers,114.6,188
+Aug-14,Victoria,Machinery Operators and Drivers,153.1,14.4
+Aug-14,Victoria,Labourers,165.2,78.3
+Aug-14,Victoria,Not employed,0,0
+Aug-14,Queensland,Managers,167.9,108.9
+Aug-14,Queensland,Professionals,203.2,239.9
+Aug-14,Queensland,Technicians and Trades Workers,320,51.5
+Aug-14,Queensland,Community and Personal Service Workers,79.5,175.2
+Aug-14,Queensland,Clerical and Administrative Workers,67.4,267.2
+Aug-14,Queensland,Sales Workers,80.6,144.2
+Aug-14,Queensland,Machinery Operators and Drivers,153.1,19.4
+Aug-14,Queensland,Labourers,160.8,85.4
+Aug-14,Queensland,Not employed,0,0
+Aug-14,South Australia,Managers,72.8,39
+Aug-14,South Australia,Professionals,78.7,89
+Aug-14,South Australia,Technicians and Trades Workers,96.1,16.3
+Aug-14,South Australia,Community and Personal Service Workers,27.4,63.1
+Aug-14,South Australia,Clerical and Administrative Workers,30.4,76.4
+Aug-14,South Australia,Sales Workers,27.5,46.7
+Aug-14,South Australia,Machinery Operators and Drivers,47,5.9
+Aug-14,South Australia,Labourers,53.6,29.2
+Aug-14,South Australia,Not employed,0,0
+Aug-14,Western Australia,Managers,108.7,52.2
+Aug-14,Western Australia,Professionals,141.4,148.5
+Aug-14,Western Australia,Technicians and Trades Workers,199.5,33.8
+Aug-14,Western Australia,Community and Personal Service Workers,35.7,79.1
+Aug-14,Western Australia,Clerical and Administrative Workers,36.1,140.7
+Aug-14,Western Australia,Sales Workers,40.1,80.1
+Aug-14,Western Australia,Machinery Operators and Drivers,90.4,6.3
+Aug-14,Western Australia,Labourers,80.4,42.6
+Aug-14,Western Australia,Not employed,0,0
+Aug-14,Tasmania,Managers,16.6,10
+Aug-14,Tasmania,Professionals,20.2,24.3
+Aug-14,Tasmania,Technicians and Trades Workers,29.4,6
+Aug-14,Tasmania,Community and Personal Service Workers,8,18.7
+Aug-14,Tasmania,Clerical and Administrative Workers,9.6,25.3
+Aug-14,Tasmania,Sales Workers,8.1,16
+Aug-14,Tasmania,Machinery Operators and Drivers,13.9,1.1
+Aug-14,Tasmania,Labourers,19.5,10.1
+Aug-14,Tasmania,Not employed,0,0
+Aug-14,Northern Territory,Managers,8.7,6.6
+Aug-14,Northern Territory,Professionals,11.8,15.8
+Aug-14,Northern Territory,Technicians and Trades Workers,18.5,1.8
+Aug-14,Northern Territory,Community and Personal Service Workers,7,8.6
+Aug-14,Northern Territory,Clerical and Administrative Workers,4.8,15
+Aug-14,Northern Territory,Sales Workers,3.7,4
+Aug-14,Northern Territory,Machinery Operators and Drivers,7.3,0.3
+Aug-14,Northern Territory,Labourers,6.1,3.3
+Aug-14,Northern Territory,Not employed,0,0
+Aug-14,Australian Capital Territory,Managers,19.1,13.3
+Aug-14,Australian Capital Territory,Professionals,33.2,35
+Aug-14,Australian Capital Territory,Technicians and Trades Workers,18,3.2
+Aug-14,Australian Capital Territory,Community and Personal Service Workers,9.7,12.1
+Aug-14,Australian Capital Territory,Clerical and Administrative Workers,10,25.3
+Aug-14,Australian Capital Territory,Sales Workers,5,8.6
+Aug-14,Australian Capital Territory,Machinery Operators and Drivers,5.8,0
+Aug-14,Australian Capital Territory,Labourers,5.6,3.8
+Aug-14,Australian Capital Territory,Not employed,0,0
+Aug-14,Total,Managers,988.6,548.3
+Aug-14,Total,Professionals,1230.1,1374.3
+Aug-14,Total,Technicians and Trades Workers,1459.5,233.1
+Aug-14,Total,Community and Personal Service Workers,357.6,781.7
+Aug-14,Total,Clerical and Administrative Workers,382.8,1225.7
+Aug-14,Total,Sales Workers,414.9,690.2
+Aug-14,Total,Machinery Operators and Drivers,682.1,66.5
+Aug-14,Total,Labourers,694.8,373.1
+Aug-14,Total,Not employed,0,0
+Aug-15,New South Wales,Managers,332.2,182
+Aug-15,New South Wales,Professionals,429.7,478
+Aug-15,New South Wales,Technicians and Trades Workers,429,75.1
+Aug-15,New South Wales,Community and Personal Service Workers,122,257.3
+Aug-15,New South Wales,Clerical and Administrative Workers,141.4,389.6
+Aug-15,New South Wales,Sales Workers,125.8,215.2
+Aug-15,New South Wales,Machinery Operators and Drivers,204.5,19.4
+Aug-15,New South Wales,Labourers,217.4,104
+Aug-15,New South Wales,Not employed,0,0
+Aug-15,Victoria,Managers,267.5,166.1
+Aug-15,Victoria,Professionals,341.8,381.6
+Aug-15,Victoria,Technicians and Trades Workers,329,55.5
+Aug-15,Victoria,Community and Personal Service Workers,112.8,204.7
+Aug-15,Victoria,Clerical and Administrative Workers,112.6,279.5
+Aug-15,Victoria,Sales Workers,114.3,180
+Aug-15,Victoria,Machinery Operators and Drivers,151.5,21.3
+Aug-15,Victoria,Labourers,182.1,82.5
+Aug-15,Victoria,Not employed,0,0
+Aug-15,Queensland,Managers,161.9,110.9
+Aug-15,Queensland,Professionals,227.1,266
+Aug-15,Queensland,Technicians and Trades Workers,331.1,56.3
+Aug-15,Queensland,Community and Personal Service Workers,71.8,179.4
+Aug-15,Queensland,Clerical and Administrative Workers,69.1,252.5
+Aug-15,Queensland,Sales Workers,94.6,142.2
+Aug-15,Queensland,Machinery Operators and Drivers,137.8,15.2
+Aug-15,Queensland,Labourers,144.5,83.4
+Aug-15,Queensland,Not employed,0,0
+Aug-15,South Australia,Managers,74.5,34.9
+Aug-15,South Australia,Professionals,78.1,96.1
+Aug-15,South Australia,Technicians and Trades Workers,92.4,21.1
+Aug-15,South Australia,Community and Personal Service Workers,20.7,62.7
+Aug-15,South Australia,Clerical and Administrative Workers,26.4,79.1
+Aug-15,South Australia,Sales Workers,27.2,51.1
+Aug-15,South Australia,Machinery Operators and Drivers,45.2,4.5
+Aug-15,South Australia,Labourers,56,30.4
+Aug-15,South Australia,Not employed,0,0
+Aug-15,Western Australia,Managers,90.5,48.2
+Aug-15,Western Australia,Professionals,139.7,158.8
+Aug-15,Western Australia,Technicians and Trades Workers,202.3,37.4
+Aug-15,Western Australia,Community and Personal Service Workers,47.6,88
+Aug-15,Western Australia,Clerical and Administrative Workers,30.5,132.8
+Aug-15,Western Australia,Sales Workers,39.2,72.6
+Aug-15,Western Australia,Machinery Operators and Drivers,84.2,9.2
+Aug-15,Western Australia,Labourers,94.6,38.7
+Aug-15,Western Australia,Not employed,0,0
+Aug-15,Tasmania,Managers,18.1,10.6
+Aug-15,Tasmania,Professionals,21.1,25.1
+Aug-15,Tasmania,Technicians and Trades Workers,30.4,4.8
+Aug-15,Tasmania,Community and Personal Service Workers,8.7,20.1
+Aug-15,Tasmania,Clerical and Administrative Workers,7.9,25.6
+Aug-15,Tasmania,Sales Workers,10.2,14.8
+Aug-15,Tasmania,Machinery Operators and Drivers,15.9,1.1
+Aug-15,Tasmania,Labourers,18,11
+Aug-15,Tasmania,Not employed,0,0
+Aug-15,Northern Territory,Managers,9.5,6.3
+Aug-15,Northern Territory,Professionals,10.6,14.3
+Aug-15,Northern Territory,Technicians and Trades Workers,21.4,2.7
+Aug-15,Northern Territory,Community and Personal Service Workers,5,10.5
+Aug-15,Northern Territory,Clerical and Administrative Workers,4.3,14.4
+Aug-15,Northern Territory,Sales Workers,3.5,5.5
+Aug-15,Northern Territory,Machinery Operators and Drivers,9.4,0.9
+Aug-15,Northern Territory,Labourers,7.3,4.5
+Aug-15,Northern Territory,Not employed,0,0
+Aug-15,Australian Capital Territory,Managers,18,12.2
+Aug-15,Australian Capital Territory,Professionals,30.6,37
+Aug-15,Australian Capital Territory,Technicians and Trades Workers,21.3,3.1
+Aug-15,Australian Capital Territory,Community and Personal Service Workers,7.1,9.5
+Aug-15,Australian Capital Territory,Clerical and Administrative Workers,13.4,29.3
+Aug-15,Australian Capital Territory,Sales Workers,4.3,8.7
+Aug-15,Australian Capital Territory,Machinery Operators and Drivers,2.7,0
+Aug-15,Australian Capital Territory,Labourers,9.8,4.6
+Aug-15,Australian Capital Territory,Not employed,0,0
+Aug-15,Total,Managers,973,574.6
+Aug-15,Total,Professionals,1274,1457
+Aug-15,Total,Technicians and Trades Workers,1457.4,247.9
+Aug-15,Total,Community and Personal Service Workers,394.1,826.6
+Aug-15,Total,Clerical and Administrative Workers,405.8,1202.8
+Aug-15,Total,Sales Workers,418.2,687.7
+Aug-15,Total,Machinery Operators and Drivers,656.6,74.5
+Aug-15,Total,Labourers,729.9,363.3
+Aug-15,Total,Not employed,0,0
+Aug-16,New South Wales,Managers,306.7,165.8
+Aug-16,New South Wales,Professionals,455.4,538.7
+Aug-16,New South Wales,Technicians and Trades Workers,409.1,68.8
+Aug-16,New South Wales,Community and Personal Service Workers,132.1,276.8
+Aug-16,New South Wales,Clerical and Administrative Workers,156.1,393.7
+Aug-16,New South Wales,Sales Workers,131.5,181.9
+Aug-16,New South Wales,Machinery Operators and Drivers,214.2,19.5
+Aug-16,New South Wales,Labourers,230.9,121.4
+Aug-16,New South Wales,Not employed,0,0
+Aug-16,Victoria,Managers,267.8,154.1
+Aug-16,Victoria,Professionals,341.8,392.3
+Aug-16,Victoria,Technicians and Trades Workers,354,64.7
+Aug-16,Victoria,Community and Personal Service Workers,106,220.1
+Aug-16,Victoria,Clerical and Administrative Workers,125.6,306
+Aug-16,Victoria,Sales Workers,111.4,175
+Aug-16,Victoria,Machinery Operators and Drivers,167.2,17
+Aug-16,Victoria,Labourers,210.8,97.6
+Aug-16,Victoria,Not employed,0,0
+Aug-16,Queensland,Managers,176.8,98.9
+Aug-16,Queensland,Professionals,224.6,291.6
+Aug-16,Queensland,Technicians and Trades Workers,308.4,57.4
+Aug-16,Queensland,Community and Personal Service Workers,68.5,169.3
+Aug-16,Queensland,Clerical and Administrative Workers,65.2,272.7
+Aug-16,Queensland,Sales Workers,93.3,119.3
+Aug-16,Queensland,Machinery Operators and Drivers,141.2,14.7
+Aug-16,Queensland,Labourers,157.8,76.1
+Aug-16,Queensland,Not employed,0,0
+Aug-16,South Australia,Managers,65.9,37
+Aug-16,South Australia,Professionals,74.8,89.8
+Aug-16,South Australia,Technicians and Trades Workers,93.5,16.6
+Aug-16,South Australia,Community and Personal Service Workers,27.1,66.3
+Aug-16,South Australia,Clerical and Administrative Workers,23.7,83.6
+Aug-16,South Australia,Sales Workers,29.5,54
+Aug-16,South Australia,Machinery Operators and Drivers,46.7,3.3
+Aug-16,South Australia,Labourers,66.5,31.4
+Aug-16,South Australia,Not employed,0,0
+Aug-16,Western Australia,Managers,103.5,50.8
+Aug-16,Western Australia,Professionals,122.3,151.2
+Aug-16,Western Australia,Technicians and Trades Workers,176,33.3
+Aug-16,Western Australia,Community and Personal Service Workers,39.7,102.6
+Aug-16,Western Australia,Clerical and Administrative Workers,42.6,120.3
+Aug-16,Western Australia,Sales Workers,34.9,77.3
+Aug-16,Western Australia,Machinery Operators and Drivers,91.7,9.6
+Aug-16,Western Australia,Labourers,86.6,44
+Aug-16,Western Australia,Not employed,0,0
+Aug-16,Tasmania,Managers,16.9,11.5
+Aug-16,Tasmania,Professionals,20.6,22
+Aug-16,Tasmania,Technicians and Trades Workers,34.8,6.3
+Aug-16,Tasmania,Community and Personal Service Workers,7.2,22.5
+Aug-16,Tasmania,Clerical and Administrative Workers,7.1,24.1
+Aug-16,Tasmania,Sales Workers,9,11.3
+Aug-16,Tasmania,Machinery Operators and Drivers,11.5,1.6
+Aug-16,Tasmania,Labourers,17.8,11.8
+Aug-16,Tasmania,Not employed,0,0
+Aug-16,Northern Territory,Managers,9.8,6
+Aug-16,Northern Territory,Professionals,11.2,15.5
+Aug-16,Northern Territory,Technicians and Trades Workers,19.8,3.4
+Aug-16,Northern Territory,Community and Personal Service Workers,7.5,9.5
+Aug-16,Northern Territory,Clerical and Administrative Workers,4.9,14.5
+Aug-16,Northern Territory,Sales Workers,3.3,5.8
+Aug-16,Northern Territory,Machinery Operators and Drivers,7.1,0.6
+Aug-16,Northern Territory,Labourers,6.7,3.2
+Aug-16,Northern Territory,Not employed,0,0
+Aug-16,Australian Capital Territory,Managers,16.4,11.1
+Aug-16,Australian Capital Territory,Professionals,37.6,39.1
+Aug-16,Australian Capital Territory,Technicians and Trades Workers,18.7,3.8
+Aug-16,Australian Capital Territory,Community and Personal Service Workers,9.1,12.3
+Aug-16,Australian Capital Territory,Clerical and Administrative Workers,14.7,29.7
+Aug-16,Australian Capital Territory,Sales Workers,5.3,6.8
+Aug-16,Australian Capital Territory,Machinery Operators and Drivers,3.5,0
+Aug-16,Australian Capital Territory,Labourers,6.5,3.6
+Aug-16,Australian Capital Territory,Not employed,0,0
+Aug-16,Total,Managers,965.9,539.4
+Aug-16,Total,Professionals,1287.8,1542.1
+Aug-16,Total,Technicians and Trades Workers,1414.9,256.2
+Aug-16,Total,Community and Personal Service Workers,397.8,875.9
+Aug-16,Total,Clerical and Administrative Workers,440.3,1248.9
+Aug-16,Total,Sales Workers,415.3,634
+Aug-16,Total,Machinery Operators and Drivers,683.3,71.7
+Aug-16,Total,Labourers,785.4,386.9
+Aug-16,Total,Not employed,0,0
+Aug-17,New South Wales,Managers,311.2,187.6
+Aug-17,New South Wales,Professionals,468.9,538.1
+Aug-17,New South Wales,Technicians and Trades Workers,440.3,75.2
+Aug-17,New South Wales,Community and Personal Service Workers,125,248.5
+Aug-17,New South Wales,Clerical and Administrative Workers,132.1,386.3
+Aug-17,New South Wales,Sales Workers,138.4,218.1
+Aug-17,New South Wales,Machinery Operators and Drivers,228,24.9
+Aug-17,New South Wales,Labourers,221.9,131.3
+Aug-17,New South Wales,Not employed,0,0
+Aug-17,Victoria,Managers,278.8,162.4
+Aug-17,Victoria,Professionals,355.5,445.9
+Aug-17,Victoria,Technicians and Trades Workers,385.2,63.6
+Aug-17,Victoria,Community and Personal Service Workers,92.5,233.2
+Aug-17,Victoria,Clerical and Administrative Workers,102.6,303.1
+Aug-17,Victoria,Sales Workers,118,163.7
+Aug-17,Victoria,Machinery Operators and Drivers,173.1,21.6
+Aug-17,Victoria,Labourers,203.5,92.4
+Aug-17,Victoria,Not employed,0,0
+Aug-17,Queensland,Managers,166.4,108.4
+Aug-17,Queensland,Professionals,229.5,282.1
+Aug-17,Queensland,Technicians and Trades Workers,315.5,45.6
+Aug-17,Queensland,Community and Personal Service Workers,83.5,224.8
+Aug-17,Queensland,Clerical and Administrative Workers,76.1,245.9
+Aug-17,Queensland,Sales Workers,97,144.8
+Aug-17,Queensland,Machinery Operators and Drivers,143.9,11.9
+Aug-17,Queensland,Labourers,166.1,86.4
+Aug-17,Queensland,Not employed,0,0
+Aug-17,South Australia,Managers,65.7,38.6
+Aug-17,South Australia,Professionals,76.1,90.8
+Aug-17,South Australia,Technicians and Trades Workers,91.5,19.7
+Aug-17,South Australia,Community and Personal Service Workers,31.4,71
+Aug-17,South Australia,Clerical and Administrative Workers,30.1,87.3
+Aug-17,South Australia,Sales Workers,31.9,47.3
+Aug-17,South Australia,Machinery Operators and Drivers,49,3.7
+Aug-17,South Australia,Labourers,62.7,31.3
+Aug-17,South Australia,Not employed,0,0
+Aug-17,Western Australia,Managers,98.3,56
+Aug-17,Western Australia,Professionals,131.7,159.9
+Aug-17,Western Australia,Technicians and Trades Workers,200.8,39.4
+Aug-17,Western Australia,Community and Personal Service Workers,37,103.1
+Aug-17,Western Australia,Clerical and Administrative Workers,37.7,122.5
+Aug-17,Western Australia,Sales Workers,43.3,64.6
+Aug-17,Western Australia,Machinery Operators and Drivers,93.1,13.1
+Aug-17,Western Australia,Labourers,88.7,47.2
+Aug-17,Western Australia,Not employed,0,0
+Aug-17,Tasmania,Managers,19.3,11.2
+Aug-17,Tasmania,Professionals,20.1,27.6
+Aug-17,Tasmania,Technicians and Trades Workers,35.4,6.5
+Aug-17,Tasmania,Community and Personal Service Workers,9.4,21.5
+Aug-17,Tasmania,Clerical and Administrative Workers,7.6,24.5
+Aug-17,Tasmania,Sales Workers,6.9,16.7
+Aug-17,Tasmania,Machinery Operators and Drivers,16.3,1.5
+Aug-17,Tasmania,Labourers,15.7,10.7
+Aug-17,Tasmania,Not employed,0,0
+Aug-17,Northern Territory,Managers,10.3,5.1
+Aug-17,Northern Territory,Professionals,9.7,17.8
+Aug-17,Northern Territory,Technicians and Trades Workers,18,1.3
+Aug-17,Northern Territory,Community and Personal Service Workers,7.2,9.9
+Aug-17,Northern Territory,Clerical and Administrative Workers,4.4,15.8
+Aug-17,Northern Territory,Sales Workers,3.1,6.1
+Aug-17,Northern Territory,Machinery Operators and Drivers,7.7,0.2
+Aug-17,Northern Territory,Labourers,8.5,2.8
+Aug-17,Northern Territory,Not employed,0,0
+Aug-17,Australian Capital Territory,Managers,17.9,11.9
+Aug-17,Australian Capital Territory,Professionals,40.1,40.8
+Aug-17,Australian Capital Territory,Technicians and Trades Workers,17.3,3.8
+Aug-17,Australian Capital Territory,Community and Personal Service Workers,10.7,16.7
+Aug-17,Australian Capital Territory,Clerical and Administrative Workers,9.6,27.1
+Aug-17,Australian Capital Territory,Sales Workers,6.8,9.8
+Aug-17,Australian Capital Territory,Machinery Operators and Drivers,5,0.6
+Aug-17,Australian Capital Territory,Labourers,7.7,3.5
+Aug-17,Australian Capital Territory,Not employed,0,0
+Aug-17,Total,Managers,971.5,580.3
+Aug-17,Total,Professionals,1333.5,1603.7
+Aug-17,Total,Technicians and Trades Workers,1507.3,255
+Aug-17,Total,Community and Personal Service Workers,395.6,927
+Aug-17,Total,Clerical and Administrative Workers,398.8,1214.4
+Aug-17,Total,Sales Workers,443.4,669.9
+Aug-17,Total,Machinery Operators and Drivers,715.8,73
+Aug-17,Total,Labourers,777.9,404.9
+Aug-17,Total,Not employed,0,0
+Aug-18,New South Wales,Managers,336.4,187.9
+Aug-18,New South Wales,Professionals,473,559
+Aug-18,New South Wales,Technicians and Trades Workers,457,70.6
+Aug-18,New South Wales,Community and Personal Service Workers,103.4,279.2
+Aug-18,New South Wales,Clerical and Administrative Workers,143.6,424.6
+Aug-18,New South Wales,Sales Workers,140.2,220.8
+Aug-18,New South Wales,Machinery Operators and Drivers,220.1,23.7
+Aug-18,New South Wales,Labourers,248.5,110.3
+Aug-18,New South Wales,Not employed,0,0
+Aug-18,Victoria,Managers,270.7,162.9
+Aug-18,Victoria,Professionals,373.6,452.8
+Aug-18,Victoria,Technicians and Trades Workers,407.7,66.7
+Aug-18,Victoria,Community and Personal Service Workers,106.6,228.5
+Aug-18,Victoria,Clerical and Administrative Workers,119.7,304.2
+Aug-18,Victoria,Sales Workers,108.1,177.1
+Aug-18,Victoria,Machinery Operators and Drivers,182.9,16.8
+Aug-18,Victoria,Labourers,185.8,106.2
+Aug-18,Victoria,Not employed,0,0
+Aug-18,Queensland,Managers,178.3,98.2
+Aug-18,Queensland,Professionals,225.7,298.5
+Aug-18,Queensland,Technicians and Trades Workers,310.4,48.2
+Aug-18,Queensland,Community and Personal Service Workers,74.1,198.1
+Aug-18,Queensland,Clerical and Administrative Workers,91.6,274.8
+Aug-18,Queensland,Sales Workers,77.2,146.1
+Aug-18,Queensland,Machinery Operators and Drivers,171.8,19.6
+Aug-18,Queensland,Labourers,167.8,87.4
+Aug-18,Queensland,Not employed,0,0
+Aug-18,South Australia,Managers,66.5,38.1
+Aug-18,South Australia,Professionals,77.9,103.4
+Aug-18,South Australia,Technicians and Trades Workers,103.3,19.4
+Aug-18,South Australia,Community and Personal Service Workers,31.1,75.4
+Aug-18,South Australia,Clerical and Administrative Workers,23.3,80.8
+Aug-18,South Australia,Sales Workers,27.8,44.1
+Aug-18,South Australia,Machinery Operators and Drivers,53.5,2.3
+Aug-18,South Australia,Labourers,63.3,36
+Aug-18,South Australia,Not employed,0,0
+Aug-18,Western Australia,Managers,103.2,55.4
+Aug-18,Western Australia,Professionals,133.5,168.1
+Aug-18,Western Australia,Technicians and Trades Workers,194.5,32.9
+Aug-18,Western Australia,Community and Personal Service Workers,35.3,94.6
+Aug-18,Western Australia,Clerical and Administrative Workers,47.6,140.9
+Aug-18,Western Australia,Sales Workers,45.1,64.9
+Aug-18,Western Australia,Machinery Operators and Drivers,97.1,11.3
+Aug-18,Western Australia,Labourers,82.7,48.9
+Aug-18,Western Australia,Not employed,0,0
+Aug-18,Tasmania,Managers,18.5,9.3
+Aug-18,Tasmania,Professionals,23.1,31.5
+Aug-18,Tasmania,Technicians and Trades Workers,36.1,6.4
+Aug-18,Tasmania,Community and Personal Service Workers,8.7,24.4
+Aug-18,Tasmania,Clerical and Administrative Workers,8.6,22.7
+Aug-18,Tasmania,Sales Workers,7.1,14.2
+Aug-18,Tasmania,Machinery Operators and Drivers,13.7,1.7
+Aug-18,Tasmania,Labourers,18.9,12.3
+Aug-18,Tasmania,Not employed,0,0
+Aug-18,Northern Territory,Managers,9.3,7.7
+Aug-18,Northern Territory,Professionals,9.4,13.6
+Aug-18,Northern Territory,Technicians and Trades Workers,20.5,2.7
+Aug-18,Northern Territory,Community and Personal Service Workers,6.4,9
+Aug-18,Northern Territory,Clerical and Administrative Workers,3.8,15
+Aug-18,Northern Territory,Sales Workers,2.6,5
+Aug-18,Northern Territory,Machinery Operators and Drivers,5.8,0.6
+Aug-18,Northern Territory,Labourers,8.8,5.2
+Aug-18,Northern Territory,Not employed,0,0
+Aug-18,Australian Capital Territory,Managers,19.7,15.5
+Aug-18,Australian Capital Territory,Professionals,37.4,36
+Aug-18,Australian Capital Territory,Technicians and Trades Workers,20.7,4.8
+Aug-18,Australian Capital Territory,Community and Personal Service Workers,8.2,14.9
+Aug-18,Australian Capital Territory,Clerical and Administrative Workers,13.4,26.8
+Aug-18,Australian Capital Territory,Sales Workers,5.7,11.4
+Aug-18,Australian Capital Territory,Machinery Operators and Drivers,6.7,0.8
+Aug-18,Australian Capital Territory,Labourers,9.1,4.5
+Aug-18,Australian Capital Territory,Not employed,0,0
+Aug-18,Total,Managers,1001.1,575.2
+Aug-18,Total,Professionals,1351.5,1660.3
+Aug-18,Total,Technicians and Trades Workers,1550.8,250.1
+Aug-18,Total,Community and Personal Service Workers,375.6,923
+Aug-18,Total,Clerical and Administrative Workers,452.8,1290.6
+Aug-18,Total,Sales Workers,412.3,682.2
+Aug-18,Total,Machinery Operators and Drivers,750.3,79.2
+Aug-18,Total,Labourers,788.2,411
+Aug-18,Total,Not employed,0,0
+Aug-19,New South Wales,Managers,310.4,198.4
+Aug-19,New South Wales,Professionals,514.6,583.6
+Aug-19,New South Wales,Technicians and Trades Workers,450.7,92.6
+Aug-19,New South Wales,Community and Personal Service Workers,128.9,275.9
+Aug-19,New South Wales,Clerical and Administrative Workers,174.3,411.7
+Aug-19,New South Wales,Sales Workers,130.2,188.5
+Aug-19,New South Wales,Machinery Operators and Drivers,227.1,30.6
+Aug-19,New South Wales,Labourers,254,118.3
+Aug-19,New South Wales,Not employed,0,0
+Aug-19,Victoria,Managers,264.6,148.4
+Aug-19,Victoria,Professionals,423.8,468.1
+Aug-19,Victoria,Technicians and Trades Workers,380.6,76.1
+Aug-19,Victoria,Community and Personal Service Workers,95.7,269.4
+Aug-19,Victoria,Clerical and Administrative Workers,123.9,301.2
+Aug-19,Victoria,Sales Workers,119.2,180.9
+Aug-19,Victoria,Machinery Operators and Drivers,178.2,25.9
+Aug-19,Victoria,Labourers,198.3,118.5
+Aug-19,Victoria,Not employed,0,0
+Aug-19,Queensland,Managers,183.2,126.9
+Aug-19,Queensland,Professionals,226.6,294.2
+Aug-19,Queensland,Technicians and Trades Workers,313.8,55.6
+Aug-19,Queensland,Community and Personal Service Workers,78.6,224.7
+Aug-19,Queensland,Clerical and Administrative Workers,81.5,259.9
+Aug-19,Queensland,Sales Workers,92.4,142.9
+Aug-19,Queensland,Machinery Operators and Drivers,163.4,22.3
+Aug-19,Queensland,Labourers,170.3,88.4
+Aug-19,Queensland,Not employed,0,0
+Aug-19,South Australia,Managers,58.5,35
+Aug-19,South Australia,Professionals,75,101.3
+Aug-19,South Australia,Technicians and Trades Workers,109.5,21
+Aug-19,South Australia,Community and Personal Service Workers,25,80.8
+Aug-19,South Australia,Clerical and Administrative Workers,31.4,82.5
+Aug-19,South Australia,Sales Workers,29.2,45.4
+Aug-19,South Australia,Machinery Operators and Drivers,53.5,4
+Aug-19,South Australia,Labourers,63,42.9
+Aug-19,South Australia,Not employed,0,0
+Aug-19,Western Australia,Managers,84,54.5
+Aug-19,Western Australia,Professionals,153.3,182.3
+Aug-19,Western Australia,Technicians and Trades Workers,184.3,33.9
+Aug-19,Western Australia,Community and Personal Service Workers,41.9,106.3
+Aug-19,Western Australia,Clerical and Administrative Workers,47,136.2
+Aug-19,Western Australia,Sales Workers,41.7,68.2
+Aug-19,Western Australia,Machinery Operators and Drivers,110.9,12.2
+Aug-19,Western Australia,Labourers,84.9,40.4
+Aug-19,Western Australia,Not employed,0,0
+Aug-19,Tasmania,Managers,18.7,9.8
+Aug-19,Tasmania,Professionals,26.3,32.9
+Aug-19,Tasmania,Technicians and Trades Workers,30.4,5.9
+Aug-19,Tasmania,Community and Personal Service Workers,11.3,27.4
+Aug-19,Tasmania,Clerical and Administrative Workers,8.2,21.2
+Aug-19,Tasmania,Sales Workers,11,14.3
+Aug-19,Tasmania,Machinery Operators and Drivers,14.8,0.9
+Aug-19,Tasmania,Labourers,16.9,12.4
+Aug-19,Tasmania,Not employed,0,0
+Aug-19,Northern Territory,Managers,9.8,6.9
+Aug-19,Northern Territory,Professionals,10.9,17.2
+Aug-19,Northern Territory,Technicians and Trades Workers,14.2,2.6
+Aug-19,Northern Territory,Community and Personal Service Workers,8.5,9.1
+Aug-19,Northern Territory,Clerical and Administrative Workers,5.2,12.4
+Aug-19,Northern Territory,Sales Workers,3.9,4.8
+Aug-19,Northern Territory,Machinery Operators and Drivers,5.5,0.8
+Aug-19,Northern Territory,Labourers,5.7,4.8
+Aug-19,Northern Territory,Not employed,0,0
+Aug-19,Australian Capital Territory,Managers,12.1,9.3
+Aug-19,Australian Capital Territory,Professionals,42.6,43.3
+Aug-19,Australian Capital Territory,Technicians and Trades Workers,23.7,4
+Aug-19,Australian Capital Territory,Community and Personal Service Workers,9,12.4
+Aug-19,Australian Capital Territory,Clerical and Administrative Workers,15.2,36.4
+Aug-19,Australian Capital Territory,Sales Workers,6.5,10.1
+Aug-19,Australian Capital Territory,Machinery Operators and Drivers,6.2,0
+Aug-19,Australian Capital Territory,Labourers,10.9,4.3
+Aug-19,Australian Capital Territory,Not employed,0,0
+Aug-19,Total,Managers,940.2,591.5
+Aug-19,Total,Professionals,1472,1723
+Aug-19,Total,Technicians and Trades Workers,1514.7,289.2
+Aug-19,Total,Community and Personal Service Workers,397.4,1004
+Aug-19,Total,Clerical and Administrative Workers,485.5,1259.1
+Aug-19,Total,Sales Workers,431.8,653.9
+Aug-19,Total,Machinery Operators and Drivers,757,98.3
+Aug-19,Total,Labourers,805.5,433.9
+Aug-19,Total,Not employed,0,0
+Aug-20,New South Wales,Managers,332.4,216.5
+Aug-20,New South Wales,Professionals,484.7,568.7
+Aug-20,New South Wales,Technicians and Trades Workers,419.2,71.9
+Aug-20,New South Wales,Community and Personal Service Workers,133.4,279.2
+Aug-20,New South Wales,Clerical and Administrative Workers,149.6,416.6
+Aug-20,New South Wales,Sales Workers,120.5,187
+Aug-20,New South Wales,Machinery Operators and Drivers,207.3,26
+Aug-20,New South Wales,Labourers,244.1,100.3
+Aug-20,New South Wales,Not employed,0,0
+Aug-20,Victoria,Managers,285.7,157.7
+Aug-20,Victoria,Professionals,413.9,486.8
+Aug-20,Victoria,Technicians and Trades Workers,379,71.2
+Aug-20,Victoria,Community and Personal Service Workers,74,199.4
+Aug-20,Victoria,Clerical and Administrative Workers,132.2,299.4
+Aug-20,Victoria,Sales Workers,116.4,147.3
+Aug-20,Victoria,Machinery Operators and Drivers,158.7,26.5
+Aug-20,Victoria,Labourers,166.6,99.4
+Aug-20,Victoria,Not employed,0,0
+Aug-20,Queensland,Managers,179.5,120
+Aug-20,Queensland,Professionals,245.3,355.9
+Aug-20,Queensland,Technicians and Trades Workers,292.9,52.6
+Aug-20,Queensland,Community and Personal Service Workers,76.5,192
+Aug-20,Queensland,Clerical and Administrative Workers,82.9,272.2
+Aug-20,Queensland,Sales Workers,92,113.2
+Aug-20,Queensland,Machinery Operators and Drivers,143.6,18
+Aug-20,Queensland,Labourers,176.7,95.4
+Aug-20,Queensland,Not employed,0,0
+Aug-20,South Australia,Managers,76.4,44.2
+Aug-20,South Australia,Professionals,74.2,103.3
+Aug-20,South Australia,Technicians and Trades Workers,92.2,16.1
+Aug-20,South Australia,Community and Personal Service Workers,33.1,72.1
+Aug-20,South Australia,Clerical and Administrative Workers,29.8,83.2
+Aug-20,South Australia,Sales Workers,33.2,42.7
+Aug-20,South Australia,Machinery Operators and Drivers,51.5,4.8
+Aug-20,South Australia,Labourers,53,35.2
+Aug-20,South Australia,Not employed,0,0
+Aug-20,Western Australia,Managers,106.8,57
+Aug-20,Western Australia,Professionals,154.5,189.9
+Aug-20,Western Australia,Technicians and Trades Workers,186.3,35.7
+Aug-20,Western Australia,Community and Personal Service Workers,37,92.5
+Aug-20,Western Australia,Clerical and Administrative Workers,44.7,132.3
+Aug-20,Western Australia,Sales Workers,36.7,60.7
+Aug-20,Western Australia,Machinery Operators and Drivers,94,15.5
+Aug-20,Western Australia,Labourers,79.8,52.1
+Aug-20,Western Australia,Not employed,0,0
+Aug-20,Tasmania,Managers,24.1,11.1
+Aug-20,Tasmania,Professionals,28.4,34.1
+Aug-20,Tasmania,Technicians and Trades Workers,27.2,7
+Aug-20,Tasmania,Community and Personal Service Workers,10.2,23.9
+Aug-20,Tasmania,Clerical and Administrative Workers,7.4,22.8
+Aug-20,Tasmania,Sales Workers,9.3,12.5
+Aug-20,Tasmania,Machinery Operators and Drivers,14.5,1.3
+Aug-20,Tasmania,Labourers,18.3,13.4
+Aug-20,Tasmania,Not employed,0,0
+Aug-20,Northern Territory,Managers,7.5,5.3
+Aug-20,Northern Territory,Professionals,12.7,17.5
+Aug-20,Northern Territory,Technicians and Trades Workers,13.7,1.8
+Aug-20,Northern Territory,Community and Personal Service Workers,7.6,10.1
+Aug-20,Northern Territory,Clerical and Administrative Workers,5,13.5
+Aug-20,Northern Territory,Sales Workers,5.2,4.1
+Aug-20,Northern Territory,Machinery Operators and Drivers,6.7,0.5
+Aug-20,Northern Territory,Labourers,4.4,3.4
+Aug-20,Northern Territory,Not employed,0,0
+Aug-20,Australian Capital Territory,Managers,19,13.4
+Aug-20,Australian Capital Territory,Professionals,47.4,49.2
+Aug-20,Australian Capital Territory,Technicians and Trades Workers,20.6,4
+Aug-20,Australian Capital Territory,Community and Personal Service Workers,8.4,17.1
+Aug-20,Australian Capital Territory,Clerical and Administrative Workers,12.7,29.5
+Aug-20,Australian Capital Territory,Sales Workers,3.6,6.5
+Aug-20,Australian Capital Territory,Machinery Operators and Drivers,6.1,0
+Aug-20,Australian Capital Territory,Labourers,9.6,4
+Aug-20,Australian Capital Territory,Not employed,0,0
+Aug-20,Total,Managers,1033.5,621.8
+Aug-20,Total,Professionals,1458.1,1802.2
+Aug-20,Total,Technicians and Trades Workers,1432.9,261
+Aug-20,Total,Community and Personal Service Workers,380.6,885
+Aug-20,Total,Clerical and Administrative Workers,464.9,1269.6
+Aug-20,Total,Sales Workers,420.1,572.4
+Aug-20,Total,Machinery Operators and Drivers,683.1,90.2
+Aug-20,Total,Labourers,753.9,403.9
+Aug-20,Total,Not employed,0,0
+Aug-21,New South Wales,Managers,339.7,213.4
+Aug-21,New South Wales,Professionals,516.8,619
+Aug-21,New South Wales,Technicians and Trades Workers,383,65.5
+Aug-21,New South Wales,Community and Personal Service Workers,128.7,225.1
+Aug-21,New South Wales,Clerical and Administrative Workers,155.2,400.9
+Aug-21,New South Wales,Sales Workers,132.8,157
+Aug-21,New South Wales,Machinery Operators and Drivers,209.1,28
+Aug-21,New South Wales,Labourers,192.6,107
+Aug-21,New South Wales,Not employed,0,0
+Aug-21,Victoria,Managers,278.4,168.8
+Aug-21,Victoria,Professionals,409.2,513.3
+Aug-21,Victoria,Technicians and Trades Workers,381.9,77.4
+Aug-21,Victoria,Community and Personal Service Workers,92.3,250.4
+Aug-21,Victoria,Clerical and Administrative Workers,133.9,307.3
+Aug-21,Victoria,Sales Workers,132.4,136.7
+Aug-21,Victoria,Machinery Operators and Drivers,171.9,26.4
+Aug-21,Victoria,Labourers,199.4,112.1
+Aug-21,Victoria,Not employed,0,0
+Aug-21,Queensland,Managers,199.1,132.3
+Aug-21,Queensland,Professionals,254.6,329.5
+Aug-21,Queensland,Technicians and Trades Workers,332.1,66.2
+Aug-21,Queensland,Community and Personal Service Workers,86.5,209.8
+Aug-21,Queensland,Clerical and Administrative Workers,78.7,272.1
+Aug-21,Queensland,Sales Workers,99.2,137.7
+Aug-21,Queensland,Machinery Operators and Drivers,176.8,19.3
+Aug-21,Queensland,Labourers,158.1,95.2
+Aug-21,Queensland,Not employed,0,0
+Aug-21,South Australia,Managers,71.2,39.9
+Aug-21,South Australia,Professionals,94,117.4
+Aug-21,South Australia,Technicians and Trades Workers,100.1,21
+Aug-21,South Australia,Community and Personal Service Workers,35.3,80.3
+Aug-21,South Australia,Clerical and Administrative Workers,29.2,87.4
+Aug-21,South Australia,Sales Workers,26.1,42.8
+Aug-21,South Australia,Machinery Operators and Drivers,50.5,5
+Aug-21,South Australia,Labourers,61.3,29.3
+Aug-21,South Australia,Not employed,0,0
+Aug-21,Western Australia,Managers,106.6,56
+Aug-21,Western Australia,Professionals,140.8,177.7
+Aug-21,Western Australia,Technicians and Trades Workers,202.8,40.7
+Aug-21,Western Australia,Community and Personal Service Workers,46.6,123.4
+Aug-21,Western Australia,Clerical and Administrative Workers,48.8,137.7
+Aug-21,Western Australia,Sales Workers,43.6,78.7
+Aug-21,Western Australia,Machinery Operators and Drivers,98.7,16
+Aug-21,Western Australia,Labourers,91,48.3
+Aug-21,Western Australia,Not employed,0,0
+Aug-21,Tasmania,Managers,21.5,11
+Aug-21,Tasmania,Professionals,26.6,34.7
+Aug-21,Tasmania,Technicians and Trades Workers,36.1,7
+Aug-21,Tasmania,Community and Personal Service Workers,10.7,26
+Aug-21,Tasmania,Clerical and Administrative Workers,7.1,23.9
+Aug-21,Tasmania,Sales Workers,8.8,16
+Aug-21,Tasmania,Machinery Operators and Drivers,15.6,0.4
+Aug-21,Tasmania,Labourers,21.6,11
+Aug-21,Tasmania,Not employed,0,0
+Aug-21,Northern Territory,Managers,7,4.7
+Aug-21,Northern Territory,Professionals,11.9,19.1
+Aug-21,Northern Territory,Technicians and Trades Workers,13.9,2.3
+Aug-21,Northern Territory,Community and Personal Service Workers,8,10
+Aug-21,Northern Territory,Clerical and Administrative Workers,4.6,12.3
+Aug-21,Northern Territory,Sales Workers,4.5,4.1
+Aug-21,Northern Territory,Machinery Operators and Drivers,5.4,0.6
+Aug-21,Northern Territory,Labourers,6.8,3.6
+Aug-21,Northern Territory,Not employed,0,0
+Aug-21,Australian Capital Territory,Managers,17.9,14.2
+Aug-21,Australian Capital Territory,Professionals,47.9,44.1
+Aug-21,Australian Capital Territory,Technicians and Trades Workers,18,5.2
+Aug-21,Australian Capital Territory,Community and Personal Service Workers,10.3,14.3
+Aug-21,Australian Capital Territory,Clerical and Administrative Workers,11.2,30.5
+Aug-21,Australian Capital Territory,Sales Workers,6,9.4
+Aug-21,Australian Capital Territory,Machinery Operators and Drivers,7,0
+Aug-21,Australian Capital Territory,Labourers,8.1,3.7
+Aug-21,Australian Capital Territory,Not employed,0,0
+Aug-21,Total,Managers,1043.8,639.9
+Aug-21,Total,Professionals,1501.2,1855.6
+Aug-21,Total,Technicians and Trades Workers,1472.7,287.8
+Aug-21,Total,Community and Personal Service Workers,420,943.3
+Aug-21,Total,Clerical and Administrative Workers,465.8,1276.2
+Aug-21,Total,Sales Workers,451.8,582.5
+Aug-21,Total,Machinery Operators and Drivers,732,93.9
+Aug-21,Total,Labourers,739.2,407.1
+Aug-21,Total,Not employed,0,0
+Aug-22,New South Wales,Managers,373.8,263.1
+Aug-22,New South Wales,Professionals,501.6,615.9
+Aug-22,New South Wales,Technicians and Trades Workers,457.4,84.8
+Aug-22,New South Wales,Community and Personal Service Workers,145.3,293.6
+Aug-22,New South Wales,Clerical and Administrative Workers,151.3,394
+Aug-22,New South Wales,Sales Workers,143.6,220
+Aug-22,New South Wales,Machinery Operators and Drivers,235.6,36.3
+Aug-22,New South Wales,Labourers,229.6,113.4
+Aug-22,New South Wales,Not employed,0,0
+Aug-22,Victoria,Managers,313,195.2
+Aug-22,Victoria,Professionals,434.1,539.9
+Aug-22,Victoria,Technicians and Trades Workers,387.6,71.7
+Aug-22,Victoria,Community and Personal Service Workers,106.8,248.9
+Aug-22,Victoria,Clerical and Administrative Workers,120.6,320.9
+Aug-22,Victoria,Sales Workers,107.6,143.1
+Aug-22,Victoria,Machinery Operators and Drivers,180.1,39.2
+Aug-22,Victoria,Labourers,202.3,98.5
+Aug-22,Victoria,Not employed,0,0
+Aug-22,Queensland,Managers,197.6,140.6
+Aug-22,Queensland,Professionals,269.1,373.4
+Aug-22,Queensland,Technicians and Trades Workers,335.3,63.7
+Aug-22,Queensland,Community and Personal Service Workers,104.8,239.2
+Aug-22,Queensland,Clerical and Administrative Workers,86.2,262.4
+Aug-22,Queensland,Sales Workers,97.9,143.7
+Aug-22,Queensland,Machinery Operators and Drivers,172.5,26.9
+Aug-22,Queensland,Labourers,170.7,95.8
+Aug-22,Queensland,Not employed,0,0
+Aug-22,South Australia,Managers,79.7,40.2
+Aug-22,South Australia,Professionals,86.8,124.6
+Aug-22,South Australia,Technicians and Trades Workers,116.4,23.6
+Aug-22,South Australia,Community and Personal Service Workers,30.3,80.2
+Aug-22,South Australia,Clerical and Administrative Workers,27.4,86.1
+Aug-22,South Australia,Sales Workers,22.3,40.5
+Aug-22,South Australia,Machinery Operators and Drivers,54.7,5.4
+Aug-22,South Australia,Labourers,58.2,36.5
+Aug-22,South Australia,Not employed,0,0
+Aug-22,Western Australia,Managers,119,71.7
+Aug-22,Western Australia,Professionals,161.6,182.6
+Aug-22,Western Australia,Technicians and Trades Workers,199.8,41.1
+Aug-22,Western Australia,Community and Personal Service Workers,44.9,109.5
+Aug-22,Western Australia,Clerical and Administrative Workers,48.5,157.3
+Aug-22,Western Australia,Sales Workers,44.4,71.7
+Aug-22,Western Australia,Machinery Operators and Drivers,116.7,15.5
+Aug-22,Western Australia,Labourers,80,52.8
+Aug-22,Western Australia,Not employed,0,0
+Aug-22,Tasmania,Managers,25.7,12.6
+Aug-22,Tasmania,Professionals,26.7,35.2
+Aug-22,Tasmania,Technicians and Trades Workers,34.7,8.5
+Aug-22,Tasmania,Community and Personal Service Workers,9.8,25.2
+Aug-22,Tasmania,Clerical and Administrative Workers,6.6,27.2
+Aug-22,Tasmania,Sales Workers,8.7,14.1
+Aug-22,Tasmania,Machinery Operators and Drivers,15.4,1.8
+Aug-22,Tasmania,Labourers,19.6,13.1
+Aug-22,Tasmania,Not employed,0,0
+Aug-22,Northern Territory,Managers,9.6,8.7
+Aug-22,Northern Territory,Professionals,12.1,16.3
+Aug-22,Northern Territory,Technicians and Trades Workers,16.6,2.2
+Aug-22,Northern Territory,Community and Personal Service Workers,6.9,9.3
+Aug-22,Northern Territory,Clerical and Administrative Workers,5,13.2
+Aug-22,Northern Territory,Sales Workers,2.8,5.7
+Aug-22,Northern Territory,Machinery Operators and Drivers,5.4,0.6
+Aug-22,Northern Territory,Labourers,7.2,2.5
+Aug-22,Northern Territory,Not employed,0,0
+Aug-22,Australian Capital Territory,Managers,18.1,18.7
+Aug-22,Australian Capital Territory,Professionals,48.4,42.8
+Aug-22,Australian Capital Territory,Technicians and Trades Workers,22.1,3.7
+Aug-22,Australian Capital Territory,Community and Personal Service Workers,7.9,15.7
+Aug-22,Australian Capital Territory,Clerical and Administrative Workers,13.9,29.4
+Aug-22,Australian Capital Territory,Sales Workers,6.6,10.1
+Aug-22,Australian Capital Territory,Machinery Operators and Drivers,5,0.7
+Aug-22,Australian Capital Territory,Labourers,9.5,3.6
+Aug-22,Australian Capital Territory,Not employed,0,0
+Aug-22,Total,Managers,1138.3,749.2
+Aug-22,Total,Professionals,1540.9,1929.4
+Aug-22,Total,Technicians and Trades Workers,1567.6,303.4
+Aug-22,Total,Community and Personal Service Workers,454.1,1022.4
+Aug-22,Total,Clerical and Administrative Workers,457.8,1291.7
+Aug-22,Total,Sales Workers,436.2,652.3
+Aug-22,Total,Machinery Operators and Drivers,780.3,123.6
+Aug-22,Total,Labourers,776.5,416.3
+Aug-22,Total,Not employed,0,0
+Aug-23,New South Wales,Managers,381.6,257.4
+Aug-23,New South Wales,Professionals,509.1,659.6
+Aug-23,New South Wales,Technicians and Trades Workers,437.1,82.3
+Aug-23,New South Wales,Community and Personal Service Workers,173.3,303.3
+Aug-23,New South Wales,Clerical and Administrative Workers,180.9,416.2
+Aug-23,New South Wales,Sales Workers,157.4,211
+Aug-23,New South Wales,Machinery Operators and Drivers,220.7,30.5
+Aug-23,New South Wales,Labourers,243.8,104.8
+Aug-23,New South Wales,Not employed,0,0
+Aug-23,Victoria,Managers,284.7,197.9
+Aug-23,Victoria,Professionals,449.5,539.1
+Aug-23,Victoria,Technicians and Trades Workers,405.7,83.3
+Aug-23,Victoria,Community and Personal Service Workers,124.1,296.4
+Aug-23,Victoria,Clerical and Administrative Workers,123.4,342.8
+Aug-23,Victoria,Sales Workers,124.1,165.1
+Aug-23,Victoria,Machinery Operators and Drivers,205.9,32
+Aug-23,Victoria,Labourers,187.8,102.8
+Aug-23,Victoria,Not employed,0,0
+Aug-23,Queensland,Managers,191.3,135.4
+Aug-23,Queensland,Professionals,292.8,380.3
+Aug-23,Queensland,Technicians and Trades Workers,340.8,69.7
+Aug-23,Queensland,Community and Personal Service Workers,104.7,244.8
+Aug-23,Queensland,Clerical and Administrative Workers,88.4,282.3
+Aug-23,Queensland,Sales Workers,96.5,136.6
+Aug-23,Queensland,Machinery Operators and Drivers,188.1,23.6
+Aug-23,Queensland,Labourers,169.6,98.3
+Aug-23,Queensland,Not employed,0,0
+Aug-23,South Australia,Managers,80.8,46.5
+Aug-23,South Australia,Professionals,93.9,128.5
+Aug-23,South Australia,Technicians and Trades Workers,104.1,23.6
+Aug-23,South Australia,Community and Personal Service Workers,36.1,80.2
+Aug-23,South Australia,Clerical and Administrative Workers,29.5,89.4
+Aug-23,South Australia,Sales Workers,29.6,47.2
+Aug-23,South Australia,Machinery Operators and Drivers,59.2,6.8
+Aug-23,South Australia,Labourers,61.4,31.2
+Aug-23,South Australia,Not employed,0,0
+Aug-23,Western Australia,Managers,108.2,67.6
+Aug-23,Western Australia,Professionals,157.6,195.9
+Aug-23,Western Australia,Technicians and Trades Workers,226.7,50
+Aug-23,Western Australia,Community and Personal Service Workers,45.3,119.1
+Aug-23,Western Australia,Clerical and Administrative Workers,42.1,148.6
+Aug-23,Western Australia,Sales Workers,44.6,72.9
+Aug-23,Western Australia,Machinery Operators and Drivers,116.6,24.3
+Aug-23,Western Australia,Labourers,91.3,51.1
+Aug-23,Western Australia,Not employed,0,0
+Aug-23,Tasmania,Managers,20.5,15
+Aug-23,Tasmania,Professionals,29.6,38.6
+Aug-23,Tasmania,Technicians and Trades Workers,32.9,7.6
+Aug-23,Tasmania,Community and Personal Service Workers,12.2,25.3
+Aug-23,Tasmania,Clerical and Administrative Workers,9,23.4
+Aug-23,Tasmania,Sales Workers,7.2,16.8
+Aug-23,Tasmania,Machinery Operators and Drivers,16,1.6
+Aug-23,Tasmania,Labourers,20.7,10.9
+Aug-23,Tasmania,Not employed,0,0
+Aug-23,Northern Territory,Managers,9.8,6.8
+Aug-23,Northern Territory,Professionals,13,18.5
+Aug-23,Northern Territory,Technicians and Trades Workers,17.2,2.6
+Aug-23,Northern Territory,Community and Personal Service Workers,7.1,10.3
+Aug-23,Northern Territory,Clerical and Administrative Workers,3.6,12.3
+Aug-23,Northern Territory,Sales Workers,2.6,5.3
+Aug-23,Northern Territory,Machinery Operators and Drivers,6.8,0.3
+Aug-23,Northern Territory,Labourers,5.6,3.1
+Aug-23,Northern Territory,Not employed,0,0
+Aug-23,Australian Capital Territory,Managers,16.5,17.2
+Aug-23,Australian Capital Territory,Professionals,48.1,49.1
+Aug-23,Australian Capital Territory,Technicians and Trades Workers,21.5,7.6
+Aug-23,Australian Capital Territory,Community and Personal Service Workers,10.9,14.9
+Aug-23,Australian Capital Territory,Clerical and Administrative Workers,17,30.2
+Aug-23,Australian Capital Territory,Sales Workers,9.6,7.6
+Aug-23,Australian Capital Territory,Machinery Operators and Drivers,4.9,0
+Aug-23,Australian Capital Territory,Labourers,7.7,2.4
+Aug-23,Australian Capital Territory,Not employed,0,0
+Aug-23,Total,Managers,1087.8,742.2
+Aug-23,Total,Professionals,1596,2002.8
+Aug-23,Total,Technicians and Trades Workers,1589.1,323
+Aug-23,Total,Community and Personal Service Workers,507.9,1095.4
+Aug-23,Total,Clerical and Administrative Workers,493.4,1343.3
+Aug-23,Total,Sales Workers,472.8,657.8
+Aug-23,Total,Machinery Operators and Drivers,814.8,118.5
+Aug-23,Total,Labourers,795.1,403.9
+Aug-23,Total,Not employed,0,0

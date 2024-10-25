@@ -1,0 +1,1601 @@
+Reference year,Region of usual residence (SA4),Sex,Hours paid for in main job (ranges),Weighted median of Weekly earnings in main job (for means and medians) (%)
+Aug-14,New South Wales,Sex,1-9 hours,160
+Aug-14,New South Wales,Sex,10-19 hours,374.1
+Aug-14,New South Wales,Sex,20-29 hours,600
+Aug-14,New South Wales,Sex,30-34 hours,1000
+Aug-14,New South Wales,Sex,35-39 hours,1264.2
+Aug-14,New South Wales,Sex,40-44 hours,1200
+Aug-14,New South Wales,Sex,45-49 hours,1495
+Aug-14,New South Wales,Sex,50-59 hours,1557.2
+Aug-14,New South Wales,Sex,60-69 hours,1612.4
+Aug-14,New South Wales,Sex,70 hours and over,1803.9
+Aug-14,New South Wales,Female,1-9 hours,147.9
+Aug-14,New South Wales,Female,10-19 hours,380
+Aug-14,New South Wales,Female,20-29 hours,649.4
+Aug-14,New South Wales,Female,30-34 hours,850
+Aug-14,New South Wales,Female,35-39 hours,1085
+Aug-14,New South Wales,Female,40-44 hours,1105.9
+Aug-14,New South Wales,Female,45-49 hours,1630.1
+Aug-14,New South Wales,Female,50-59 hours,1405.7
+Aug-14,New South Wales,Female,60-69 hours,0
+Aug-14,New South Wales,Female,70 hours and over,0
+Aug-14,Victoria,Male,1-9 hours,125.2
+Aug-14,Victoria,Male,10-19 hours,350.7
+Aug-14,Victoria,Male,20-29 hours,585.7
+Aug-14,Victoria,Male,30-34 hours,1005.8
+Aug-14,Victoria,Male,35-39 hours,1200
+Aug-14,Victoria,Male,40-44 hours,1200
+Aug-14,Victoria,Male,45-49 hours,1495.2
+Aug-14,Victoria,Male,50-59 hours,1500
+Aug-14,Victoria,Male,60-69 hours,1350.4
+Aug-14,Victoria,Male,70 hours and over,2000
+Aug-14,Victoria,Female,1-9 hours,128.3
+Aug-14,Victoria,Female,10-19 hours,385
+Aug-14,Victoria,Female,20-29 hours,600
+Aug-14,Victoria,Female,30-34 hours,932.3
+Aug-14,Victoria,Female,35-39 hours,1041.1
+Aug-14,Victoria,Female,40-44 hours,1052
+Aug-14,Victoria,Female,45-49 hours,1432.8
+Aug-14,Victoria,Female,50-59 hours,1365.1
+Aug-14,Victoria,Female,60-69 hours,0
+Aug-14,Victoria,Female,70 hours and over,0
+Aug-14,Queensland,Male,1-9 hours,104.9
+Aug-14,Queensland,Male,10-19 hours,360.8
+Aug-14,Queensland,Male,20-29 hours,626.6
+Aug-14,Queensland,Male,30-34 hours,974.1
+Aug-14,Queensland,Male,35-39 hours,1200
+Aug-14,Queensland,Male,40-44 hours,1166.1
+Aug-14,Queensland,Male,45-49 hours,1527
+Aug-14,Queensland,Male,50-59 hours,1564.5
+Aug-14,Queensland,Male,60-69 hours,1500
+Aug-14,Queensland,Male,70 hours and over,2400.8
+Aug-14,Queensland,Female,1-9 hours,121
+Aug-14,Queensland,Female,10-19 hours,386.6
+Aug-14,Queensland,Female,20-29 hours,610.7
+Aug-14,Queensland,Female,30-34 hours,800
+Aug-14,Queensland,Female,35-39 hours,1000
+Aug-14,Queensland,Female,40-44 hours,1080
+Aug-14,Queensland,Female,45-49 hours,1275
+Aug-14,Queensland,Female,50-59 hours,1400
+Aug-14,Queensland,Female,60-69 hours,0
+Aug-14,Queensland,Female,70 hours and over,0
+Aug-14,South Australia,Male,1-9 hours,105.6
+Aug-14,South Australia,Male,10-19 hours,368.7
+Aug-14,South Australia,Male,20-29 hours,665.4
+Aug-14,South Australia,Male,30-34 hours,919.2
+Aug-14,South Australia,Male,35-39 hours,1066.4
+Aug-14,South Australia,Male,40-44 hours,1150
+Aug-14,South Australia,Male,45-49 hours,1300
+Aug-14,South Australia,Male,50-59 hours,1400
+Aug-14,South Australia,Male,60-69 hours,1323
+Aug-14,South Australia,Male,70 hours and over,1505.5
+Aug-14,South Australia,Female,1-9 hours,132.6
+Aug-14,South Australia,Female,10-19 hours,359.2
+Aug-14,South Australia,Female,20-29 hours,600
+Aug-14,South Australia,Female,30-34 hours,751
+Aug-14,South Australia,Female,35-39 hours,1000
+Aug-14,South Australia,Female,40-44 hours,1083.6
+Aug-14,South Australia,Female,45-49 hours,0
+Aug-14,South Australia,Female,50-59 hours,0
+Aug-14,South Australia,Female,60-69 hours,0
+Aug-14,South Australia,Female,70 hours and over,0
+Aug-14,Western Australia,Male,1-9 hours,124.9
+Aug-14,Western Australia,Male,10-19 hours,435.4
+Aug-14,Western Australia,Male,20-29 hours,654.8
+Aug-14,Western Australia,Male,30-34 hours,1250
+Aug-14,Western Australia,Male,35-39 hours,1342
+Aug-14,Western Australia,Male,40-44 hours,1366.2
+Aug-14,Western Australia,Male,45-49 hours,1889.8
+Aug-14,Western Australia,Male,50-59 hours,2000
+Aug-14,Western Australia,Male,60-69 hours,2000
+Aug-14,Western Australia,Male,70 hours and over,2976.8
+Aug-14,Western Australia,Female,1-9 hours,125.7
+Aug-14,Western Australia,Female,10-19 hours,424.3
+Aug-14,Western Australia,Female,20-29 hours,650
+Aug-14,Western Australia,Female,30-34 hours,950
+Aug-14,Western Australia,Female,35-39 hours,1100
+Aug-14,Western Australia,Female,40-44 hours,1250
+Aug-14,Western Australia,Female,45-49 hours,1432
+Aug-14,Western Australia,Female,50-59 hours,1523.7
+Aug-14,Western Australia,Female,60-69 hours,0
+Aug-14,Western Australia,Female,70 hours and over,0
+Aug-14,Tasmania,Male,1-9 hours,104.4
+Aug-14,Tasmania,Male,10-19 hours,375.3
+Aug-14,Tasmania,Male,20-29 hours,666.7
+Aug-14,Tasmania,Male,30-34 hours,1000
+Aug-14,Tasmania,Male,35-39 hours,1037
+Aug-14,Tasmania,Male,40-44 hours,1040.3
+Aug-14,Tasmania,Male,45-49 hours,1241.3
+Aug-14,Tasmania,Male,50-59 hours,1432.9
+Aug-14,Tasmania,Male,60-69 hours,0
+Aug-14,Tasmania,Male,70 hours and over,0
+Aug-14,Tasmania,Female,1-9 hours,125
+Aug-14,Tasmania,Female,10-19 hours,400
+Aug-14,Tasmania,Female,20-29 hours,580
+Aug-14,Tasmania,Female,30-34 hours,799.3
+Aug-14,Tasmania,Female,35-39 hours,1000
+Aug-14,Tasmania,Female,40-44 hours,1000
+Aug-14,Tasmania,Female,45-49 hours,0
+Aug-14,Tasmania,Female,50-59 hours,0
+Aug-14,Tasmania,Female,60-69 hours,0
+Aug-14,Tasmania,Female,70 hours and over,0
+Aug-14,Northern Territory,Male,1-9 hours,0
+Aug-14,Northern Territory,Male,10-19 hours,0
+Aug-14,Northern Territory,Male,20-29 hours,637.6
+Aug-14,Northern Territory,Male,30-34 hours,1163.3
+Aug-14,Northern Territory,Male,35-39 hours,1450
+Aug-14,Northern Territory,Male,40-44 hours,1500
+Aug-14,Northern Territory,Male,45-49 hours,1857.3
+Aug-14,Northern Territory,Male,50-59 hours,1985.6
+Aug-14,Northern Territory,Male,60-69 hours,2526.8
+Aug-14,Northern Territory,Male,70 hours and over,3000
+Aug-14,Northern Territory,Female,1-9 hours,114
+Aug-14,Northern Territory,Female,10-19 hours,400
+Aug-14,Northern Territory,Female,20-29 hours,691.5
+Aug-14,Northern Territory,Female,30-34 hours,971
+Aug-14,Northern Territory,Female,35-39 hours,1300
+Aug-14,Northern Territory,Female,40-44 hours,1106.7
+Aug-14,Northern Territory,Female,45-49 hours,0
+Aug-14,Northern Territory,Female,50-59 hours,1751.6
+Aug-14,Northern Territory,Female,60-69 hours,0
+Aug-14,Northern Territory,Female,70 hours and over,0
+Aug-14,Australian Capital Territory,Male,1-9 hours,0
+Aug-14,Australian Capital Territory,Male,10-19 hours,561.7
+Aug-14,Australian Capital Territory,Male,20-29 hours,750
+Aug-14,Australian Capital Territory,Male,30-34 hours,869.1
+Aug-14,Australian Capital Territory,Male,35-39 hours,1603
+Aug-14,Australian Capital Territory,Male,40-44 hours,1280.9
+Aug-14,Australian Capital Territory,Male,45-49 hours,2383.8
+Aug-14,Australian Capital Territory,Male,50-59 hours,1357.3
+Aug-14,Australian Capital Territory,Male,60-69 hours,0
+Aug-14,Australian Capital Territory,Male,70 hours and over,0
+Aug-14,Australian Capital Territory,Female,1-9 hours,135
+Aug-14,Australian Capital Territory,Female,10-19 hours,610.2
+Aug-14,Australian Capital Territory,Female,20-29 hours,900
+Aug-14,Australian Capital Territory,Female,30-34 hours,1150.4
+Aug-14,Australian Capital Territory,Female,35-39 hours,1430.3
+Aug-14,Australian Capital Territory,Female,40-44 hours,1267.4
+Aug-14,Australian Capital Territory,Female,45-49 hours,0
+Aug-14,Australian Capital Territory,Female,50-59 hours,0
+Aug-14,Australian Capital Territory,Female,60-69 hours,0
+Aug-14,Australian Capital Territory,Female,70 hours and over,0
+Aug-15,New South Wales,Male,1-9 hours,132.8
+Aug-15,New South Wales,Male,10-19 hours,359.8
+Aug-15,New South Wales,Male,20-29 hours,600
+Aug-15,New South Wales,Male,30-34 hours,1049.2
+Aug-15,New South Wales,Male,35-39 hours,1299.7
+Aug-15,New South Wales,Male,40-44 hours,1250
+Aug-15,New South Wales,Male,45-49 hours,1429.6
+Aug-15,New South Wales,Male,50-59 hours,1500
+Aug-15,New South Wales,Male,60-69 hours,1728.9
+Aug-15,New South Wales,Male,70 hours and over,1718.2
+Aug-15,New South Wales,Female,1-9 hours,125.8
+Aug-15,New South Wales,Female,10-19 hours,384.7
+Aug-15,New South Wales,Female,20-29 hours,629.8
+Aug-15,New South Wales,Female,30-34 hours,900
+Aug-15,New South Wales,Female,35-39 hours,1050
+Aug-15,New South Wales,Female,40-44 hours,1200
+Aug-15,New South Wales,Female,45-49 hours,1293.6
+Aug-15,New South Wales,Female,50-59 hours,1421.9
+Aug-15,New South Wales,Female,60-69 hours,0
+Aug-15,New South Wales,Female,70 hours and over,0
+Aug-15,Victoria,Male,1-9 hours,147.4
+Aug-15,Victoria,Male,10-19 hours,400
+Aug-15,Victoria,Male,20-29 hours,699.3
+Aug-15,Victoria,Male,30-34 hours,1000
+Aug-15,Victoria,Male,35-39 hours,1200.5
+Aug-15,Victoria,Male,40-44 hours,1188.1
+Aug-15,Victoria,Male,45-49 hours,1609.2
+Aug-15,Victoria,Male,50-59 hours,1500
+Aug-15,Victoria,Male,60-69 hours,1643.7
+Aug-15,Victoria,Male,70 hours and over,1392
+Aug-15,Victoria,Female,1-9 hours,140
+Aug-15,Victoria,Female,10-19 hours,386.7
+Aug-15,Victoria,Female,20-29 hours,673.6
+Aug-15,Victoria,Female,30-34 hours,896.4
+Aug-15,Victoria,Female,35-39 hours,1057
+Aug-15,Victoria,Female,40-44 hours,1100
+Aug-15,Victoria,Female,45-49 hours,1333.4
+Aug-15,Victoria,Female,50-59 hours,1448.3
+Aug-15,Victoria,Female,60-69 hours,0
+Aug-15,Victoria,Female,70 hours and over,0
+Aug-15,Queensland,Male,1-9 hours,99.1
+Aug-15,Queensland,Male,10-19 hours,360.8
+Aug-15,Queensland,Male,20-29 hours,600
+Aug-15,Queensland,Male,30-34 hours,1000
+Aug-15,Queensland,Male,35-39 hours,1089.4
+Aug-15,Queensland,Male,40-44 hours,1200
+Aug-15,Queensland,Male,45-49 hours,1449.4
+Aug-15,Queensland,Male,50-59 hours,1549.9
+Aug-15,Queensland,Male,60-69 hours,2120.8
+Aug-15,Queensland,Male,70 hours and over,2167.7
+Aug-15,Queensland,Female,1-9 hours,146.8
+Aug-15,Queensland,Female,10-19 hours,400
+Aug-15,Queensland,Female,20-29 hours,654
+Aug-15,Queensland,Female,30-34 hours,805
+Aug-15,Queensland,Female,35-39 hours,1046.7
+Aug-15,Queensland,Female,40-44 hours,1110
+Aug-15,Queensland,Female,45-49 hours,1247.2
+Aug-15,Queensland,Female,50-59 hours,1256.8
+Aug-15,Queensland,Female,60-69 hours,0
+Aug-15,Queensland,Female,70 hours and over,0
+Aug-15,South Australia,Male,1-9 hours,152
+Aug-15,South Australia,Male,10-19 hours,436.9
+Aug-15,South Australia,Male,20-29 hours,669.9
+Aug-15,South Australia,Male,30-34 hours,943.5
+Aug-15,South Australia,Male,35-39 hours,1150
+Aug-15,South Australia,Male,40-44 hours,1200
+Aug-15,South Australia,Male,45-49 hours,1381.3
+Aug-15,South Australia,Male,50-59 hours,1680.3
+Aug-15,South Australia,Male,60-69 hours,1616.5
+Aug-15,South Australia,Male,70 hours and over,2027.4
+Aug-15,South Australia,Female,1-9 hours,156.7
+Aug-15,South Australia,Female,10-19 hours,396.6
+Aug-15,South Australia,Female,20-29 hours,608.7
+Aug-15,South Australia,Female,30-34 hours,857.6
+Aug-15,South Australia,Female,35-39 hours,1108.9
+Aug-15,South Australia,Female,40-44 hours,1106
+Aug-15,South Australia,Female,45-49 hours,1589.1
+Aug-15,South Australia,Female,50-59 hours,0
+Aug-15,South Australia,Female,60-69 hours,0
+Aug-15,South Australia,Female,70 hours and over,0
+Aug-15,Western Australia,Male,1-9 hours,117.4
+Aug-15,Western Australia,Male,10-19 hours,307.7
+Aug-15,Western Australia,Male,20-29 hours,600
+Aug-15,Western Australia,Male,30-34 hours,1490.3
+Aug-15,Western Australia,Male,35-39 hours,1303.2
+Aug-15,Western Australia,Male,40-44 hours,1346
+Aug-15,Western Australia,Male,45-49 hours,1701.4
+Aug-15,Western Australia,Male,50-59 hours,1800
+Aug-15,Western Australia,Male,60-69 hours,2336.8
+Aug-15,Western Australia,Male,70 hours and over,2500
+Aug-15,Western Australia,Female,1-9 hours,125
+Aug-15,Western Australia,Female,10-19 hours,414
+Aug-15,Western Australia,Female,20-29 hours,655.3
+Aug-15,Western Australia,Female,30-34 hours,850.3
+Aug-15,Western Australia,Female,35-39 hours,1100.2
+Aug-15,Western Australia,Female,40-44 hours,1200
+Aug-15,Western Australia,Female,45-49 hours,1490
+Aug-15,Western Australia,Female,50-59 hours,1893.5
+Aug-15,Western Australia,Female,60-69 hours,0
+Aug-15,Western Australia,Female,70 hours and over,0
+Aug-15,Tasmania,Male,1-9 hours,101
+Aug-15,Tasmania,Male,10-19 hours,377.5
+Aug-15,Tasmania,Male,20-29 hours,529.3
+Aug-15,Tasmania,Male,30-34 hours,799.1
+Aug-15,Tasmania,Male,35-39 hours,1050.9
+Aug-15,Tasmania,Male,40-44 hours,1000
+Aug-15,Tasmania,Male,45-49 hours,1230
+Aug-15,Tasmania,Male,50-59 hours,1262.2
+Aug-15,Tasmania,Male,60-69 hours,0
+Aug-15,Tasmania,Male,70 hours and over,0
+Aug-15,Tasmania,Female,1-9 hours,116
+Aug-15,Tasmania,Female,10-19 hours,399.7
+Aug-15,Tasmania,Female,20-29 hours,601.8
+Aug-15,Tasmania,Female,30-34 hours,850
+Aug-15,Tasmania,Female,35-39 hours,1017.2
+Aug-15,Tasmania,Female,40-44 hours,1000
+Aug-15,Tasmania,Female,45-49 hours,0
+Aug-15,Tasmania,Female,50-59 hours,0
+Aug-15,Tasmania,Female,60-69 hours,0
+Aug-15,Tasmania,Female,70 hours and over,0
+Aug-15,Northern Territory,Male,1-9 hours,0
+Aug-15,Northern Territory,Male,10-19 hours,0
+Aug-15,Northern Territory,Male,20-29 hours,948.7
+Aug-15,Northern Territory,Male,30-34 hours,990.2
+Aug-15,Northern Territory,Male,35-39 hours,1201.8
+Aug-15,Northern Territory,Male,40-44 hours,1250
+Aug-15,Northern Territory,Male,45-49 hours,1495.9
+Aug-15,Northern Territory,Male,50-59 hours,1730.8
+Aug-15,Northern Territory,Male,60-69 hours,2383.1
+Aug-15,Northern Territory,Male,70 hours and over,2023.9
+Aug-15,Northern Territory,Female,1-9 hours,191.4
+Aug-15,Northern Territory,Female,10-19 hours,408.4
+Aug-15,Northern Territory,Female,20-29 hours,570.6
+Aug-15,Northern Territory,Female,30-34 hours,850
+Aug-15,Northern Territory,Female,35-39 hours,1150
+Aug-15,Northern Territory,Female,40-44 hours,1200
+Aug-15,Northern Territory,Female,45-49 hours,0
+Aug-15,Northern Territory,Female,50-59 hours,0
+Aug-15,Northern Territory,Female,60-69 hours,0
+Aug-15,Northern Territory,Female,70 hours and over,0
+Aug-15,Australian Capital Territory,Male,1-9 hours,0
+Aug-15,Australian Capital Territory,Male,10-19 hours,534.6
+Aug-15,Australian Capital Territory,Male,20-29 hours,607.6
+Aug-15,Australian Capital Territory,Male,30-34 hours,1090.5
+Aug-15,Australian Capital Territory,Male,35-39 hours,1504.7
+Aug-15,Australian Capital Territory,Male,40-44 hours,1430.9
+Aug-15,Australian Capital Territory,Male,45-49 hours,1608.6
+Aug-15,Australian Capital Territory,Male,50-59 hours,1373.6
+Aug-15,Australian Capital Territory,Male,60-69 hours,0
+Aug-15,Australian Capital Territory,Male,70 hours and over,0
+Aug-15,Australian Capital Territory,Female,1-9 hours,129.5
+Aug-15,Australian Capital Territory,Female,10-19 hours,597.5
+Aug-15,Australian Capital Territory,Female,20-29 hours,674.1
+Aug-15,Australian Capital Territory,Female,30-34 hours,1006.6
+Aug-15,Australian Capital Territory,Female,35-39 hours,1438
+Aug-15,Australian Capital Territory,Female,40-44 hours,1293.4
+Aug-15,Australian Capital Territory,Female,45-49 hours,0
+Aug-15,Australian Capital Territory,Female,50-59 hours,0
+Aug-15,Australian Capital Territory,Female,60-69 hours,0
+Aug-15,Australian Capital Territory,Female,70 hours and over,0
+Aug-16,New South Wales,Male,1-9 hours,125.1
+Aug-16,New South Wales,Male,10-19 hours,403.1
+Aug-16,New South Wales,Male,20-29 hours,600
+Aug-16,New South Wales,Male,30-34 hours,1050
+Aug-16,New South Wales,Male,35-39 hours,1260.2
+Aug-16,New South Wales,Male,40-44 hours,1250
+Aug-16,New South Wales,Male,45-49 hours,1602.6
+Aug-16,New South Wales,Male,50-59 hours,1700
+Aug-16,New South Wales,Male,60-69 hours,1814.5
+Aug-16,New South Wales,Male,70 hours and over,2062.8
+Aug-16,New South Wales,Female,1-9 hours,150.6
+Aug-16,New South Wales,Female,10-19 hours,408.3
+Aug-16,New South Wales,Female,20-29 hours,699.5
+Aug-16,New South Wales,Female,30-34 hours,950
+Aug-16,New South Wales,Female,35-39 hours,1150
+Aug-16,New South Wales,Female,40-44 hours,1110.2
+Aug-16,New South Wales,Female,45-49 hours,1289
+Aug-16,New South Wales,Female,50-59 hours,1748.4
+Aug-16,New South Wales,Female,60-69 hours,0
+Aug-16,New South Wales,Female,70 hours and over,0
+Aug-16,Victoria,Male,1-9 hours,120
+Aug-16,Victoria,Male,10-19 hours,400
+Aug-16,Victoria,Male,20-29 hours,663.1
+Aug-16,Victoria,Male,30-34 hours,1100
+Aug-16,Victoria,Male,35-39 hours,1242
+Aug-16,Victoria,Male,40-44 hours,1252.3
+Aug-16,Victoria,Male,45-49 hours,1500
+Aug-16,Victoria,Male,50-59 hours,1611.1
+Aug-16,Victoria,Male,60-69 hours,1884.5
+Aug-16,Victoria,Male,70 hours and over,1800
+Aug-16,Victoria,Female,1-9 hours,139.9
+Aug-16,Victoria,Female,10-19 hours,383
+Aug-16,Victoria,Female,20-29 hours,654.6
+Aug-16,Victoria,Female,30-34 hours,900
+Aug-16,Victoria,Female,35-39 hours,1090
+Aug-16,Victoria,Female,40-44 hours,1200
+Aug-16,Victoria,Female,45-49 hours,1230.2
+Aug-16,Victoria,Female,50-59 hours,1206.6
+Aug-16,Victoria,Female,60-69 hours,2153.1
+Aug-16,Victoria,Female,70 hours and over,0
+Aug-16,Queensland,Male,1-9 hours,120
+Aug-16,Queensland,Male,10-19 hours,400
+Aug-16,Queensland,Male,20-29 hours,602
+Aug-16,Queensland,Male,30-34 hours,920
+Aug-16,Queensland,Male,35-39 hours,1165.1
+Aug-16,Queensland,Male,40-44 hours,1200
+Aug-16,Queensland,Male,45-49 hours,1500
+Aug-16,Queensland,Male,50-59 hours,1536.8
+Aug-16,Queensland,Male,60-69 hours,1714
+Aug-16,Queensland,Male,70 hours and over,2592.3
+Aug-16,Queensland,Female,1-9 hours,133.1
+Aug-16,Queensland,Female,10-19 hours,397.4
+Aug-16,Queensland,Female,20-29 hours,650
+Aug-16,Queensland,Female,30-34 hours,905.3
+Aug-16,Queensland,Female,35-39 hours,1056.4
+Aug-16,Queensland,Female,40-44 hours,1100
+Aug-16,Queensland,Female,45-49 hours,1212.2
+Aug-16,Queensland,Female,50-59 hours,1428.1
+Aug-16,Queensland,Female,60-69 hours,1517.3
+Aug-16,Queensland,Female,70 hours and over,0
+Aug-16,South Australia,Male,1-9 hours,128
+Aug-16,South Australia,Male,10-19 hours,400
+Aug-16,South Australia,Male,20-29 hours,600.4
+Aug-16,South Australia,Male,30-34 hours,934.5
+Aug-16,South Australia,Male,35-39 hours,1200
+Aug-16,South Australia,Male,40-44 hours,1200
+Aug-16,South Australia,Male,45-49 hours,1470.7
+Aug-16,South Australia,Male,50-59 hours,1500
+Aug-16,South Australia,Male,60-69 hours,1791.9
+Aug-16,South Australia,Male,70 hours and over,2721.4
+Aug-16,South Australia,Female,1-9 hours,140
+Aug-16,South Australia,Female,10-19 hours,406.2
+Aug-16,South Australia,Female,20-29 hours,650
+Aug-16,South Australia,Female,30-34 hours,898.3
+Aug-16,South Australia,Female,35-39 hours,1100
+Aug-16,South Australia,Female,40-44 hours,1100
+Aug-16,South Australia,Female,45-49 hours,0
+Aug-16,South Australia,Female,50-59 hours,0
+Aug-16,South Australia,Female,60-69 hours,0
+Aug-16,South Australia,Female,70 hours and over,0
+Aug-16,Western Australia,Male,1-9 hours,120
+Aug-16,Western Australia,Male,10-19 hours,388.8
+Aug-16,Western Australia,Male,20-29 hours,692.8
+Aug-16,Western Australia,Male,30-34 hours,1113.9
+Aug-16,Western Australia,Male,35-39 hours,1342
+Aug-16,Western Australia,Male,40-44 hours,1387.3
+Aug-16,Western Australia,Male,45-49 hours,1692.1
+Aug-16,Western Australia,Male,50-59 hours,1813.2
+Aug-16,Western Australia,Male,60-69 hours,2080
+Aug-16,Western Australia,Male,70 hours and over,2601.5
+Aug-16,Western Australia,Female,1-9 hours,148.9
+Aug-16,Western Australia,Female,10-19 hours,400
+Aug-16,Western Australia,Female,20-29 hours,656.7
+Aug-16,Western Australia,Female,30-34 hours,999.9
+Aug-16,Western Australia,Female,35-39 hours,1148.1
+Aug-16,Western Australia,Female,40-44 hours,1250
+Aug-16,Western Australia,Female,45-49 hours,1277.3
+Aug-16,Western Australia,Female,50-59 hours,1722.9
+Aug-16,Western Australia,Female,60-69 hours,0
+Aug-16,Western Australia,Female,70 hours and over,0
+Aug-16,Tasmania,Male,1-9 hours,108.7
+Aug-16,Tasmania,Male,10-19 hours,450
+Aug-16,Tasmania,Male,20-29 hours,639.8
+Aug-16,Tasmania,Male,30-34 hours,919.2
+Aug-16,Tasmania,Male,35-39 hours,1058.8
+Aug-16,Tasmania,Male,40-44 hours,1189.3
+Aug-16,Tasmania,Male,45-49 hours,1500
+Aug-16,Tasmania,Male,50-59 hours,1520
+Aug-16,Tasmania,Male,60-69 hours,0
+Aug-16,Tasmania,Male,70 hours and over,0
+Aug-16,Tasmania,Female,1-9 hours,119.5
+Aug-16,Tasmania,Female,10-19 hours,400
+Aug-16,Tasmania,Female,20-29 hours,610
+Aug-16,Tasmania,Female,30-34 hours,885.8
+Aug-16,Tasmania,Female,35-39 hours,1079.9
+Aug-16,Tasmania,Female,40-44 hours,1000
+Aug-16,Tasmania,Female,45-49 hours,0
+Aug-16,Tasmania,Female,50-59 hours,0
+Aug-16,Tasmania,Female,60-69 hours,0
+Aug-16,Tasmania,Female,70 hours and over,0
+Aug-16,Northern Territory,Male,1-9 hours,0
+Aug-16,Northern Territory,Male,10-19 hours,0
+Aug-16,Northern Territory,Male,20-29 hours,542
+Aug-16,Northern Territory,Male,30-34 hours,1181.3
+Aug-16,Northern Territory,Male,35-39 hours,1346.3
+Aug-16,Northern Territory,Male,40-44 hours,1400
+Aug-16,Northern Territory,Male,45-49 hours,1885.3
+Aug-16,Northern Territory,Male,50-59 hours,2182.9
+Aug-16,Northern Territory,Male,60-69 hours,2232.2
+Aug-16,Northern Territory,Male,70 hours and over,2112.1
+Aug-16,Northern Territory,Female,1-9 hours,120.6
+Aug-16,Northern Territory,Female,10-19 hours,450
+Aug-16,Northern Territory,Female,20-29 hours,599.8
+Aug-16,Northern Territory,Female,30-34 hours,1056.2
+Aug-16,Northern Territory,Female,35-39 hours,1200
+Aug-16,Northern Territory,Female,40-44 hours,1100
+Aug-16,Northern Territory,Female,45-49 hours,1400
+Aug-16,Northern Territory,Female,50-59 hours,0
+Aug-16,Northern Territory,Female,60-69 hours,0
+Aug-16,Northern Territory,Female,70 hours and over,0
+Aug-16,Australian Capital Territory,Male,1-9 hours,119.3
+Aug-16,Australian Capital Territory,Male,10-19 hours,651.1
+Aug-16,Australian Capital Territory,Male,20-29 hours,773.1
+Aug-16,Australian Capital Territory,Male,30-34 hours,1096.3
+Aug-16,Australian Capital Territory,Male,35-39 hours,1600
+Aug-16,Australian Capital Territory,Male,40-44 hours,1402.1
+Aug-16,Australian Capital Territory,Male,45-49 hours,1200
+Aug-16,Australian Capital Territory,Male,50-59 hours,1607.9
+Aug-16,Australian Capital Territory,Male,60-69 hours,0
+Aug-16,Australian Capital Territory,Male,70 hours and over,0
+Aug-16,Australian Capital Territory,Female,1-9 hours,174.7
+Aug-16,Australian Capital Territory,Female,10-19 hours,554.3
+Aug-16,Australian Capital Territory,Female,20-29 hours,720.8
+Aug-16,Australian Capital Territory,Female,30-34 hours,1162.9
+Aug-16,Australian Capital Territory,Female,35-39 hours,1350
+Aug-16,Australian Capital Territory,Female,40-44 hours,1400
+Aug-16,Australian Capital Territory,Female,45-49 hours,0
+Aug-16,Australian Capital Territory,Female,50-59 hours,0
+Aug-16,Australian Capital Territory,Female,60-69 hours,0
+Aug-16,Australian Capital Territory,Female,70 hours and over,0
+Aug-17,New South Wales,Male,1-9 hours,160
+Aug-17,New South Wales,Male,10-19 hours,426.3
+Aug-17,New South Wales,Male,20-29 hours,609
+Aug-17,New South Wales,Male,30-34 hours,1152.3
+Aug-17,New South Wales,Male,35-39 hours,1281
+Aug-17,New South Wales,Male,40-44 hours,1250
+Aug-17,New South Wales,Male,45-49 hours,1609.1
+Aug-17,New South Wales,Male,50-59 hours,1711.6
+Aug-17,New South Wales,Male,60-69 hours,1883.5
+Aug-17,New South Wales,Male,70 hours and over,1737.1
+Aug-17,New South Wales,Female,1-9 hours,150
+Aug-17,New South Wales,Female,10-19 hours,408.5
+Aug-17,New South Wales,Female,20-29 hours,631.5
+Aug-17,New South Wales,Female,30-34 hours,920
+Aug-17,New South Wales,Female,35-39 hours,1150
+Aug-17,New South Wales,Female,40-44 hours,1240.5
+Aug-17,New South Wales,Female,45-49 hours,1646
+Aug-17,New South Wales,Female,50-59 hours,1968.7
+Aug-17,New South Wales,Female,60-69 hours,0
+Aug-17,New South Wales,Female,70 hours and over,0
+Aug-17,Victoria,Male,1-9 hours,128.9
+Aug-17,Victoria,Male,10-19 hours,400
+Aug-17,Victoria,Male,20-29 hours,735.2
+Aug-17,Victoria,Male,30-34 hours,1191.7
+Aug-17,Victoria,Male,35-39 hours,1250
+Aug-17,Victoria,Male,40-44 hours,1250
+Aug-17,Victoria,Male,45-49 hours,1663.8
+Aug-17,Victoria,Male,50-59 hours,1700
+Aug-17,Victoria,Male,60-69 hours,1796.6
+Aug-17,Victoria,Male,70 hours and over,1734.1
+Aug-17,Victoria,Female,1-9 hours,150
+Aug-17,Victoria,Female,10-19 hours,422.7
+Aug-17,Victoria,Female,20-29 hours,654
+Aug-17,Victoria,Female,30-34 hours,948.6
+Aug-17,Victoria,Female,35-39 hours,1100
+Aug-17,Victoria,Female,40-44 hours,1290.5
+Aug-17,Victoria,Female,45-49 hours,1603.3
+Aug-17,Victoria,Female,50-59 hours,1528
+Aug-17,Victoria,Female,60-69 hours,0
+Aug-17,Victoria,Female,70 hours and over,0
+Aug-17,Queensland,Male,1-9 hours,119.8
+Aug-17,Queensland,Male,10-19 hours,400
+Aug-17,Queensland,Male,20-29 hours,650
+Aug-17,Queensland,Male,30-34 hours,1036.7
+Aug-17,Queensland,Male,35-39 hours,1150
+Aug-17,Queensland,Male,40-44 hours,1300
+Aug-17,Queensland,Male,45-49 hours,1634.8
+Aug-17,Queensland,Male,50-59 hours,1600
+Aug-17,Queensland,Male,60-69 hours,1861.9
+Aug-17,Queensland,Male,70 hours and over,1947.5
+Aug-17,Queensland,Female,1-9 hours,150
+Aug-17,Queensland,Female,10-19 hours,410
+Aug-17,Queensland,Female,20-29 hours,649
+Aug-17,Queensland,Female,30-34 hours,889.7
+Aug-17,Queensland,Female,35-39 hours,1091.1
+Aug-17,Queensland,Female,40-44 hours,1150
+Aug-17,Queensland,Female,45-49 hours,1339.7
+Aug-17,Queensland,Female,50-59 hours,1619
+Aug-17,Queensland,Female,60-69 hours,0
+Aug-17,Queensland,Female,70 hours and over,0
+Aug-17,South Australia,Male,1-9 hours,150
+Aug-17,South Australia,Male,10-19 hours,400
+Aug-17,South Australia,Male,20-29 hours,629.8
+Aug-17,South Australia,Male,30-34 hours,900
+Aug-17,South Australia,Male,35-39 hours,1178.6
+Aug-17,South Australia,Male,40-44 hours,1150
+Aug-17,South Australia,Male,45-49 hours,1387.5
+Aug-17,South Australia,Male,50-59 hours,1500
+Aug-17,South Australia,Male,60-69 hours,1737.6
+Aug-17,South Australia,Male,70 hours and over,2458.4
+Aug-17,South Australia,Female,1-9 hours,137.9
+Aug-17,South Australia,Female,10-19 hours,411.6
+Aug-17,South Australia,Female,20-29 hours,699.1
+Aug-17,South Australia,Female,30-34 hours,923.5
+Aug-17,South Australia,Female,35-39 hours,1045.1
+Aug-17,South Australia,Female,40-44 hours,1196.1
+Aug-17,South Australia,Female,45-49 hours,1119.3
+Aug-17,South Australia,Female,50-59 hours,1296.8
+Aug-17,South Australia,Female,60-69 hours,0
+Aug-17,South Australia,Female,70 hours and over,0
+Aug-17,Western Australia,Male,1-9 hours,121
+Aug-17,Western Australia,Male,10-19 hours,419
+Aug-17,Western Australia,Male,20-29 hours,750
+Aug-17,Western Australia,Male,30-34 hours,1194.1
+Aug-17,Western Australia,Male,35-39 hours,1358.7
+Aug-17,Western Australia,Male,40-44 hours,1420.5
+Aug-17,Western Australia,Male,45-49 hours,1707.3
+Aug-17,Western Australia,Male,50-59 hours,1890
+Aug-17,Western Australia,Male,60-69 hours,2276.7
+Aug-17,Western Australia,Male,70 hours and over,2129.6
+Aug-17,Western Australia,Female,1-9 hours,157.7
+Aug-17,Western Australia,Female,10-19 hours,414.4
+Aug-17,Western Australia,Female,20-29 hours,693
+Aug-17,Western Australia,Female,30-34 hours,978.5
+Aug-17,Western Australia,Female,35-39 hours,1190.1
+Aug-17,Western Australia,Female,40-44 hours,1340.4
+Aug-17,Western Australia,Female,45-49 hours,1329.2
+Aug-17,Western Australia,Female,50-59 hours,1550
+Aug-17,Western Australia,Female,60-69 hours,0
+Aug-17,Western Australia,Female,70 hours and over,0
+Aug-17,Tasmania,Male,1-9 hours,119.3
+Aug-17,Tasmania,Male,10-19 hours,417.5
+Aug-17,Tasmania,Male,20-29 hours,750
+Aug-17,Tasmania,Male,30-34 hours,814
+Aug-17,Tasmania,Male,35-39 hours,1200
+Aug-17,Tasmania,Male,40-44 hours,1150
+Aug-17,Tasmania,Male,45-49 hours,1434.7
+Aug-17,Tasmania,Male,50-59 hours,1500
+Aug-17,Tasmania,Male,60-69 hours,0
+Aug-17,Tasmania,Male,70 hours and over,0
+Aug-17,Tasmania,Female,1-9 hours,150.1
+Aug-17,Tasmania,Female,10-19 hours,375.5
+Aug-17,Tasmania,Female,20-29 hours,650
+Aug-17,Tasmania,Female,30-34 hours,881.1
+Aug-17,Tasmania,Female,35-39 hours,1075.3
+Aug-17,Tasmania,Female,40-44 hours,1101.4
+Aug-17,Tasmania,Female,45-49 hours,0
+Aug-17,Tasmania,Female,50-59 hours,0
+Aug-17,Tasmania,Female,60-69 hours,0
+Aug-17,Tasmania,Female,70 hours and over,0
+Aug-17,Northern Territory,Male,1-9 hours,0
+Aug-17,Northern Territory,Male,10-19 hours,538.8
+Aug-17,Northern Territory,Male,20-29 hours,649.1
+Aug-17,Northern Territory,Male,30-34 hours,1134.9
+Aug-17,Northern Territory,Male,35-39 hours,1438
+Aug-17,Northern Territory,Male,40-44 hours,1201.6
+Aug-17,Northern Territory,Male,45-49 hours,1577.2
+Aug-17,Northern Territory,Male,50-59 hours,2000
+Aug-17,Northern Territory,Male,60-69 hours,2755
+Aug-17,Northern Territory,Male,70 hours and over,2874.1
+Aug-17,Northern Territory,Female,1-9 hours,110.1
+Aug-17,Northern Territory,Female,10-19 hours,515.6
+Aug-17,Northern Territory,Female,20-29 hours,759.6
+Aug-17,Northern Territory,Female,30-34 hours,900
+Aug-17,Northern Territory,Female,35-39 hours,1200
+Aug-17,Northern Territory,Female,40-44 hours,1300
+Aug-17,Northern Territory,Female,45-49 hours,1153
+Aug-17,Northern Territory,Female,50-59 hours,0
+Aug-17,Northern Territory,Female,60-69 hours,0
+Aug-17,Northern Territory,Female,70 hours and over,0
+Aug-17,Australian Capital Territory,Male,1-9 hours,132.5
+Aug-17,Australian Capital Territory,Male,10-19 hours,771.8
+Aug-17,Australian Capital Territory,Male,20-29 hours,782.6
+Aug-17,Australian Capital Territory,Male,30-34 hours,1476
+Aug-17,Australian Capital Territory,Male,35-39 hours,1667.5
+Aug-17,Australian Capital Territory,Male,40-44 hours,1472.3
+Aug-17,Australian Capital Territory,Male,45-49 hours,1800
+Aug-17,Australian Capital Territory,Male,50-59 hours,0
+Aug-17,Australian Capital Territory,Male,60-69 hours,0
+Aug-17,Australian Capital Territory,Male,70 hours and over,0
+Aug-17,Australian Capital Territory,Female,1-9 hours,120
+Aug-17,Australian Capital Territory,Female,10-19 hours,500
+Aug-17,Australian Capital Territory,Female,20-29 hours,922.1
+Aug-17,Australian Capital Territory,Female,30-34 hours,1197.1
+Aug-17,Australian Capital Territory,Female,35-39 hours,1400
+Aug-17,Australian Capital Territory,Female,40-44 hours,1483.2
+Aug-17,Australian Capital Territory,Female,45-49 hours,0
+Aug-17,Australian Capital Territory,Female,50-59 hours,0
+Aug-17,Australian Capital Territory,Female,60-69 hours,0
+Aug-17,Australian Capital Territory,Female,70 hours and over,0
+Aug-18,New South Wales,Male,1-9 hours,125
+Aug-18,New South Wales,Male,10-19 hours,420
+Aug-18,New South Wales,Male,20-29 hours,672.9
+Aug-18,New South Wales,Male,30-34 hours,1098.5
+Aug-18,New South Wales,Male,35-39 hours,1400
+Aug-18,New South Wales,Male,40-44 hours,1342
+Aug-18,New South Wales,Male,45-49 hours,1600.3
+Aug-18,New South Wales,Male,50-59 hours,1800
+Aug-18,New South Wales,Male,60-69 hours,1741.7
+Aug-18,New South Wales,Male,70 hours and over,1918.3
+Aug-18,New South Wales,Female,1-9 hours,150
+Aug-18,New South Wales,Female,10-19 hours,433.6
+Aug-18,New South Wales,Female,20-29 hours,661.8
+Aug-18,New South Wales,Female,30-34 hours,1000
+Aug-18,New South Wales,Female,35-39 hours,1200
+Aug-18,New South Wales,Female,40-44 hours,1232.9
+Aug-18,New South Wales,Female,45-49 hours,1773.2
+Aug-18,New South Wales,Female,50-59 hours,1818.7
+Aug-18,New South Wales,Female,60-69 hours,0
+Aug-18,New South Wales,Female,70 hours and over,0
+Aug-18,Victoria,Male,1-9 hours,150
+Aug-18,Victoria,Male,10-19 hours,416.8
+Aug-18,Victoria,Male,20-29 hours,673.4
+Aug-18,Victoria,Male,30-34 hours,1150
+Aug-18,Victoria,Male,35-39 hours,1380
+Aug-18,Victoria,Male,40-44 hours,1318.5
+Aug-18,Victoria,Male,45-49 hours,1570.2
+Aug-18,Victoria,Male,50-59 hours,1610
+Aug-18,Victoria,Male,60-69 hours,1612.3
+Aug-18,Victoria,Male,70 hours and over,2109.7
+Aug-18,Victoria,Female,1-9 hours,137.3
+Aug-18,Victoria,Female,10-19 hours,460.9
+Aug-18,Victoria,Female,20-29 hours,700
+Aug-18,Victoria,Female,30-34 hours,947.5
+Aug-18,Victoria,Female,35-39 hours,1200
+Aug-18,Victoria,Female,40-44 hours,1289.8
+Aug-18,Victoria,Female,45-49 hours,1329.5
+Aug-18,Victoria,Female,50-59 hours,1846.1
+Aug-18,Victoria,Female,60-69 hours,1421.5
+Aug-18,Victoria,Female,70 hours and over,0
+Aug-18,Queensland,Male,1-9 hours,120
+Aug-18,Queensland,Male,10-19 hours,389
+Aug-18,Queensland,Male,20-29 hours,699.4
+Aug-18,Queensland,Male,30-34 hours,900
+Aug-18,Queensland,Male,35-39 hours,1300
+Aug-18,Queensland,Male,40-44 hours,1349.4
+Aug-18,Queensland,Male,45-49 hours,1535.8
+Aug-18,Queensland,Male,50-59 hours,1800
+Aug-18,Queensland,Male,60-69 hours,2221.6
+Aug-18,Queensland,Male,70 hours and over,2052.4
+Aug-18,Queensland,Female,1-9 hours,151.9
+Aug-18,Queensland,Female,10-19 hours,398.6
+Aug-18,Queensland,Female,20-29 hours,687.7
+Aug-18,Queensland,Female,30-34 hours,900
+Aug-18,Queensland,Female,35-39 hours,1149.5
+Aug-18,Queensland,Female,40-44 hours,1172.9
+Aug-18,Queensland,Female,45-49 hours,1320.4
+Aug-18,Queensland,Female,50-59 hours,1431.6
+Aug-18,Queensland,Female,60-69 hours,0
+Aug-18,Queensland,Female,70 hours and over,0
+Aug-18,South Australia,Male,1-9 hours,140.3
+Aug-18,South Australia,Male,10-19 hours,406.6
+Aug-18,South Australia,Male,20-29 hours,754.1
+Aug-18,South Australia,Male,30-34 hours,899
+Aug-18,South Australia,Male,35-39 hours,1200
+Aug-18,South Australia,Male,40-44 hours,1214.3
+Aug-18,South Australia,Male,45-49 hours,1389.6
+Aug-18,South Australia,Male,50-59 hours,1600
+Aug-18,South Australia,Male,60-69 hours,2001.5
+Aug-18,South Australia,Male,70 hours and over,0
+Aug-18,South Australia,Female,1-9 hours,150
+Aug-18,South Australia,Female,10-19 hours,428.3
+Aug-18,South Australia,Female,20-29 hours,689
+Aug-18,South Australia,Female,30-34 hours,876
+Aug-18,South Australia,Female,35-39 hours,1139.4
+Aug-18,South Australia,Female,40-44 hours,1150
+Aug-18,South Australia,Female,45-49 hours,0
+Aug-18,South Australia,Female,50-59 hours,0
+Aug-18,South Australia,Female,60-69 hours,0
+Aug-18,South Australia,Female,70 hours and over,0
+Aug-18,Western Australia,Male,1-9 hours,162.1
+Aug-18,Western Australia,Male,10-19 hours,499
+Aug-18,Western Australia,Male,20-29 hours,750
+Aug-18,Western Australia,Male,30-34 hours,1300
+Aug-18,Western Australia,Male,35-39 hours,1425.3
+Aug-18,Western Australia,Male,40-44 hours,1501.4
+Aug-18,Western Australia,Male,45-49 hours,1600
+Aug-18,Western Australia,Male,50-59 hours,2000
+Aug-18,Western Australia,Male,60-69 hours,2108.8
+Aug-18,Western Australia,Male,70 hours and over,2705.2
+Aug-18,Western Australia,Female,1-9 hours,145.4
+Aug-18,Western Australia,Female,10-19 hours,450
+Aug-18,Western Australia,Female,20-29 hours,727
+Aug-18,Western Australia,Female,30-34 hours,923.4
+Aug-18,Western Australia,Female,35-39 hours,1250
+Aug-18,Western Australia,Female,40-44 hours,1250
+Aug-18,Western Australia,Female,45-49 hours,1544.2
+Aug-18,Western Australia,Female,50-59 hours,1339.4
+Aug-18,Western Australia,Female,60-69 hours,0
+Aug-18,Western Australia,Female,70 hours and over,0
+Aug-18,Tasmania,Male,1-9 hours,195.8
+Aug-18,Tasmania,Male,10-19 hours,420
+Aug-18,Tasmania,Male,20-29 hours,735.7
+Aug-18,Tasmania,Male,30-34 hours,1000.4
+Aug-18,Tasmania,Male,35-39 hours,1150.2
+Aug-18,Tasmania,Male,40-44 hours,1217.8
+Aug-18,Tasmania,Male,45-49 hours,1459.6
+Aug-18,Tasmania,Male,50-59 hours,1412.1
+Aug-18,Tasmania,Male,60-69 hours,0
+Aug-18,Tasmania,Male,70 hours and over,0
+Aug-18,Tasmania,Female,1-9 hours,165
+Aug-18,Tasmania,Female,10-19 hours,429.1
+Aug-18,Tasmania,Female,20-29 hours,650
+Aug-18,Tasmania,Female,30-34 hours,959.8
+Aug-18,Tasmania,Female,35-39 hours,1151.5
+Aug-18,Tasmania,Female,40-44 hours,1200
+Aug-18,Tasmania,Female,45-49 hours,0
+Aug-18,Tasmania,Female,50-59 hours,0
+Aug-18,Tasmania,Female,60-69 hours,0
+Aug-18,Tasmania,Female,70 hours and over,0
+Aug-18,Northern Territory,Male,1-9 hours,0
+Aug-18,Northern Territory,Male,10-19 hours,651.7
+Aug-18,Northern Territory,Male,20-29 hours,889.4
+Aug-18,Northern Territory,Male,30-34 hours,1052.7
+Aug-18,Northern Territory,Male,35-39 hours,1312.4
+Aug-18,Northern Territory,Male,40-44 hours,1467.1
+Aug-18,Northern Territory,Male,45-49 hours,1899.6
+Aug-18,Northern Territory,Male,50-59 hours,1851
+Aug-18,Northern Territory,Male,60-69 hours,2340.2
+Aug-18,Northern Territory,Male,70 hours and over,0
+Aug-18,Northern Territory,Female,1-9 hours,159.9
+Aug-18,Northern Territory,Female,10-19 hours,478.3
+Aug-18,Northern Territory,Female,20-29 hours,900
+Aug-18,Northern Territory,Female,30-34 hours,925.7
+Aug-18,Northern Territory,Female,35-39 hours,1252.3
+Aug-18,Northern Territory,Female,40-44 hours,1152.8
+Aug-18,Northern Territory,Female,45-49 hours,1918.4
+Aug-18,Northern Territory,Female,50-59 hours,0
+Aug-18,Northern Territory,Female,60-69 hours,0
+Aug-18,Northern Territory,Female,70 hours and over,0
+Aug-18,Australian Capital Territory,Male,1-9 hours,80
+Aug-18,Australian Capital Territory,Male,10-19 hours,592.6
+Aug-18,Australian Capital Territory,Male,20-29 hours,813
+Aug-18,Australian Capital Territory,Male,30-34 hours,1150
+Aug-18,Australian Capital Territory,Male,35-39 hours,1571.2
+Aug-18,Australian Capital Territory,Male,40-44 hours,1621.4
+Aug-18,Australian Capital Territory,Male,45-49 hours,1660.9
+Aug-18,Australian Capital Territory,Male,50-59 hours,0
+Aug-18,Australian Capital Territory,Male,60-69 hours,0
+Aug-18,Australian Capital Territory,Male,70 hours and over,0
+Aug-18,Australian Capital Territory,Female,1-9 hours,149.3
+Aug-18,Australian Capital Territory,Female,10-19 hours,605.9
+Aug-18,Australian Capital Territory,Female,20-29 hours,914.4
+Aug-18,Australian Capital Territory,Female,30-34 hours,1277.3
+Aug-18,Australian Capital Territory,Female,35-39 hours,1442.4
+Aug-18,Australian Capital Territory,Female,40-44 hours,1502.5
+Aug-18,Australian Capital Territory,Female,45-49 hours,0
+Aug-18,Australian Capital Territory,Female,50-59 hours,0
+Aug-18,Australian Capital Territory,Female,60-69 hours,0
+Aug-18,Australian Capital Territory,Female,70 hours and over,0
+Aug-19,New South Wales,Male,1-9 hours,166.2
+Aug-19,New South Wales,Male,10-19 hours,450
+Aug-19,New South Wales,Male,20-29 hours,650
+Aug-19,New South Wales,Male,30-34 hours,1127
+Aug-19,New South Wales,Male,35-39 hours,1398.3
+Aug-19,New South Wales,Male,40-44 hours,1400
+Aug-19,New South Wales,Male,45-49 hours,1769.4
+Aug-19,New South Wales,Male,50-59 hours,1800
+Aug-19,New South Wales,Male,60-69 hours,2300.7
+Aug-19,New South Wales,Male,70 hours and over,1898
+Aug-19,New South Wales,Female,1-9 hours,175.3
+Aug-19,New South Wales,Female,10-19 hours,474.7
+Aug-19,New South Wales,Female,20-29 hours,750
+Aug-19,New South Wales,Female,30-34 hours,1016
+Aug-19,New South Wales,Female,35-39 hours,1247.9
+Aug-19,New South Wales,Female,40-44 hours,1250
+Aug-19,New South Wales,Female,45-49 hours,1591.5
+Aug-19,New South Wales,Female,50-59 hours,1604.1
+Aug-19,New South Wales,Female,60-69 hours,0
+Aug-19,New South Wales,Female,70 hours and over,0
+Aug-19,Victoria,Male,1-9 hours,150
+Aug-19,Victoria,Male,10-19 hours,417.8
+Aug-19,Victoria,Male,20-29 hours,720.1
+Aug-19,Victoria,Male,30-34 hours,999.2
+Aug-19,Victoria,Male,35-39 hours,1375.9
+Aug-19,Victoria,Male,40-44 hours,1373.1
+Aug-19,Victoria,Male,45-49 hours,1750
+Aug-19,Victoria,Male,50-59 hours,1525.8
+Aug-19,Victoria,Male,60-69 hours,2069.2
+Aug-19,Victoria,Male,70 hours and over,3157.3
+Aug-19,Victoria,Female,1-9 hours,160.8
+Aug-19,Victoria,Female,10-19 hours,434
+Aug-19,Victoria,Female,20-29 hours,722
+Aug-19,Victoria,Female,30-34 hours,1040
+Aug-19,Victoria,Female,35-39 hours,1220.2
+Aug-19,Victoria,Female,40-44 hours,1250.8
+Aug-19,Victoria,Female,45-49 hours,1393.5
+Aug-19,Victoria,Female,50-59 hours,1500
+Aug-19,Victoria,Female,60-69 hours,0
+Aug-19,Victoria,Female,70 hours and over,0
+Aug-19,Queensland,Male,1-9 hours,129
+Aug-19,Queensland,Male,10-19 hours,495.9
+Aug-19,Queensland,Male,20-29 hours,750
+Aug-19,Queensland,Male,30-34 hours,1000
+Aug-19,Queensland,Male,35-39 hours,1216
+Aug-19,Queensland,Male,40-44 hours,1425.3
+Aug-19,Queensland,Male,45-49 hours,1624.7
+Aug-19,Queensland,Male,50-59 hours,1738.2
+Aug-19,Queensland,Male,60-69 hours,2300
+Aug-19,Queensland,Male,70 hours and over,3124.5
+Aug-19,Queensland,Female,1-9 hours,153.1
+Aug-19,Queensland,Female,10-19 hours,430
+Aug-19,Queensland,Female,20-29 hours,720
+Aug-19,Queensland,Female,30-34 hours,971.7
+Aug-19,Queensland,Female,35-39 hours,1112.4
+Aug-19,Queensland,Female,40-44 hours,1250
+Aug-19,Queensland,Female,45-49 hours,1536
+Aug-19,Queensland,Female,50-59 hours,1388.9
+Aug-19,Queensland,Female,60-69 hours,0
+Aug-19,Queensland,Female,70 hours and over,0
+Aug-19,South Australia,Male,1-9 hours,125
+Aug-19,South Australia,Male,10-19 hours,549.5
+Aug-19,South Australia,Male,20-29 hours,723.3
+Aug-19,South Australia,Male,30-34 hours,1220.1
+Aug-19,South Australia,Male,35-39 hours,1200
+Aug-19,South Australia,Male,40-44 hours,1300
+Aug-19,South Australia,Male,45-49 hours,1376.5
+Aug-19,South Australia,Male,50-59 hours,1666.9
+Aug-19,South Australia,Male,60-69 hours,2423.4
+Aug-19,South Australia,Male,70 hours and over,0
+Aug-19,South Australia,Female,1-9 hours,157.9
+Aug-19,South Australia,Female,10-19 hours,443
+Aug-19,South Australia,Female,20-29 hours,700
+Aug-19,South Australia,Female,30-34 hours,982
+Aug-19,South Australia,Female,35-39 hours,1150
+Aug-19,South Australia,Female,40-44 hours,1202.1
+Aug-19,South Australia,Female,45-49 hours,0
+Aug-19,South Australia,Female,50-59 hours,0
+Aug-19,South Australia,Female,60-69 hours,0
+Aug-19,South Australia,Female,70 hours and over,0
+Aug-19,Western Australia,Male,1-9 hours,150
+Aug-19,Western Australia,Male,10-19 hours,450
+Aug-19,Western Australia,Male,20-29 hours,799.6
+Aug-19,Western Australia,Male,30-34 hours,1150
+Aug-19,Western Australia,Male,35-39 hours,1534
+Aug-19,Western Australia,Male,40-44 hours,1500.4
+Aug-19,Western Australia,Male,45-49 hours,1752.4
+Aug-19,Western Australia,Male,50-59 hours,2202.7
+Aug-19,Western Australia,Male,60-69 hours,2109.8
+Aug-19,Western Australia,Male,70 hours and over,2979.2
+Aug-19,Western Australia,Female,1-9 hours,175.2
+Aug-19,Western Australia,Female,10-19 hours,541.4
+Aug-19,Western Australia,Female,20-29 hours,704
+Aug-19,Western Australia,Female,30-34 hours,1017.2
+Aug-19,Western Australia,Female,35-39 hours,1229.4
+Aug-19,Western Australia,Female,40-44 hours,1384.8
+Aug-19,Western Australia,Female,45-49 hours,1934
+Aug-19,Western Australia,Female,50-59 hours,1887.5
+Aug-19,Western Australia,Female,60-69 hours,0
+Aug-19,Western Australia,Female,70 hours and over,0
+Aug-19,Tasmania,Male,1-9 hours,100
+Aug-19,Tasmania,Male,10-19 hours,488.8
+Aug-19,Tasmania,Male,20-29 hours,760
+Aug-19,Tasmania,Male,30-34 hours,948.3
+Aug-19,Tasmania,Male,35-39 hours,1283.7
+Aug-19,Tasmania,Male,40-44 hours,1277.4
+Aug-19,Tasmania,Male,45-49 hours,1759.9
+Aug-19,Tasmania,Male,50-59 hours,1639.5
+Aug-19,Tasmania,Male,60-69 hours,0
+Aug-19,Tasmania,Male,70 hours and over,0
+Aug-19,Tasmania,Female,1-9 hours,174.8
+Aug-19,Tasmania,Female,10-19 hours,450
+Aug-19,Tasmania,Female,20-29 hours,714.2
+Aug-19,Tasmania,Female,30-34 hours,1050.6
+Aug-19,Tasmania,Female,35-39 hours,1185.5
+Aug-19,Tasmania,Female,40-44 hours,1446.6
+Aug-19,Tasmania,Female,45-49 hours,0
+Aug-19,Tasmania,Female,50-59 hours,0
+Aug-19,Tasmania,Female,60-69 hours,0
+Aug-19,Tasmania,Female,70 hours and over,0
+Aug-19,Northern Territory,Male,1-9 hours,0
+Aug-19,Northern Territory,Male,10-19 hours,400
+Aug-19,Northern Territory,Male,20-29 hours,750
+Aug-19,Northern Territory,Male,30-34 hours,1050
+Aug-19,Northern Territory,Male,35-39 hours,1439.6
+Aug-19,Northern Territory,Male,40-44 hours,1400
+Aug-19,Northern Territory,Male,45-49 hours,1914.5
+Aug-19,Northern Territory,Male,50-59 hours,1998.5
+Aug-19,Northern Territory,Male,60-69 hours,0
+Aug-19,Northern Territory,Male,70 hours and over,0
+Aug-19,Northern Territory,Female,1-9 hours,167.7
+Aug-19,Northern Territory,Female,10-19 hours,606.8
+Aug-19,Northern Territory,Female,20-29 hours,685.8
+Aug-19,Northern Territory,Female,30-34 hours,1012.1
+Aug-19,Northern Territory,Female,35-39 hours,1250
+Aug-19,Northern Territory,Female,40-44 hours,1315
+Aug-19,Northern Territory,Female,45-49 hours,0
+Aug-19,Northern Territory,Female,50-59 hours,0
+Aug-19,Northern Territory,Female,60-69 hours,0
+Aug-19,Northern Territory,Female,70 hours and over,0
+Aug-19,Australian Capital Territory,Male,1-9 hours,120
+Aug-19,Australian Capital Territory,Male,10-19 hours,579
+Aug-19,Australian Capital Territory,Male,20-29 hours,739.6
+Aug-19,Australian Capital Territory,Male,30-34 hours,1180.9
+Aug-19,Australian Capital Territory,Male,35-39 hours,1800
+Aug-19,Australian Capital Territory,Male,40-44 hours,1367.8
+Aug-19,Australian Capital Territory,Male,45-49 hours,1464.4
+Aug-19,Australian Capital Territory,Male,50-59 hours,0
+Aug-19,Australian Capital Territory,Male,60-69 hours,0
+Aug-19,Australian Capital Territory,Male,70 hours and over,0
+Aug-19,Australian Capital Territory,Female,1-9 hours,181.2
+Aug-19,Australian Capital Territory,Female,10-19 hours,627.9
+Aug-19,Australian Capital Territory,Female,20-29 hours,858.3
+Aug-19,Australian Capital Territory,Female,30-34 hours,1103.5
+Aug-19,Australian Capital Territory,Female,35-39 hours,1523.8
+Aug-19,Australian Capital Territory,Female,40-44 hours,1532.1
+Aug-19,Australian Capital Territory,Female,45-49 hours,0
+Aug-19,Australian Capital Territory,Female,50-59 hours,0
+Aug-19,Australian Capital Territory,Female,60-69 hours,0
+Aug-19,Australian Capital Territory,Female,70 hours and over,0
+Aug-20,New South Wales,Male,1-9 hours,175
+Aug-20,New South Wales,Male,10-19 hours,585.3
+Aug-20,New South Wales,Male,20-29 hours,750
+Aug-20,New South Wales,Male,30-34 hours,1285.7
+Aug-20,New South Wales,Male,35-39 hours,1460
+Aug-20,New South Wales,Male,40-44 hours,1500
+Aug-20,New South Wales,Male,45-49 hours,1679.1
+Aug-20,New South Wales,Male,50-59 hours,1910
+Aug-20,New South Wales,Male,60-69 hours,1618.3
+Aug-20,New South Wales,Male,70 hours and over,1981.3
+Aug-20,New South Wales,Female,1-9 hours,182
+Aug-20,New South Wales,Female,10-19 hours,624
+Aug-20,New South Wales,Female,20-29 hours,763.3
+Aug-20,New South Wales,Female,30-34 hours,1037.8
+Aug-20,New South Wales,Female,35-39 hours,1342
+Aug-20,New South Wales,Female,40-44 hours,1300
+Aug-20,New South Wales,Female,45-49 hours,1808.4
+Aug-20,New South Wales,Female,50-59 hours,2085.5
+Aug-20,New South Wales,Female,60-69 hours,0
+Aug-20,New South Wales,Female,70 hours and over,0
+Aug-20,Victoria,Male,1-9 hours,231
+Aug-20,Victoria,Male,10-19 hours,696.3
+Aug-20,Victoria,Male,20-29 hours,822.8
+Aug-20,Victoria,Male,30-34 hours,1184.6
+Aug-20,Victoria,Male,35-39 hours,1438.4
+Aug-20,Victoria,Male,40-44 hours,1534
+Aug-20,Victoria,Male,45-49 hours,1800
+Aug-20,Victoria,Male,50-59 hours,2000
+Aug-20,Victoria,Male,60-69 hours,1549.6
+Aug-20,Victoria,Male,70 hours and over,2978.5
+Aug-20,Victoria,Female,1-9 hours,240
+Aug-20,Victoria,Female,10-19 hours,690
+Aug-20,Victoria,Female,20-29 hours,754.7
+Aug-20,Victoria,Female,30-34 hours,1100
+Aug-20,Victoria,Female,35-39 hours,1332.9
+Aug-20,Victoria,Female,40-44 hours,1500
+Aug-20,Victoria,Female,45-49 hours,1699.6
+Aug-20,Victoria,Female,50-59 hours,2560.2
+Aug-20,Victoria,Female,60-69 hours,0
+Aug-20,Victoria,Female,70 hours and over,0
+Aug-20,Queensland,Male,1-9 hours,127.1
+Aug-20,Queensland,Male,10-19 hours,550
+Aug-20,Queensland,Male,20-29 hours,750
+Aug-20,Queensland,Male,30-34 hours,1127.6
+Aug-20,Queensland,Male,35-39 hours,1263.5
+Aug-20,Queensland,Male,40-44 hours,1400
+Aug-20,Queensland,Male,45-49 hours,1787.4
+Aug-20,Queensland,Male,50-59 hours,1923.4
+Aug-20,Queensland,Male,60-69 hours,1735.5
+Aug-20,Queensland,Male,70 hours and over,2300
+Aug-20,Queensland,Female,1-9 hours,162
+Aug-20,Queensland,Female,10-19 hours,600
+Aug-20,Queensland,Female,20-29 hours,760.2
+Aug-20,Queensland,Female,30-34 hours,1069.5
+Aug-20,Queensland,Female,35-39 hours,1250
+Aug-20,Queensland,Female,40-44 hours,1392
+Aug-20,Queensland,Female,45-49 hours,1367.5
+Aug-20,Queensland,Female,50-59 hours,1659.8
+Aug-20,Queensland,Female,60-69 hours,0
+Aug-20,Queensland,Female,70 hours and over,0
+Aug-20,South Australia,Male,1-9 hours,169.6
+Aug-20,South Australia,Male,10-19 hours,517.1
+Aug-20,South Australia,Male,20-29 hours,750
+Aug-20,South Australia,Male,30-34 hours,1108.6
+Aug-20,South Australia,Male,35-39 hours,1300
+Aug-20,South Australia,Male,40-44 hours,1322.8
+Aug-20,South Australia,Male,45-49 hours,1435.9
+Aug-20,South Australia,Male,50-59 hours,1662
+Aug-20,South Australia,Male,60-69 hours,2316.6
+Aug-20,South Australia,Male,70 hours and over,0
+Aug-20,South Australia,Female,1-9 hours,175.3
+Aug-20,South Australia,Female,10-19 hours,562
+Aug-20,South Australia,Female,20-29 hours,750
+Aug-20,South Australia,Female,30-34 hours,1003.1
+Aug-20,South Australia,Female,35-39 hours,1234.2
+Aug-20,South Australia,Female,40-44 hours,1300
+Aug-20,South Australia,Female,45-49 hours,1246.9
+Aug-20,South Australia,Female,50-59 hours,0
+Aug-20,South Australia,Female,60-69 hours,0
+Aug-20,South Australia,Female,70 hours and over,0
+Aug-20,Western Australia,Male,1-9 hours,133.7
+Aug-20,Western Australia,Male,10-19 hours,644.5
+Aug-20,Western Australia,Male,20-29 hours,847.8
+Aug-20,Western Australia,Male,30-34 hours,1136.7
+Aug-20,Western Australia,Male,35-39 hours,1660.8
+Aug-20,Western Australia,Male,40-44 hours,1642.7
+Aug-20,Western Australia,Male,45-49 hours,1816.1
+Aug-20,Western Australia,Male,50-59 hours,1903.5
+Aug-20,Western Australia,Male,60-69 hours,2691.2
+Aug-20,Western Australia,Male,70 hours and over,3041
+Aug-20,Western Australia,Female,1-9 hours,175
+Aug-20,Western Australia,Female,10-19 hours,650
+Aug-20,Western Australia,Female,20-29 hours,771.1
+Aug-20,Western Australia,Female,30-34 hours,950.2
+Aug-20,Western Australia,Female,35-39 hours,1400
+Aug-20,Western Australia,Female,40-44 hours,1429.7
+Aug-20,Western Australia,Female,45-49 hours,1449.7
+Aug-20,Western Australia,Female,50-59 hours,1512.7
+Aug-20,Western Australia,Female,60-69 hours,0
+Aug-20,Western Australia,Female,70 hours and over,0
+Aug-20,Tasmania,Male,1-9 hours,139.9
+Aug-20,Tasmania,Male,10-19 hours,712.1
+Aug-20,Tasmania,Male,20-29 hours,800
+Aug-20,Tasmania,Male,30-34 hours,988.1
+Aug-20,Tasmania,Male,35-39 hours,1270
+Aug-20,Tasmania,Male,40-44 hours,1388.6
+Aug-20,Tasmania,Male,45-49 hours,1925.7
+Aug-20,Tasmania,Male,50-59 hours,1764
+Aug-20,Tasmania,Male,60-69 hours,0
+Aug-20,Tasmania,Male,70 hours and over,0
+Aug-20,Tasmania,Female,1-9 hours,141
+Aug-20,Tasmania,Female,10-19 hours,675
+Aug-20,Tasmania,Female,20-29 hours,750
+Aug-20,Tasmania,Female,30-34 hours,1000
+Aug-20,Tasmania,Female,35-39 hours,1288.3
+Aug-20,Tasmania,Female,40-44 hours,1280.9
+Aug-20,Tasmania,Female,45-49 hours,0
+Aug-20,Tasmania,Female,50-59 hours,0
+Aug-20,Tasmania,Female,60-69 hours,0
+Aug-20,Tasmania,Female,70 hours and over,0
+Aug-20,Northern Territory,Male,1-9 hours,0
+Aug-20,Northern Territory,Male,10-19 hours,500
+Aug-20,Northern Territory,Male,20-29 hours,746.5
+Aug-20,Northern Territory,Male,30-34 hours,1000
+Aug-20,Northern Territory,Male,35-39 hours,1500
+Aug-20,Northern Territory,Male,40-44 hours,1400
+Aug-20,Northern Territory,Male,45-49 hours,1727.8
+Aug-20,Northern Territory,Male,50-59 hours,2308
+Aug-20,Northern Territory,Male,60-69 hours,0
+Aug-20,Northern Territory,Male,70 hours and over,0
+Aug-20,Northern Territory,Female,1-9 hours,201
+Aug-20,Northern Territory,Female,10-19 hours,461.4
+Aug-20,Northern Territory,Female,20-29 hours,850
+Aug-20,Northern Territory,Female,30-34 hours,1028.4
+Aug-20,Northern Territory,Female,35-39 hours,1250
+Aug-20,Northern Territory,Female,40-44 hours,1250
+Aug-20,Northern Territory,Female,45-49 hours,0
+Aug-20,Northern Territory,Female,50-59 hours,0
+Aug-20,Northern Territory,Female,60-69 hours,0
+Aug-20,Northern Territory,Female,70 hours and over,0
+Aug-20,Australian Capital Territory,Male,1-9 hours,0
+Aug-20,Australian Capital Territory,Male,10-19 hours,1120.3
+Aug-20,Australian Capital Territory,Male,20-29 hours,919.8
+Aug-20,Australian Capital Territory,Male,30-34 hours,1511.8
+Aug-20,Australian Capital Territory,Male,35-39 hours,1724.8
+Aug-20,Australian Capital Territory,Male,40-44 hours,1500
+Aug-20,Australian Capital Territory,Male,45-49 hours,1693.3
+Aug-20,Australian Capital Territory,Male,50-59 hours,0
+Aug-20,Australian Capital Territory,Male,60-69 hours,0
+Aug-20,Australian Capital Territory,Male,70 hours and over,0
+Aug-20,Australian Capital Territory,Female,1-9 hours,159.4
+Aug-20,Australian Capital Territory,Female,10-19 hours,750
+Aug-20,Australian Capital Territory,Female,20-29 hours,788
+Aug-20,Australian Capital Territory,Female,30-34 hours,1126.2
+Aug-20,Australian Capital Territory,Female,35-39 hours,1585.8
+Aug-20,Australian Capital Territory,Female,40-44 hours,1499.5
+Aug-20,Australian Capital Territory,Female,45-49 hours,0
+Aug-20,Australian Capital Territory,Female,50-59 hours,0
+Aug-20,Australian Capital Territory,Female,60-69 hours,0
+Aug-20,Australian Capital Territory,Female,70 hours and over,0
+Aug-21,New South Wales,Male,1-9 hours,176.4
+Aug-21,New South Wales,Male,10-19 hours,548
+Aug-21,New South Wales,Male,20-29 hours,810.8
+Aug-21,New South Wales,Male,30-34 hours,1349.1
+Aug-21,New South Wales,Male,35-39 hours,1628.7
+Aug-21,New South Wales,Male,40-44 hours,1500
+Aug-21,New South Wales,Male,45-49 hours,1867.7
+Aug-21,New South Wales,Male,50-59 hours,2094.9
+Aug-21,New South Wales,Male,60-69 hours,1752.1
+Aug-21,New South Wales,Male,70 hours and over,3305.2
+Aug-21,New South Wales,Female,1-9 hours,180
+Aug-21,New South Wales,Female,10-19 hours,579.6
+Aug-21,New South Wales,Female,20-29 hours,800
+Aug-21,New South Wales,Female,30-34 hours,1105.5
+Aug-21,New South Wales,Female,35-39 hours,1425
+Aug-21,New South Wales,Female,40-44 hours,1350
+Aug-21,New South Wales,Female,45-49 hours,1585.1
+Aug-21,New South Wales,Female,50-59 hours,1812.6
+Aug-21,New South Wales,Female,60-69 hours,0
+Aug-21,New South Wales,Female,70 hours and over,0
+Aug-21,Victoria,Male,1-9 hours,160.2
+Aug-21,Victoria,Male,10-19 hours,500
+Aug-21,Victoria,Male,20-29 hours,846.4
+Aug-21,Victoria,Male,30-34 hours,1326.2
+Aug-21,Victoria,Male,35-39 hours,1500
+Aug-21,Victoria,Male,40-44 hours,1476.6
+Aug-21,Victoria,Male,45-49 hours,1650
+Aug-21,Victoria,Male,50-59 hours,2000
+Aug-21,Victoria,Male,60-69 hours,2497
+Aug-21,Victoria,Male,70 hours and over,0
+Aug-21,Victoria,Female,1-9 hours,186
+Aug-21,Victoria,Female,10-19 hours,500
+Aug-21,Victoria,Female,20-29 hours,768.9
+Aug-21,Victoria,Female,30-34 hours,1120.5
+Aug-21,Victoria,Female,35-39 hours,1421.1
+Aug-21,Victoria,Female,40-44 hours,1304.7
+Aug-21,Victoria,Female,45-49 hours,1567
+Aug-21,Victoria,Female,50-59 hours,1761.7
+Aug-21,Victoria,Female,60-69 hours,0
+Aug-21,Victoria,Female,70 hours and over,0
+Aug-21,Queensland,Male,1-9 hours,126.5
+Aug-21,Queensland,Male,10-19 hours,521.4
+Aug-21,Queensland,Male,20-29 hours,752.5
+Aug-21,Queensland,Male,30-34 hours,1191.8
+Aug-21,Queensland,Male,35-39 hours,1400
+Aug-21,Queensland,Male,40-44 hours,1444.4
+Aug-21,Queensland,Male,45-49 hours,1700
+Aug-21,Queensland,Male,50-59 hours,1746.2
+Aug-21,Queensland,Male,60-69 hours,2200
+Aug-21,Queensland,Male,70 hours and over,2562.2
+Aug-21,Queensland,Female,1-9 hours,171.9
+Aug-21,Queensland,Female,10-19 hours,500
+Aug-21,Queensland,Female,20-29 hours,750
+Aug-21,Queensland,Female,30-34 hours,1049.4
+Aug-21,Queensland,Female,35-39 hours,1229.5
+Aug-21,Queensland,Female,40-44 hours,1250
+Aug-21,Queensland,Female,45-49 hours,1750
+Aug-21,Queensland,Female,50-59 hours,1902.5
+Aug-21,Queensland,Female,60-69 hours,0
+Aug-21,Queensland,Female,70 hours and over,0
+Aug-21,South Australia,Male,1-9 hours,133.1
+Aug-21,South Australia,Male,10-19 hours,549.8
+Aug-21,South Australia,Male,20-29 hours,750
+Aug-21,South Australia,Male,30-34 hours,1025.7
+Aug-21,South Australia,Male,35-39 hours,1326.7
+Aug-21,South Australia,Male,40-44 hours,1440.6
+Aug-21,South Australia,Male,45-49 hours,1500
+Aug-21,South Australia,Male,50-59 hours,1815.1
+Aug-21,South Australia,Male,60-69 hours,2311.1
+Aug-21,South Australia,Male,70 hours and over,2038
+Aug-21,South Australia,Female,1-9 hours,175.6
+Aug-21,South Australia,Female,10-19 hours,511.7
+Aug-21,South Australia,Female,20-29 hours,750
+Aug-21,South Australia,Female,30-34 hours,1040.6
+Aug-21,South Australia,Female,35-39 hours,1322.9
+Aug-21,South Australia,Female,40-44 hours,1361.3
+Aug-21,South Australia,Female,45-49 hours,2055.9
+Aug-21,South Australia,Female,50-59 hours,0
+Aug-21,South Australia,Female,60-69 hours,0
+Aug-21,South Australia,Female,70 hours and over,0
+Aug-21,Western Australia,Male,1-9 hours,150
+Aug-21,Western Australia,Male,10-19 hours,500
+Aug-21,Western Australia,Male,20-29 hours,779.2
+Aug-21,Western Australia,Male,30-34 hours,1380
+Aug-21,Western Australia,Male,35-39 hours,1538
+Aug-21,Western Australia,Male,40-44 hours,1600
+Aug-21,Western Australia,Male,45-49 hours,1898.7
+Aug-21,Western Australia,Male,50-59 hours,2100.4
+Aug-21,Western Australia,Male,60-69 hours,2864.3
+Aug-21,Western Australia,Male,70 hours and over,3000
+Aug-21,Western Australia,Female,1-9 hours,185
+Aug-21,Western Australia,Female,10-19 hours,550.8
+Aug-21,Western Australia,Female,20-29 hours,750
+Aug-21,Western Australia,Female,30-34 hours,1083.3
+Aug-21,Western Australia,Female,35-39 hours,1349.3
+Aug-21,Western Australia,Female,40-44 hours,1493.3
+Aug-21,Western Australia,Female,45-49 hours,1566.1
+Aug-21,Western Australia,Female,50-59 hours,1703.3
+Aug-21,Western Australia,Female,60-69 hours,0
+Aug-21,Western Australia,Female,70 hours and over,0
+Aug-21,Tasmania,Male,1-9 hours,146.8
+Aug-21,Tasmania,Male,10-19 hours,600
+Aug-21,Tasmania,Male,20-29 hours,793.1
+Aug-21,Tasmania,Male,30-34 hours,900
+Aug-21,Tasmania,Male,35-39 hours,1245.5
+Aug-21,Tasmania,Male,40-44 hours,1248.5
+Aug-21,Tasmania,Male,45-49 hours,1512
+Aug-21,Tasmania,Male,50-59 hours,1721.2
+Aug-21,Tasmania,Male,60-69 hours,0
+Aug-21,Tasmania,Male,70 hours and over,0
+Aug-21,Tasmania,Female,1-9 hours,137.5
+Aug-21,Tasmania,Female,10-19 hours,524.4
+Aug-21,Tasmania,Female,20-29 hours,738
+Aug-21,Tasmania,Female,30-34 hours,954.6
+Aug-21,Tasmania,Female,35-39 hours,1215.3
+Aug-21,Tasmania,Female,40-44 hours,1200
+Aug-21,Tasmania,Female,45-49 hours,0
+Aug-21,Tasmania,Female,50-59 hours,0
+Aug-21,Tasmania,Female,60-69 hours,0
+Aug-21,Tasmania,Female,70 hours and over,0
+Aug-21,Northern Territory,Male,1-9 hours,0
+Aug-21,Northern Territory,Male,10-19 hours,546.5
+Aug-21,Northern Territory,Male,20-29 hours,787.8
+Aug-21,Northern Territory,Male,30-34 hours,1203.7
+Aug-21,Northern Territory,Male,35-39 hours,1557.9
+Aug-21,Northern Territory,Male,40-44 hours,1500
+Aug-21,Northern Territory,Male,45-49 hours,1838.4
+Aug-21,Northern Territory,Male,50-59 hours,2303.6
+Aug-21,Northern Territory,Male,60-69 hours,0
+Aug-21,Northern Territory,Male,70 hours and over,0
+Aug-21,Northern Territory,Female,1-9 hours,183.4
+Aug-21,Northern Territory,Female,10-19 hours,681.1
+Aug-21,Northern Territory,Female,20-29 hours,800
+Aug-21,Northern Territory,Female,30-34 hours,1000
+Aug-21,Northern Territory,Female,35-39 hours,1519.9
+Aug-21,Northern Territory,Female,40-44 hours,1524.1
+Aug-21,Northern Territory,Female,45-49 hours,0
+Aug-21,Northern Territory,Female,50-59 hours,0
+Aug-21,Northern Territory,Female,60-69 hours,0
+Aug-21,Northern Territory,Female,70 hours and over,0
+Aug-21,Australian Capital Territory,Male,1-9 hours,242.6
+Aug-21,Australian Capital Territory,Male,10-19 hours,1300.8
+Aug-21,Australian Capital Territory,Male,20-29 hours,1100
+Aug-21,Australian Capital Territory,Male,30-34 hours,1949.9
+Aug-21,Australian Capital Territory,Male,35-39 hours,1805.7
+Aug-21,Australian Capital Territory,Male,40-44 hours,1751.8
+Aug-21,Australian Capital Territory,Male,45-49 hours,2419.2
+Aug-21,Australian Capital Territory,Male,50-59 hours,0
+Aug-21,Australian Capital Territory,Male,60-69 hours,0
+Aug-21,Australian Capital Territory,Male,70 hours and over,0
+Aug-21,Australian Capital Territory,Female,1-9 hours,152.2
+Aug-21,Australian Capital Territory,Female,10-19 hours,1230.6
+Aug-21,Australian Capital Territory,Female,20-29 hours,1000
+Aug-21,Australian Capital Territory,Female,30-34 hours,1287.2
+Aug-21,Australian Capital Territory,Female,35-39 hours,1600
+Aug-21,Australian Capital Territory,Female,40-44 hours,1799
+Aug-21,Australian Capital Territory,Female,45-49 hours,0
+Aug-21,Australian Capital Territory,Female,50-59 hours,0
+Aug-21,Australian Capital Territory,Female,60-69 hours,0
+Aug-21,Australian Capital Territory,Female,70 hours and over,0
+Aug-22,New South Wales,Male,1-9 hours,179.4
+Aug-22,New South Wales,Male,10-19 hours,573.4
+Aug-22,New South Wales,Male,20-29 hours,800.4
+Aug-22,New South Wales,Male,30-34 hours,1304.9
+Aug-22,New South Wales,Male,35-39 hours,1584.5
+Aug-22,New South Wales,Male,40-44 hours,1500
+Aug-22,New South Wales,Male,45-49 hours,1800
+Aug-22,New South Wales,Male,50-59 hours,2057
+Aug-22,New South Wales,Male,60-69 hours,2314.4
+Aug-22,New South Wales,Male,70 hours and over,2496.4
+Aug-22,New South Wales,Female,1-9 hours,206.2
+Aug-22,New South Wales,Female,10-19 hours,536.8
+Aug-22,New South Wales,Female,20-29 hours,788.5
+Aug-22,New South Wales,Female,30-34 hours,1108
+Aug-22,New South Wales,Female,35-39 hours,1444.4
+Aug-22,New South Wales,Female,40-44 hours,1400
+Aug-22,New South Wales,Female,45-49 hours,1545.1
+Aug-22,New South Wales,Female,50-59 hours,1722.1
+Aug-22,New South Wales,Female,60-69 hours,0
+Aug-22,New South Wales,Female,70 hours and over,0
+Aug-22,Victoria,Male,1-9 hours,160
+Aug-22,Victoria,Male,10-19 hours,544.3
+Aug-22,Victoria,Male,20-29 hours,881.8
+Aug-22,Victoria,Male,30-34 hours,1259.4
+Aug-22,Victoria,Male,35-39 hours,1486.5
+Aug-22,Victoria,Male,40-44 hours,1538.6
+Aug-22,Victoria,Male,45-49 hours,1825.7
+Aug-22,Victoria,Male,50-59 hours,2300
+Aug-22,Victoria,Male,60-69 hours,2202.9
+Aug-22,Victoria,Male,70 hours and over,2227.5
+Aug-22,Victoria,Female,1-9 hours,214
+Aug-22,Victoria,Female,10-19 hours,550
+Aug-22,Victoria,Female,20-29 hours,804.3
+Aug-22,Victoria,Female,30-34 hours,1199.6
+Aug-22,Victoria,Female,35-39 hours,1441.2
+Aug-22,Victoria,Female,40-44 hours,1536.1
+Aug-22,Victoria,Female,45-49 hours,1763.1
+Aug-22,Victoria,Female,50-59 hours,2352.8
+Aug-22,Victoria,Female,60-69 hours,0
+Aug-22,Victoria,Female,70 hours and over,0
+Aug-22,Queensland,Male,1-9 hours,123.1
+Aug-22,Queensland,Male,10-19 hours,496.4
+Aug-22,Queensland,Male,20-29 hours,838.8
+Aug-22,Queensland,Male,30-34 hours,1058
+Aug-22,Queensland,Male,35-39 hours,1450.7
+Aug-22,Queensland,Male,40-44 hours,1500
+Aug-22,Queensland,Male,45-49 hours,1698.4
+Aug-22,Queensland,Male,50-59 hours,2175.9
+Aug-22,Queensland,Male,60-69 hours,2112.3
+Aug-22,Queensland,Male,70 hours and over,2706.5
+Aug-22,Queensland,Female,1-9 hours,148.5
+Aug-22,Queensland,Female,10-19 hours,511
+Aug-22,Queensland,Female,20-29 hours,758
+Aug-22,Queensland,Female,30-34 hours,1094
+Aug-22,Queensland,Female,35-39 hours,1400
+Aug-22,Queensland,Female,40-44 hours,1401
+Aug-22,Queensland,Female,45-49 hours,1500
+Aug-22,Queensland,Female,50-59 hours,2128.8
+Aug-22,Queensland,Female,60-69 hours,0
+Aug-22,Queensland,Female,70 hours and over,0
+Aug-22,South Australia,Male,1-9 hours,163.2
+Aug-22,South Australia,Male,10-19 hours,552.3
+Aug-22,South Australia,Male,20-29 hours,796.9
+Aug-22,South Australia,Male,30-34 hours,1266.6
+Aug-22,South Australia,Male,35-39 hours,1329.9
+Aug-22,South Australia,Male,40-44 hours,1437.2
+Aug-22,South Australia,Male,45-49 hours,1547.6
+Aug-22,South Australia,Male,50-59 hours,1554.1
+Aug-22,South Australia,Male,60-69 hours,2211.3
+Aug-22,South Australia,Male,70 hours and over,0
+Aug-22,South Australia,Female,1-9 hours,151.6
+Aug-22,South Australia,Female,10-19 hours,546.4
+Aug-22,South Australia,Female,20-29 hours,767
+Aug-22,South Australia,Female,30-34 hours,1100
+Aug-22,South Australia,Female,35-39 hours,1258.7
+Aug-22,South Australia,Female,40-44 hours,1400
+Aug-22,South Australia,Female,45-49 hours,1754.3
+Aug-22,South Australia,Female,50-59 hours,0
+Aug-22,South Australia,Female,60-69 hours,0
+Aug-22,South Australia,Female,70 hours and over,0
+Aug-22,Western Australia,Male,1-9 hours,160
+Aug-22,Western Australia,Male,10-19 hours,575.2
+Aug-22,Western Australia,Male,20-29 hours,1000
+Aug-22,Western Australia,Male,30-34 hours,1345.9
+Aug-22,Western Australia,Male,35-39 hours,1663.6
+Aug-22,Western Australia,Male,40-44 hours,1776.2
+Aug-22,Western Australia,Male,45-49 hours,2211.2
+Aug-22,Western Australia,Male,50-59 hours,2185.5
+Aug-22,Western Australia,Male,60-69 hours,2539.5
+Aug-22,Western Australia,Male,70 hours and over,3000
+Aug-22,Western Australia,Female,1-9 hours,176.2
+Aug-22,Western Australia,Female,10-19 hours,500
+Aug-22,Western Australia,Female,20-29 hours,763.9
+Aug-22,Western Australia,Female,30-34 hours,1020.5
+Aug-22,Western Australia,Female,35-39 hours,1350
+Aug-22,Western Australia,Female,40-44 hours,1426
+Aug-22,Western Australia,Female,45-49 hours,2086.8
+Aug-22,Western Australia,Female,50-59 hours,1595.9
+Aug-22,Western Australia,Female,60-69 hours,0
+Aug-22,Western Australia,Female,70 hours and over,0
+Aug-22,Tasmania,Male,1-9 hours,225.5
+Aug-22,Tasmania,Male,10-19 hours,581.3
+Aug-22,Tasmania,Male,20-29 hours,910.8
+Aug-22,Tasmania,Male,30-34 hours,991.8
+Aug-22,Tasmania,Male,35-39 hours,1381.5
+Aug-22,Tasmania,Male,40-44 hours,1350
+Aug-22,Tasmania,Male,45-49 hours,1768.9
+Aug-22,Tasmania,Male,50-59 hours,1644.2
+Aug-22,Tasmania,Male,60-69 hours,0
+Aug-22,Tasmania,Male,70 hours and over,0
+Aug-22,Tasmania,Female,1-9 hours,187.4
+Aug-22,Tasmania,Female,10-19 hours,517.7
+Aug-22,Tasmania,Female,20-29 hours,765.6
+Aug-22,Tasmania,Female,30-34 hours,1000
+Aug-22,Tasmania,Female,35-39 hours,1300
+Aug-22,Tasmania,Female,40-44 hours,1487.2
+Aug-22,Tasmania,Female,45-49 hours,0
+Aug-22,Tasmania,Female,50-59 hours,0
+Aug-22,Tasmania,Female,60-69 hours,0
+Aug-22,Tasmania,Female,70 hours and over,0
+Aug-22,Northern Territory,Male,1-9 hours,0
+Aug-22,Northern Territory,Male,10-19 hours,401.9
+Aug-22,Northern Territory,Male,20-29 hours,1112
+Aug-22,Northern Territory,Male,30-34 hours,1483.6
+Aug-22,Northern Territory,Male,35-39 hours,1565.8
+Aug-22,Northern Territory,Male,40-44 hours,1800
+Aug-22,Northern Territory,Male,45-49 hours,2000.1
+Aug-22,Northern Territory,Male,50-59 hours,0
+Aug-22,Northern Territory,Male,60-69 hours,0
+Aug-22,Northern Territory,Male,70 hours and over,1463.9
+Aug-22,Northern Territory,Female,1-9 hours,0
+Aug-22,Northern Territory,Female,10-19 hours,805.9
+Aug-22,Northern Territory,Female,20-29 hours,917.8
+Aug-22,Northern Territory,Female,30-34 hours,943.4
+Aug-22,Northern Territory,Female,35-39 hours,1500
+Aug-22,Northern Territory,Female,40-44 hours,1630.9
+Aug-22,Northern Territory,Female,45-49 hours,0
+Aug-22,Northern Territory,Female,50-59 hours,0
+Aug-22,Northern Territory,Female,60-69 hours,0
+Aug-22,Northern Territory,Female,70 hours and over,0
+Aug-22,Australian Capital Territory,Male,1-9 hours,279.8
+Aug-22,Australian Capital Territory,Male,10-19 hours,1136.7
+Aug-22,Australian Capital Territory,Male,20-29 hours,991.5
+Aug-22,Australian Capital Territory,Male,30-34 hours,1811.3
+Aug-22,Australian Capital Territory,Male,35-39 hours,1931
+Aug-22,Australian Capital Territory,Male,40-44 hours,1709.7
+Aug-22,Australian Capital Territory,Male,45-49 hours,2000.7
+Aug-22,Australian Capital Territory,Male,50-59 hours,0
+Aug-22,Australian Capital Territory,Male,60-69 hours,0
+Aug-22,Australian Capital Territory,Male,70 hours and over,0
+Aug-22,Australian Capital Territory,Female,1-9 hours,313.2
+Aug-22,Australian Capital Territory,Female,10-19 hours,698.2
+Aug-22,Australian Capital Territory,Female,20-29 hours,1008.9
+Aug-22,Australian Capital Territory,Female,30-34 hours,1250
+Aug-22,Australian Capital Territory,Female,35-39 hours,1606.3
+Aug-22,Australian Capital Territory,Female,40-44 hours,2100
+Aug-22,Australian Capital Territory,Female,45-49 hours,0
+Aug-22,Australian Capital Territory,Female,50-59 hours,0
+Aug-22,Australian Capital Territory,Female,60-69 hours,0
+Aug-22,Australian Capital Territory,Female,70 hours and over,0
+Aug-23,New South Wales,Male,1-9 hours,187.3
+Aug-23,New South Wales,Male,10-19 hours,639
+Aug-23,New South Wales,Male,20-29 hours,857.8
+Aug-23,New South Wales,Male,30-34 hours,1346.8
+Aug-23,New South Wales,Male,35-39 hours,1700
+Aug-23,New South Wales,Male,40-44 hours,1600
+Aug-23,New South Wales,Male,45-49 hours,1933
+Aug-23,New South Wales,Male,50-59 hours,2298.7
+Aug-23,New South Wales,Male,60-69 hours,2318.1
+Aug-23,New South Wales,Male,70 hours and over,2459.1
+Aug-23,New South Wales,Female,1-9 hours,195
+Aug-23,New South Wales,Female,10-19 hours,600
+Aug-23,New South Wales,Female,20-29 hours,823.9
+Aug-23,New South Wales,Female,30-34 hours,1263.2
+Aug-23,New South Wales,Female,35-39 hours,1561.3
+Aug-23,New South Wales,Female,40-44 hours,1550
+Aug-23,New South Wales,Female,45-49 hours,1954.4
+Aug-23,New South Wales,Female,50-59 hours,2500
+Aug-23,New South Wales,Female,60-69 hours,0
+Aug-23,New South Wales,Female,70 hours and over,0
+Aug-23,Victoria,Male,1-9 hours,150.5
+Aug-23,Victoria,Male,10-19 hours,518.3
+Aug-23,Victoria,Male,20-29 hours,948.7
+Aug-23,Victoria,Male,30-34 hours,1291.5
+Aug-23,Victoria,Male,35-39 hours,1605.7
+Aug-23,Victoria,Male,40-44 hours,1720.2
+Aug-23,Victoria,Male,45-49 hours,1706.7
+Aug-23,Victoria,Male,50-59 hours,2244.1
+Aug-23,Victoria,Male,60-69 hours,2476.7
+Aug-23,Victoria,Male,70 hours and over,3000
+Aug-23,Victoria,Female,1-9 hours,199.1
+Aug-23,Victoria,Female,10-19 hours,574.6
+Aug-23,Victoria,Female,20-29 hours,888.8
+Aug-23,Victoria,Female,30-34 hours,1221.5
+Aug-23,Victoria,Female,35-39 hours,1505.5
+Aug-23,Victoria,Female,40-44 hours,1500
+Aug-23,Victoria,Female,45-49 hours,2248.1
+Aug-23,Victoria,Female,50-59 hours,2308.7
+Aug-23,Victoria,Female,60-69 hours,0
+Aug-23,Victoria,Female,70 hours and over,0
+Aug-23,Queensland,Male,1-9 hours,172.5
+Aug-23,Queensland,Male,10-19 hours,526.9
+Aug-23,Queensland,Male,20-29 hours,842.8
+Aug-23,Queensland,Male,30-34 hours,1460.7
+Aug-23,Queensland,Male,35-39 hours,1600
+Aug-23,Queensland,Male,40-44 hours,1600
+Aug-23,Queensland,Male,45-49 hours,1902.5
+Aug-23,Queensland,Male,50-59 hours,2000
+Aug-23,Queensland,Male,60-69 hours,2201.6
+Aug-23,Queensland,Male,70 hours and over,2191
+Aug-23,Queensland,Female,1-9 hours,160
+Aug-23,Queensland,Female,10-19 hours,671.6
+Aug-23,Queensland,Female,20-29 hours,883.6
+Aug-23,Queensland,Female,30-34 hours,1100
+Aug-23,Queensland,Female,35-39 hours,1382.2
+Aug-23,Queensland,Female,40-44 hours,1535.1
+Aug-23,Queensland,Female,45-49 hours,1542.8
+Aug-23,Queensland,Female,50-59 hours,0
+Aug-23,Queensland,Female,60-69 hours,0
+Aug-23,Queensland,Female,70 hours and over,0
+Aug-23,South Australia,Male,1-9 hours,188.9
+Aug-23,South Australia,Male,10-19 hours,600
+Aug-23,South Australia,Male,20-29 hours,900
+Aug-23,South Australia,Male,30-34 hours,1150
+Aug-23,South Australia,Male,35-39 hours,1500
+Aug-23,South Australia,Male,40-44 hours,1450
+Aug-23,South Australia,Male,45-49 hours,1750
+Aug-23,South Australia,Male,50-59 hours,1879.1
+Aug-23,South Australia,Male,60-69 hours,0
+Aug-23,South Australia,Male,70 hours and over,0
+Aug-23,South Australia,Female,1-9 hours,176.3
+Aug-23,South Australia,Female,10-19 hours,600.2
+Aug-23,South Australia,Female,20-29 hours,863.6
+Aug-23,South Australia,Female,30-34 hours,1121.5
+Aug-23,South Australia,Female,35-39 hours,1495
+Aug-23,South Australia,Female,40-44 hours,1428.2
+Aug-23,South Australia,Female,45-49 hours,0
+Aug-23,South Australia,Female,50-59 hours,0
+Aug-23,South Australia,Female,60-69 hours,0
+Aug-23,South Australia,Female,70 hours and over,0
+Aug-23,Western Australia,Male,1-9 hours,227.6
+Aug-23,Western Australia,Male,10-19 hours,480.1
+Aug-23,Western Australia,Male,20-29 hours,856.9
+Aug-23,Western Australia,Male,30-34 hours,1500
+Aug-23,Western Australia,Male,35-39 hours,1700.8
+Aug-23,Western Australia,Male,40-44 hours,1700
+Aug-23,Western Australia,Male,45-49 hours,1880.5
+Aug-23,Western Australia,Male,50-59 hours,2321.1
+Aug-23,Western Australia,Male,60-69 hours,2691.8
+Aug-23,Western Australia,Male,70 hours and over,3560.7
+Aug-23,Western Australia,Female,1-9 hours,180
+Aug-23,Western Australia,Female,10-19 hours,621.6
+Aug-23,Western Australia,Female,20-29 hours,799
+Aug-23,Western Australia,Female,30-34 hours,1200
+Aug-23,Western Australia,Female,35-39 hours,1460.3
+Aug-23,Western Australia,Female,40-44 hours,1566.2
+Aug-23,Western Australia,Female,45-49 hours,1927.7
+Aug-23,Western Australia,Female,50-59 hours,2177.5
+Aug-23,Western Australia,Female,60-69 hours,0
+Aug-23,Western Australia,Female,70 hours and over,0
+Aug-23,Tasmania,Male,1-9 hours,151.3
+Aug-23,Tasmania,Male,10-19 hours,650
+Aug-23,Tasmania,Male,20-29 hours,1010.9
+Aug-23,Tasmania,Male,30-34 hours,1180.9
+Aug-23,Tasmania,Male,35-39 hours,1599
+Aug-23,Tasmania,Male,40-44 hours,1347.2
+Aug-23,Tasmania,Male,45-49 hours,1603.5
+Aug-23,Tasmania,Male,50-59 hours,1482.3
+Aug-23,Tasmania,Male,60-69 hours,0
+Aug-23,Tasmania,Male,70 hours and over,0
+Aug-23,Tasmania,Female,1-9 hours,171.2
+Aug-23,Tasmania,Female,10-19 hours,569.8
+Aug-23,Tasmania,Female,20-29 hours,894.3
+Aug-23,Tasmania,Female,30-34 hours,1084.4
+Aug-23,Tasmania,Female,35-39 hours,1464.3
+Aug-23,Tasmania,Female,40-44 hours,1430.9
+Aug-23,Tasmania,Female,45-49 hours,0
+Aug-23,Tasmania,Female,50-59 hours,0
+Aug-23,Tasmania,Female,60-69 hours,0
+Aug-23,Tasmania,Female,70 hours and over,0
+Aug-23,Northern Territory,Male,1-9 hours,0
+Aug-23,Northern Territory,Male,10-19 hours,775.4
+Aug-23,Northern Territory,Male,20-29 hours,1000
+Aug-23,Northern Territory,Male,30-34 hours,1004.9
+Aug-23,Northern Territory,Male,35-39 hours,1630.6
+Aug-23,Northern Territory,Male,40-44 hours,1800
+Aug-23,Northern Territory,Male,45-49 hours,2145.4
+Aug-23,Northern Territory,Male,50-59 hours,2418.4
+Aug-23,Northern Territory,Male,60-69 hours,0
+Aug-23,Northern Territory,Male,70 hours and over,0
+Aug-23,Northern Territory,Female,1-9 hours,120
+Aug-23,Northern Territory,Female,10-19 hours,1000
+Aug-23,Northern Territory,Female,20-29 hours,800
+Aug-23,Northern Territory,Female,30-34 hours,1249.3
+Aug-23,Northern Territory,Female,35-39 hours,1450.8
+Aug-23,Northern Territory,Female,40-44 hours,1577.9
+Aug-23,Northern Territory,Female,45-49 hours,0
+Aug-23,Northern Territory,Female,50-59 hours,0
+Aug-23,Northern Territory,Female,60-69 hours,0
+Aug-23,Northern Territory,Female,70 hours and over,0
+Aug-23,Australian Capital Territory,Male,1-9 hours,100
+Aug-23,Australian Capital Territory,Male,10-19 hours,787
+Aug-23,Australian Capital Territory,Male,20-29 hours,1150
+Aug-23,Australian Capital Territory,Male,30-34 hours,1449.7
+Aug-23,Australian Capital Territory,Male,35-39 hours,1780.8
+Aug-23,Australian Capital Territory,Male,40-44 hours,1750
+Aug-23,Australian Capital Territory,Male,45-49 hours,1656
+Aug-23,Australian Capital Territory,Male,50-59 hours,0
+Aug-23,Australian Capital Territory,Male,60-69 hours,0
+Aug-23,Australian Capital Territory,Male,70 hours and over,0
+Aug-23,Australian Capital Territory,Female,1-9 hours,200
+Aug-23,Australian Capital Territory,Female,10-19 hours,853.1
+Aug-23,Australian Capital Territory,Female,20-29 hours,1001
+Aug-23,Australian Capital Territory,Female,30-34 hours,1500.4
+Aug-23,Australian Capital Territory,Female,35-39 hours,1702
+Aug-23,Australian Capital Territory,Female,40-44 hours,1643.4
+Aug-23,Australian Capital Territory,Female,45-49 hours,0
+Aug-23,Australian Capital Territory,Female,50-59 hours,0
+Aug-23,Australian Capital Territory,Female,60-69 hours,0
+Aug-23,Australian Capital Territory,Female,70 hours and over,0
