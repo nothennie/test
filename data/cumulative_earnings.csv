@@ -1,0 +1,1261 @@
+Career_Year,State,Sex,Cumulative_Earnings
+1,New South Wales,Male,78000
+2,New South Wales,Male,158340
+3,New South Wales,Male,241090.2
+4,New South Wales,Male,326322.906
+5,New South Wales,Male,414112.5932
+6,New South Wales,Male,504535.971
+7,New South Wales,Male,597672.0501
+8,New South Wales,Male,693602.2116
+9,New South Wales,Male,792410.278
+10,New South Wales,Male,894182.5863
+11,New South Wales,Male,999008.0639
+12,New South Wales,Male,1106978.306
+13,New South Wales,Male,1218187.655
+14,New South Wales,Male,1332733.285
+15,New South Wales,Male,1450715.283
+16,New South Wales,Male,1572236.742
+17,New South Wales,Male,1697403.844
+18,New South Wales,Male,1826325.959
+19,New South Wales,Male,1959115.738
+20,New South Wales,Male,2095889.21
+21,New South Wales,Male,2236765.886
+22,New South Wales,Male,2381868.863
+23,New South Wales,Male,2531324.929
+24,New South Wales,Male,2685264.677
+25,New South Wales,Male,2843822.617
+26,New South Wales,Male,3007137.296
+27,New South Wales,Male,3175351.414
+28,New South Wales,Male,3348611.957
+29,New South Wales,Male,3527070.316
+30,New South Wales,Male,3710882.425
+31,New South Wales,Male,3900208.898
+32,New South Wales,Male,4095215.165
+33,New South Wales,Male,4296071.62
+34,New South Wales,Male,4502953.768
+35,New South Wales,Male,4716042.381
+36,New South Wales,Male,4935523.653
+37,New South Wales,Male,5161589.362
+38,New South Wales,Male,5394437.043
+39,New South Wales,Male,5634270.155
+40,New South Wales,Male,5881298.259
+41,New South Wales,Male,6135737.207
+42,New South Wales,Male,6397809.323
+43,New South Wales,Male,6667743.603
+44,New South Wales,Male,6945775.911
+45,New South Wales,Male,7232149.188
+46,New South Wales,Male,7527113.664
+47,New South Wales,Male,7830927.074
+48,New South Wales,Male,8143854.886
+49,New South Wales,Male,8466170.533
+50,New South Wales,Male,8798155.649
+51,New South Wales,Male,9140100.318
+52,New South Wales,Male,9492303.328
+53,New South Wales,Male,9855072.427
+54,New South Wales,Male,10228724.6
+55,New South Wales,Male,10613586.34
+56,New South Wales,Male,11009993.93
+57,New South Wales,Male,11418293.75
+58,New South Wales,Male,11838842.56
+59,New South Wales,Male,12272007.84
+60,New South Wales,Male,12718168.07
+61,New South Wales,Male,13177713.11
+62,New South Wales,Male,13651044.51
+63,New South Wales,Male,14138575.84
+64,New South Wales,Male,14640733.12
+65,New South Wales,Male,15157955.11
+66,New South Wales,Male,15690693.76
+67,New South Wales,Male,16239414.58
+68,New South Wales,Male,16804597.01
+69,New South Wales,Male,17386734.92
+70,New South Wales,Male,17986336.97
+1,New South Wales,Female,62400
+2,New South Wales,Female,126672
+3,New South Wales,Female,192872.16
+4,New South Wales,Female,261058.3248
+5,New South Wales,Female,331290.0745
+6,New South Wales,Female,403628.7768
+7,New South Wales,Female,478137.6401
+8,New South Wales,Female,554881.7693
+9,New South Wales,Female,633928.2224
+10,New South Wales,Female,715346.069
+11,New South Wales,Female,799206.4511
+12,New South Wales,Female,885582.6446
+13,New South Wales,Female,974550.124
+14,New South Wales,Female,1066186.628
+15,New South Wales,Female,1160572.227
+16,New South Wales,Female,1257789.393
+17,New South Wales,Female,1357923.075
+18,New South Wales,Female,1461060.767
+19,New South Wales,Female,1567292.59
+20,New South Wales,Female,1676711.368
+21,New South Wales,Female,1789412.709
+22,New South Wales,Female,1905495.09
+23,New South Wales,Female,2025059.943
+24,New South Wales,Female,2148211.741
+25,New South Wales,Female,2275058.094
+26,New South Wales,Female,2405709.836
+27,New South Wales,Female,2540281.132
+28,New South Wales,Female,2678889.566
+29,New South Wales,Female,2821656.252
+30,New South Wales,Female,2968705.94
+31,New South Wales,Female,3120167.118
+32,New South Wales,Female,3276172.132
+33,New South Wales,Female,3436857.296
+34,New South Wales,Female,3602363.015
+35,New South Wales,Female,3772833.905
+36,New South Wales,Female,3948418.922
+37,New South Wales,Female,4129271.49
+38,New South Wales,Female,4315549.635
+39,New South Wales,Female,4507416.124
+40,New South Wales,Female,4705038.607
+41,New South Wales,Female,4908589.766
+42,New South Wales,Female,5118247.459
+43,New South Wales,Female,5334194.882
+44,New South Wales,Female,5556620.729
+45,New South Wales,Female,5785719.351
+46,New South Wales,Female,6021690.931
+47,New South Wales,Female,6264741.659
+48,New South Wales,Female,6515083.909
+49,New South Wales,Female,6772936.426
+50,New South Wales,Female,7038524.519
+51,New South Wales,Female,7312080.254
+52,New South Wales,Female,7593842.662
+53,New South Wales,Female,7884057.942
+54,New South Wales,Female,8182979.68
+55,New South Wales,Female,8490869.071
+56,New South Wales,Female,8807995.143
+57,New South Wales,Female,9134634.997
+58,New South Wales,Female,9471074.047
+59,New South Wales,Female,9817606.268
+60,New South Wales,Female,10174534.46
+61,New South Wales,Female,10542170.49
+62,New South Wales,Female,10920835.6
+63,New South Wales,Female,11310860.67
+64,New South Wales,Female,11712586.49
+65,New South Wales,Female,12126364.09
+66,New South Wales,Female,12552555.01
+67,New South Wales,Female,12991531.66
+68,New South Wales,Female,13443677.61
+69,New South Wales,Female,13909387.94
+70,New South Wales,Female,14389069.58
+1,Victoria,Male,78000
+2,Victoria,Male,158340
+3,Victoria,Male,241090.2
+4,Victoria,Male,326322.906
+5,Victoria,Male,414112.5932
+6,Victoria,Male,504535.971
+7,Victoria,Male,597672.0501
+8,Victoria,Male,693602.2116
+9,Victoria,Male,792410.278
+10,Victoria,Male,894182.5863
+11,Victoria,Male,999008.0639
+12,Victoria,Male,1106978.306
+13,Victoria,Male,1218187.655
+14,Victoria,Male,1332733.285
+15,Victoria,Male,1450715.283
+16,Victoria,Male,1572236.742
+17,Victoria,Male,1697403.844
+18,Victoria,Male,1826325.959
+19,Victoria,Male,1959115.738
+20,Victoria,Male,2095889.21
+21,Victoria,Male,2236765.886
+22,Victoria,Male,2381868.863
+23,Victoria,Male,2531324.929
+24,Victoria,Male,2685264.677
+25,Victoria,Male,2843822.617
+26,Victoria,Male,3007137.296
+27,Victoria,Male,3175351.414
+28,Victoria,Male,3348611.957
+29,Victoria,Male,3527070.316
+30,Victoria,Male,3710882.425
+31,Victoria,Male,3900208.898
+32,Victoria,Male,4095215.165
+33,Victoria,Male,4296071.62
+34,Victoria,Male,4502953.768
+35,Victoria,Male,4716042.381
+36,Victoria,Male,4935523.653
+37,Victoria,Male,5161589.362
+38,Victoria,Male,5394437.043
+39,Victoria,Male,5634270.155
+40,Victoria,Male,5881298.259
+41,Victoria,Male,6135737.207
+42,Victoria,Male,6397809.323
+43,Victoria,Male,6667743.603
+44,Victoria,Male,6945775.911
+45,Victoria,Male,7232149.188
+46,Victoria,Male,7527113.664
+47,Victoria,Male,7830927.074
+48,Victoria,Male,8143854.886
+49,Victoria,Male,8466170.533
+50,Victoria,Male,8798155.649
+51,Victoria,Male,9140100.318
+52,Victoria,Male,9492303.328
+53,Victoria,Male,9855072.427
+54,Victoria,Male,10228724.6
+55,Victoria,Male,10613586.34
+56,Victoria,Male,11009993.93
+57,Victoria,Male,11418293.75
+58,Victoria,Male,11838842.56
+59,Victoria,Male,12272007.84
+60,Victoria,Male,12718168.07
+61,Victoria,Male,13177713.11
+62,Victoria,Male,13651044.51
+63,Victoria,Male,14138575.84
+64,Victoria,Male,14640733.12
+65,Victoria,Male,15157955.11
+66,Victoria,Male,15690693.76
+67,Victoria,Male,16239414.58
+68,Victoria,Male,16804597.01
+69,Victoria,Male,17386734.92
+70,Victoria,Male,17986336.97
+1,Victoria,Female,59800
+2,Victoria,Female,121394
+3,Victoria,Female,184835.82
+4,Victoria,Female,250180.8946
+5,Victoria,Female,317486.3214
+6,Victoria,Female,386810.9111
+7,Victoria,Female,458215.2384
+8,Victoria,Female,531761.6956
+9,Victoria,Female,607514.5464
+10,Victoria,Female,685539.9828
+11,Victoria,Female,765906.1823
+12,Victoria,Female,848683.3678
+13,Victoria,Female,933943.8688
+14,Victoria,Female,1021762.185
+15,Victoria,Female,1112215.05
+16,Victoria,Female,1205381.502
+17,Victoria,Female,1301342.947
+18,Victoria,Female,1400183.235
+19,Victoria,Female,1501988.732
+20,Victoria,Female,1606848.394
+21,Victoria,Female,1714853.846
+22,Victoria,Female,1826099.462
+23,Victoria,Female,1940682.446
+24,Victoria,Female,2058702.919
+25,Victoria,Female,2180264.006
+26,Victoria,Female,2305471.927
+27,Victoria,Female,2434436.084
+28,Victoria,Female,2567269.167
+29,Victoria,Female,2704087.242
+30,Victoria,Female,2845009.859
+31,Victoria,Female,2990160.155
+32,Victoria,Female,3139664.96
+33,Victoria,Female,3293654.908
+34,Victoria,Female,3452264.556
+35,Victoria,Female,3615632.492
+36,Victoria,Female,3783901.467
+37,Victoria,Female,3957218.511
+38,Victoria,Female,4135735.067
+39,Victoria,Female,4319607.118
+40,Victoria,Female,4508995.332
+41,Victoria,Female,4704065.192
+42,Victoria,Female,4904987.148
+43,Victoria,Female,5111936.762
+44,Victoria,Female,5325094.865
+45,Victoria,Female,5544647.711
+46,Victoria,Female,5770787.142
+47,Victoria,Female,6003710.757
+48,Victoria,Female,6243622.079
+49,Victoria,Female,6490730.742
+50,Victoria,Female,6745252.664
+51,Victoria,Female,7007410.244
+52,Victoria,Female,7277432.551
+53,Victoria,Female,7555555.528
+54,Victoria,Female,7842022.194
+55,Victoria,Female,8137082.859
+56,Victoria,Female,8440995.345
+57,Victoria,Female,8754025.206
+58,Victoria,Female,9076445.962
+59,Victoria,Female,9408539.341
+60,Victoria,Female,9750595.521
+61,Victoria,Female,10102913.39
+62,Victoria,Female,10465800.79
+63,Victoria,Female,10839574.81
+64,Victoria,Female,11224562.06
+65,Victoria,Female,11621098.92
+66,Victoria,Female,12029531.89
+67,Victoria,Female,12450217.84
+68,Victoria,Female,12883524.38
+69,Victoria,Female,13329830.11
+70,Victoria,Female,13789525.01
+1,Queensland,Male,78000
+2,Queensland,Male,158340
+3,Queensland,Male,241090.2
+4,Queensland,Male,326322.906
+5,Queensland,Male,414112.5932
+6,Queensland,Male,504535.971
+7,Queensland,Male,597672.0501
+8,Queensland,Male,693602.2116
+9,Queensland,Male,792410.278
+10,Queensland,Male,894182.5863
+11,Queensland,Male,999008.0639
+12,Queensland,Male,1106978.306
+13,Queensland,Male,1218187.655
+14,Queensland,Male,1332733.285
+15,Queensland,Male,1450715.283
+16,Queensland,Male,1572236.742
+17,Queensland,Male,1697403.844
+18,Queensland,Male,1826325.959
+19,Queensland,Male,1959115.738
+20,Queensland,Male,2095889.21
+21,Queensland,Male,2236765.886
+22,Queensland,Male,2381868.863
+23,Queensland,Male,2531324.929
+24,Queensland,Male,2685264.677
+25,Queensland,Male,2843822.617
+26,Queensland,Male,3007137.296
+27,Queensland,Male,3175351.414
+28,Queensland,Male,3348611.957
+29,Queensland,Male,3527070.316
+30,Queensland,Male,3710882.425
+31,Queensland,Male,3900208.898
+32,Queensland,Male,4095215.165
+33,Queensland,Male,4296071.62
+34,Queensland,Male,4502953.768
+35,Queensland,Male,4716042.381
+36,Queensland,Male,4935523.653
+37,Queensland,Male,5161589.362
+38,Queensland,Male,5394437.043
+39,Queensland,Male,5634270.155
+40,Queensland,Male,5881298.259
+41,Queensland,Male,6135737.207
+42,Queensland,Male,6397809.323
+43,Queensland,Male,6667743.603
+44,Queensland,Male,6945775.911
+45,Queensland,Male,7232149.188
+46,Queensland,Male,7527113.664
+47,Queensland,Male,7830927.074
+48,Queensland,Male,8143854.886
+49,Queensland,Male,8466170.533
+50,Queensland,Male,8798155.649
+51,Queensland,Male,9140100.318
+52,Queensland,Male,9492303.328
+53,Queensland,Male,9855072.427
+54,Queensland,Male,10228724.6
+55,Queensland,Male,10613586.34
+56,Queensland,Male,11009993.93
+57,Queensland,Male,11418293.75
+58,Queensland,Male,11838842.56
+59,Queensland,Male,12272007.84
+60,Queensland,Male,12718168.07
+61,Queensland,Male,13177713.11
+62,Queensland,Male,13651044.51
+63,Queensland,Male,14138575.84
+64,Queensland,Male,14640733.12
+65,Queensland,Male,15157955.11
+66,Queensland,Male,15690693.76
+67,Queensland,Male,16239414.58
+68,Queensland,Male,16804597.01
+69,Queensland,Male,17386734.92
+70,Queensland,Male,17986336.97
+1,Queensland,Female,59800
+2,Queensland,Female,121394
+3,Queensland,Female,184835.82
+4,Queensland,Female,250180.8946
+5,Queensland,Female,317486.3214
+6,Queensland,Female,386810.9111
+7,Queensland,Female,458215.2384
+8,Queensland,Female,531761.6956
+9,Queensland,Female,607514.5464
+10,Queensland,Female,685539.9828
+11,Queensland,Female,765906.1823
+12,Queensland,Female,848683.3678
+13,Queensland,Female,933943.8688
+14,Queensland,Female,1021762.185
+15,Queensland,Female,1112215.05
+16,Queensland,Female,1205381.502
+17,Queensland,Female,1301342.947
+18,Queensland,Female,1400183.235
+19,Queensland,Female,1501988.732
+20,Queensland,Female,1606848.394
+21,Queensland,Female,1714853.846
+22,Queensland,Female,1826099.462
+23,Queensland,Female,1940682.446
+24,Queensland,Female,2058702.919
+25,Queensland,Female,2180264.006
+26,Queensland,Female,2305471.927
+27,Queensland,Female,2434436.084
+28,Queensland,Female,2567269.167
+29,Queensland,Female,2704087.242
+30,Queensland,Female,2845009.859
+31,Queensland,Female,2990160.155
+32,Queensland,Female,3139664.96
+33,Queensland,Female,3293654.908
+34,Queensland,Female,3452264.556
+35,Queensland,Female,3615632.492
+36,Queensland,Female,3783901.467
+37,Queensland,Female,3957218.511
+38,Queensland,Female,4135735.067
+39,Queensland,Female,4319607.118
+40,Queensland,Female,4508995.332
+41,Queensland,Female,4704065.192
+42,Queensland,Female,4904987.148
+43,Queensland,Female,5111936.762
+44,Queensland,Female,5325094.865
+45,Queensland,Female,5544647.711
+46,Queensland,Female,5770787.142
+47,Queensland,Female,6003710.757
+48,Queensland,Female,6243622.079
+49,Queensland,Female,6490730.742
+50,Queensland,Female,6745252.664
+51,Queensland,Female,7007410.244
+52,Queensland,Female,7277432.551
+53,Queensland,Female,7555555.528
+54,Queensland,Female,7842022.194
+55,Queensland,Female,8137082.859
+56,Queensland,Female,8440995.345
+57,Queensland,Female,8754025.206
+58,Queensland,Female,9076445.962
+59,Queensland,Female,9408539.341
+60,Queensland,Female,9750595.521
+61,Queensland,Female,10102913.39
+62,Queensland,Female,10465800.79
+63,Queensland,Female,10839574.81
+64,Queensland,Female,11224562.06
+65,Queensland,Female,11621098.92
+66,Queensland,Female,12029531.89
+67,Queensland,Female,12450217.84
+68,Queensland,Female,12883524.38
+69,Queensland,Female,13329830.11
+70,Queensland,Female,13789525.01
+1,South Australia,Male,72800
+2,South Australia,Male,147784
+3,South Australia,Male,225017.52
+4,South Australia,Male,304568.0456
+5,South Australia,Male,386505.087
+6,South Australia,Male,470900.2396
+7,South Australia,Male,557827.2468
+8,South Australia,Male,647362.0642
+9,South Australia,Male,739582.9261
+10,South Australia,Male,834570.4139
+11,South Australia,Male,932407.5263
+12,South Australia,Male,1033179.752
+13,South Australia,Male,1136975.145
+14,South Australia,Male,1243884.399
+15,South Australia,Male,1354000.931
+16,South Australia,Male,1467420.959
+17,South Australia,Male,1584243.588
+18,South Australia,Male,1704570.895
+19,South Australia,Male,1828508.022
+20,South Australia,Male,1956163.263
+21,South Australia,Male,2087648.161
+22,South Australia,Male,2223077.606
+23,South Australia,Male,2362569.934
+24,South Australia,Male,2506247.032
+25,South Australia,Male,2654234.443
+26,South Australia,Male,2806661.476
+27,South Australia,Male,2963661.32
+28,South Australia,Male,3125371.16
+29,South Australia,Male,3291932.295
+30,South Australia,Male,3463490.263
+31,South Australia,Male,3640194.971
+32,South Australia,Male,3822200.82
+33,South Australia,Male,4009666.845
+34,South Australia,Male,4202756.85
+35,South Australia,Male,4401639.556
+36,South Australia,Male,4606488.743
+37,South Australia,Male,4817483.405
+38,South Australia,Male,5034807.907
+39,South Australia,Male,5258652.144
+40,South Australia,Male,5489211.709
+41,South Australia,Male,5726688.06
+42,South Australia,Male,5971288.702
+43,South Australia,Male,6223227.363
+44,South Australia,Male,6482724.184
+45,South Australia,Male,6750005.909
+46,South Australia,Male,7025306.086
+47,South Australia,Male,7308865.269
+48,South Australia,Male,7600931.227
+49,South Australia,Male,7901759.164
+50,South Australia,Male,8211611.939
+51,South Australia,Male,8530760.297
+52,South Australia,Male,8859483.106
+53,South Australia,Male,9198067.599
+54,South Australia,Male,9546809.627
+55,South Australia,Male,9906013.916
+56,South Australia,Male,10275994.33
+57,South Australia,Male,10657074.16
+58,South Australia,Male,11049586.39
+59,South Australia,Male,11453873.98
+60,South Australia,Male,11870290.2
+61,South Australia,Male,12299198.91
+62,South Australia,Male,12740974.87
+63,South Australia,Male,13196004.12
+64,South Australia,Male,13664684.24
+65,South Australia,Male,14147424.77
+66,South Australia,Male,14644647.51
+67,South Australia,Male,15156786.94
+68,South Australia,Male,15684290.55
+69,South Australia,Male,16227619.26
+70,South Australia,Male,16787247.84
+1,South Australia,Female,54964
+2,South Australia,Female,111576.92
+3,South Australia,Female,169888.2276
+4,South Australia,Female,229948.8744
+5,South Australia,Female,291811.3407
+6,South Australia,Female,355529.6809
+7,South Australia,Female,421159.5713
+8,South Australia,Female,488758.3584
+9,South Australia,Female,558385.1092
+10,South Australia,Female,630100.6625
+11,South Australia,Female,703967.6823
+12,South Australia,Female,780050.7128
+13,South Australia,Female,858416.2342
+14,South Australia,Female,939132.7212
+15,South Australia,Female,1022270.703
+16,South Australia,Female,1107902.824
+17,South Australia,Female,1196103.909
+18,South Australia,Female,1286951.026
+19,South Australia,Female,1380523.557
+20,South Australia,Female,1476903.263
+21,South Australia,Female,1576174.361
+22,South Australia,Female,1678423.592
+23,South Australia,Female,1783740.3
+24,South Australia,Female,1892216.509
+25,South Australia,Female,2003947.004
+26,South Australia,Female,2119029.414
+27,South Australia,Female,2237564.297
+28,South Australia,Female,2359655.226
+29,South Australia,Female,2485408.882
+30,South Australia,Female,2614935.149
+31,South Australia,Female,2748347.203
+32,South Australia,Female,2885761.619
+33,South Australia,Female,3027298.468
+34,South Australia,Female,3173081.422
+35,South Australia,Female,3323237.865
+36,South Australia,Female,3477899.001
+37,South Australia,Female,3637199.971
+38,South Australia,Female,3801279.97
+39,South Australia,Female,3970282.369
+40,South Australia,Female,4144354.84
+41,South Australia,Female,4323649.485
+42,South Australia,Female,4508322.97
+43,South Australia,Female,4698536.659
+44,South Australia,Female,4894456.759
+45,South Australia,Female,5096254.461
+46,South Australia,Female,5304106.095
+47,South Australia,Female,5518193.278
+48,South Australia,Female,5738703.076
+49,South Australia,Female,5965828.169
+50,South Australia,Female,6199767.014
+51,South Australia,Female,6440724.024
+52,South Australia,Female,6688909.745
+53,South Australia,Female,6944541.037
+54,South Australia,Female,7207841.268
+55,South Australia,Female,7479040.506
+56,South Australia,Female,7758375.722
+57,South Australia,Female,8046090.993
+58,South Australia,Female,8342437.723
+59,South Australia,Female,8647674.855
+60,South Australia,Female,8962069.1
+61,South Australia,Female,9285895.173
+62,South Australia,Female,9619436.029
+63,South Australia,Female,9962983.109
+64,South Australia,Female,10316836.6
+65,South Australia,Female,10681305.7
+66,South Australia,Female,11056708.87
+67,South Australia,Female,11443374.14
+68,South Australia,Female,11841639.36
+69,South Australia,Female,12251852.54
+70,South Australia,Female,12674372.12
+1,Western Australia,Male,87037.6
+2,Western Australia,Male,176686.328
+3,Western Australia,Male,269024.5178
+4,Western Australia,Male,364132.8534
+5,Western Australia,Male,462094.439
+6,Western Australia,Male,562994.8721
+7,Western Australia,Male,666922.3183
+8,Western Australia,Male,773967.5879
+9,Western Australia,Male,884224.2155
+10,Western Australia,Male,997788.542
+11,Western Australia,Male,1114759.798
+12,Western Australia,Male,1235240.192
+13,Western Australia,Male,1359334.998
+14,Western Australia,Male,1487152.648
+15,Western Australia,Male,1618804.827
+16,Western Australia,Male,1754406.572
+17,Western Australia,Male,1894076.369
+18,Western Australia,Male,2037936.26
+19,Western Australia,Male,2186111.948
+20,Western Australia,Male,2338732.907
+21,Western Australia,Male,2495932.494
+22,Western Australia,Male,2657848.069
+23,Western Australia,Male,2824621.111
+24,Western Australia,Male,2996397.344
+25,Western Australia,Male,3173326.864
+26,Western Australia,Male,3355564.27
+27,Western Australia,Male,3543268.798
+28,Western Australia,Male,3736604.462
+29,Western Australia,Male,3935740.196
+30,Western Australia,Male,4140850.002
+31,Western Australia,Male,4352113.102
+32,Western Australia,Male,4569714.095
+33,Western Australia,Male,4793843.118
+34,Western Australia,Male,5024696.012
+35,Western Australia,Male,5262474.492
+36,Western Australia,Male,5507386.327
+37,Western Australia,Male,5759645.517
+38,Western Australia,Male,6019472.482
+39,Western Australia,Male,6287094.256
+40,Western Australia,Male,6562744.684
+41,Western Australia,Male,6846664.625
+42,Western Australia,Male,7139102.163
+43,Western Australia,Male,7440312.828
+44,Western Australia,Male,7750559.813
+45,Western Australia,Male,8070114.208
+46,Western Australia,Male,8399255.234
+47,Western Australia,Male,8738270.491
+48,Western Australia,Male,9087456.206
+49,Western Australia,Male,9447117.492
+50,Western Australia,Male,9817568.616
+51,Western Australia,Male,10199133.27
+52,Western Australia,Male,10592144.87
+53,Western Australia,Male,10996946.82
+54,Western Australia,Male,11413892.82
+55,Western Australia,Male,11843347.21
+56,Western Australia,Male,12285685.22
+57,Western Australia,Male,12741293.38
+58,Western Australia,Male,13210569.78
+59,Western Australia,Male,13693924.48
+60,Western Australia,Male,14191779.81
+61,Western Australia,Male,14704570.81
+62,Western Australia,Male,15232745.53
+63,Western Australia,Male,15776765.5
+64,Western Australia,Male,16337106.06
+65,Western Australia,Male,16914256.84
+66,Western Australia,Male,17508722.15
+67,Western Australia,Male,18121021.41
+68,Western Australia,Male,18751689.65
+69,Western Australia,Male,19401277.94
+70,Western Australia,Male,20070353.88
+1,Western Australia,Female,57200
+2,Western Australia,Female,116116
+3,Western Australia,Female,176799.48
+4,Western Australia,Female,239303.4644
+5,Western Australia,Female,303682.5683
+6,Western Australia,Female,369993.0454
+7,Western Australia,Female,438292.8367
+8,Western Australia,Female,508641.6218
+9,Western Australia,Female,581100.8705
+10,Western Australia,Female,655733.8966
+11,Western Australia,Female,732605.9135
+12,Western Australia,Female,811784.0909
+13,Western Australia,Female,893337.6136
+14,Western Australia,Female,977337.7421
+15,Western Australia,Female,1063857.874
+16,Western Australia,Female,1152973.611
+17,Western Australia,Female,1244762.819
+18,Western Australia,Female,1339305.703
+19,Western Australia,Female,1436684.875
+20,Western Australia,Female,1536985.421
+21,Western Australia,Female,1640294.983
+22,Western Australia,Female,1746703.833
+23,Western Australia,Female,1856304.948
+24,Western Australia,Female,1969194.096
+25,Western Australia,Female,2085469.919
+26,Western Australia,Female,2205234.017
+27,Western Australia,Female,2328591.037
+28,Western Australia,Female,2455648.768
+29,Western Australia,Female,2586518.231
+30,Western Australia,Female,2721313.778
+31,Western Australia,Female,2860153.192
+32,Western Australia,Female,3003157.788
+33,Western Australia,Female,3150452.521
+34,Western Australia,Female,3302166.097
+35,Western Australia,Female,3458431.08
+36,Western Australia,Female,3619384.012
+37,Western Australia,Female,3785165.532
+38,Western Australia,Female,3955920.498
+39,Western Australia,Female,4131798.113
+40,Western Australia,Female,4312952.057
+41,Western Australia,Female,4499540.618
+42,Western Australia,Female,4691726.837
+43,Western Australia,Female,4889678.642
+44,Western Australia,Female,5093569.001
+45,Western Australia,Female,5303576.071
+46,Western Australia,Female,5519883.354
+47,Western Australia,Female,5742679.854
+48,Western Australia,Female,5972160.25
+49,Western Australia,Female,6208525.057
+50,Western Australia,Female,6451980.809
+51,Western Australia,Female,6702740.233
+52,Western Australia,Female,6961022.44
+53,Western Australia,Female,7227053.113
+54,Western Australia,Female,7501064.707
+55,Western Australia,Female,7783296.648
+56,Western Australia,Female,8073995.548
+57,Western Australia,Female,8373415.414
+58,Western Australia,Female,8681817.876
+59,Western Australia,Female,8999472.413
+60,Western Australia,Female,9326656.585
+61,Western Australia,Female,9663656.283
+62,Western Australia,Female,10010765.97
+63,Western Australia,Female,10368288.95
+64,Western Australia,Female,10736537.62
+65,Western Australia,Female,11115833.75
+66,Western Australia,Female,11506508.76
+67,Western Australia,Female,11908904.02
+68,Western Australia,Female,12323371.14
+69,Western Australia,Female,12750272.28
+70,Western Australia,Female,13189980.45
+1,Tasmania,Male,68473.6
+2,Tasmania,Male,139001.408
+3,Tasmania,Male,211645.0502
+4,Tasmania,Male,286468.0017
+5,Tasmania,Male,363535.6418
+6,Tasmania,Male,442915.3111
+7,Tasmania,Male,524676.3704
+8,Tasmania,Male,608890.2615
+9,Tasmania,Male,695630.5693
+10,Tasmania,Male,784973.0864
+11,Tasmania,Male,876995.879
+12,Tasmania,Male,971779.3554
+13,Tasmania,Male,1069406.336
+14,Tasmania,Male,1169962.126
+15,Tasmania,Male,1273534.59
+16,Tasmania,Male,1380214.228
+17,Tasmania,Male,1490094.254
+18,Tasmania,Male,1603270.682
+19,Tasmania,Male,1719842.403
+20,Tasmania,Male,1839911.275
+21,Tasmania,Male,1963582.213
+22,Tasmania,Male,2090963.279
+23,Tasmania,Male,2222165.778
+24,Tasmania,Male,2357304.351
+25,Tasmania,Male,2496497.081
+26,Tasmania,Male,2639865.594
+27,Tasmania,Male,2787535.162
+28,Tasmania,Male,2939634.817
+29,Tasmania,Male,3096297.461
+30,Tasmania,Male,3257659.985
+31,Tasmania,Male,3423863.384
+32,Tasmania,Male,3595052.886
+33,Tasmania,Male,3771378.073
+34,Tasmania,Male,3952993.015
+35,Tasmania,Male,4140056.405
+36,Tasmania,Male,4332731.697
+37,Tasmania,Male,4531187.248
+38,Tasmania,Male,4735596.466
+39,Tasmania,Male,4946137.96
+40,Tasmania,Male,5162995.698
+41,Tasmania,Male,5386359.169
+42,Tasmania,Male,5616423.545
+43,Tasmania,Male,5853389.851
+44,Tasmania,Male,6097465.146
+45,Tasmania,Male,6348862.701
+46,Tasmania,Male,6607802.182
+47,Tasmania,Male,6874509.847
+48,Tasmania,Male,7149218.743
+49,Tasmania,Male,7432168.905
+50,Tasmania,Male,7723607.572
+51,Tasmania,Male,8023789.399
+52,Tasmania,Male,8332976.681
+53,Tasmania,Male,8651439.582
+54,Tasmania,Male,8979456.369
+55,Tasmania,Male,9317313.66
+56,Tasmania,Male,9665306.67
+57,Tasmania,Male,10023739.47
+58,Tasmania,Male,10392925.25
+59,Tasmania,Male,10773186.61
+60,Tasmania,Male,11164855.81
+61,Tasmania,Male,11568275.08
+62,Tasmania,Male,11983796.94
+63,Tasmania,Male,12411784.45
+64,Tasmania,Male,12852611.58
+65,Tasmania,Male,13306663.53
+66,Tasmania,Male,13774337.03
+67,Tasmania,Male,14256040.74
+68,Tasmania,Male,14752195.56
+69,Tasmania,Male,15263235.03
+70,Tasmania,Male,15789605.68
+1,Tasmania,Female,56030
+2,Tasmania,Female,113740.9
+3,Tasmania,Female,173183.127
+4,Tasmania,Female,234408.6208
+5,Tasmania,Female,297470.8794
+6,Tasmania,Female,362425.0058
+7,Tasmania,Female,429327.756
+8,Tasmania,Female,498237.5887
+9,Tasmania,Female,569214.7163
+10,Tasmania,Female,642321.1578
+11,Tasmania,Female,717620.7926
+12,Tasmania,Female,795179.4163
+13,Tasmania,Female,875064.7988
+14,Tasmania,Female,957346.7428
+15,Tasmania,Female,1042097.145
+16,Tasmania,Female,1129390.059
+17,Tasmania,Female,1219301.761
+18,Tasmania,Female,1311910.814
+19,Tasmania,Female,1407298.138
+20,Tasmania,Female,1505547.083
+21,Tasmania,Female,1606743.495
+22,Tasmania,Female,1710975.8
+23,Tasmania,Female,1818335.074
+24,Tasmania,Female,1928915.126
+25,Tasmania,Female,2042812.58
+26,Tasmania,Female,2160126.957
+27,Tasmania,Female,2280960.766
+28,Tasmania,Female,2405419.589
+29,Tasmania,Female,2533612.177
+30,Tasmania,Female,2665650.542
+31,Tasmania,Female,2801650.058
+32,Tasmania,Female,2941729.56
+33,Tasmania,Female,3086011.447
+34,Tasmania,Female,3234621.79
+35,Tasmania,Female,3387690.444
+36,Tasmania,Female,3545351.157
+37,Tasmania,Female,3707741.692
+38,Tasmania,Female,3875003.943
+39,Tasmania,Female,4047284.061
+40,Tasmania,Female,4224732.583
+41,Tasmania,Female,4407504.56
+42,Tasmania,Female,4595759.697
+43,Tasmania,Female,4789662.488
+44,Tasmania,Female,4989382.363
+45,Tasmania,Female,5195093.834
+46,Tasmania,Female,5406976.649
+47,Tasmania,Female,5625215.948
+48,Tasmania,Female,5850002.426
+49,Tasmania,Female,6081532.499
+50,Tasmania,Female,6320008.474
+51,Tasmania,Female,6565638.729
+52,Tasmania,Female,6818637.89
+53,Tasmania,Female,7079227.027
+54,Tasmania,Female,7347633.838
+55,Tasmania,Female,7624092.853
+56,Tasmania,Female,7908845.639
+57,Tasmania,Female,8202141.008
+58,Tasmania,Female,8504235.238
+59,Tasmania,Female,8815392.295
+60,Tasmania,Female,9135884.064
+61,Tasmania,Female,9465990.586
+62,Tasmania,Female,9806000.303
+63,Tasmania,Female,10156210.31
+64,Tasmania,Female,10516926.62
+65,Tasmania,Female,10888464.42
+66,Tasmania,Female,11271148.35
+67,Tasmania,Female,11665312.8
+68,Tasmania,Female,12071302.19
+69,Tasmania,Female,12489471.25
+70,Tasmania,Female,12920185.39
+1,Northern Territory,Male,85592
+2,Northern Territory,Male,173751.76
+3,Northern Territory,Male,264556.3128
+4,Northern Territory,Male,358085.0022
+5,Northern Territory,Male,454419.5522
+6,Northern Territory,Male,553644.1388
+7,Northern Territory,Male,655845.463
+8,Northern Territory,Male,761112.8269
+9,Northern Territory,Male,869538.2117
+10,Northern Territory,Male,981216.358
+11,Northern Territory,Male,1096244.849
+12,Northern Territory,Male,1214724.194
+13,Northern Territory,Male,1336757.92
+14,Northern Territory,Male,1462452.658
+15,Northern Territory,Male,1591918.237
+16,Northern Territory,Male,1725267.785
+17,Northern Territory,Male,1862617.818
+18,Northern Territory,Male,2004088.353
+19,Northern Territory,Male,2149803.003
+20,Northern Territory,Male,2299889.093
+21,Northern Territory,Male,2454477.766
+22,Northern Territory,Male,2613704.099
+23,Northern Territory,Male,2777707.222
+24,Northern Territory,Male,2946630.439
+25,Northern Territory,Male,3120621.352
+26,Northern Territory,Male,3299831.992
+27,Northern Territory,Male,3484418.952
+28,Northern Territory,Male,3674543.521
+29,Northern Territory,Male,3870371.826
+30,Northern Territory,Male,4072074.981
+31,Northern Territory,Male,4279829.231
+32,Northern Territory,Male,4493816.107
+33,Northern Territory,Male,4714222.591
+34,Northern Territory,Male,4941241.268
+35,Northern Territory,Male,5175070.506
+36,Northern Territory,Male,5415914.622
+37,Northern Territory,Male,5663984.06
+38,Northern Territory,Male,5919495.582
+39,Northern Territory,Male,6182672.45
+40,Northern Territory,Male,6453744.623
+41,Northern Territory,Male,6732948.962
+42,Northern Territory,Male,7020529.431
+43,Northern Territory,Male,7316737.314
+44,Northern Territory,Male,7621831.433
+45,Northern Territory,Male,7936078.376
+46,Northern Territory,Male,8259752.727
+47,Northern Territory,Male,8593137.309
+48,Northern Territory,Male,8936523.428
+49,Northern Territory,Male,9290211.131
+50,Northern Territory,Male,9654509.465
+51,Northern Territory,Male,10029736.75
+52,Northern Territory,Male,10416220.85
+53,Northern Territory,Male,10814299.48
+54,Northern Territory,Male,11224320.46
+55,Northern Territory,Male,11646642.08
+56,Northern Territory,Male,12081633.34
+57,Northern Territory,Male,12529674.34
+58,Northern Territory,Male,12991156.57
+59,Northern Territory,Male,13466483.26
+60,Northern Territory,Male,13956069.76
+61,Northern Territory,Male,14460343.86
+62,Northern Territory,Male,14979746.17
+63,Northern Territory,Male,15514730.56
+64,Northern Territory,Male,16065764.47
+65,Northern Territory,Male,16633329.41
+66,Northern Territory,Male,17217921.29
+67,Northern Territory,Male,17820050.93
+68,Northern Territory,Male,18440244.46
+69,Northern Territory,Male,19079043.79
+70,Northern Territory,Male,19737007.1
+1,Northern Territory,Female,65000
+2,Northern Territory,Female,131950
+3,Northern Territory,Female,200908.5
+4,Northern Territory,Female,271935.755
+5,Northern Territory,Female,345093.8277
+6,Northern Territory,Female,420446.6425
+7,Northern Territory,Female,498060.0418
+8,Northern Territory,Female,578001.843
+9,Northern Territory,Female,660341.8983
+10,Northern Territory,Female,745152.1552
+11,Northern Territory,Female,832506.7199
+12,Northern Territory,Female,922481.9215
+13,Northern Territory,Female,1015156.379
+14,Northern Territory,Female,1110611.071
+15,Northern Territory,Female,1208929.403
+16,Northern Territory,Female,1310197.285
+17,Northern Territory,Female,1414503.203
+18,Northern Territory,Female,1521938.299
+19,Northern Territory,Female,1632596.448
+20,Northern Territory,Female,1746574.342
+21,Northern Territory,Female,1863971.572
+22,Northern Territory,Female,1984890.719
+23,Northern Territory,Female,2109437.441
+24,Northern Territory,Female,2237720.564
+25,Northern Territory,Female,2369852.181
+26,Northern Territory,Female,2505947.746
+27,Northern Territory,Female,2646126.179
+28,Northern Territory,Female,2790509.964
+29,Northern Territory,Female,2939225.263
+30,Northern Territory,Female,3092402.021
+31,Northern Territory,Female,3250174.082
+32,Northern Territory,Female,3412679.304
+33,Northern Territory,Female,3580059.683
+34,Northern Territory,Female,3752461.474
+35,Northern Territory,Female,3930035.318
+36,Northern Territory,Female,4112936.377
+37,Northern Territory,Female,4301324.469
+38,Northern Territory,Female,4495364.203
+39,Northern Territory,Female,4695225.129
+40,Northern Territory,Female,4901081.883
+41,Northern Territory,Female,5113114.339
+42,Northern Territory,Female,5331507.769
+43,Northern Territory,Female,5556453.002
+44,Northern Territory,Female,5788146.592
+45,Northern Territory,Female,6026790.99
+46,Northern Territory,Female,6272594.72
+47,Northern Territory,Female,6525772.562
+48,Northern Territory,Female,6786545.738
+49,Northern Territory,Female,7055142.111
+50,Northern Territory,Female,7331796.374
+51,Northern Territory,Female,7616750.265
+52,Northern Territory,Female,7910252.773
+53,Northern Territory,Female,8212560.356
+54,Northern Territory,Female,8523937.167
+55,Northern Territory,Female,8844655.282
+56,Northern Territory,Female,9174994.94
+57,Northern Territory,Female,9515244.789
+58,Northern Territory,Female,9865702.132
+59,Northern Territory,Female,10226673.2
+60,Northern Territory,Female,10598473.39
+61,Northern Territory,Female,10981427.59
+62,Northern Territory,Female,11375870.42
+63,Northern Territory,Female,11782146.53
+64,Northern Territory,Female,12200610.93
+65,Northern Territory,Female,12631629.26
+66,Northern Territory,Female,13075578.14
+67,Northern Territory,Female,13532845.48
+68,Northern Territory,Female,14003830.84
+69,Northern Territory,Female,14488945.77
+70,Northern Territory,Female,14988614.14
+1,Australian Capital Territory,Male,84760
+2,Australian Capital Territory,Male,172062.8
+3,Australian Capital Territory,Male,261984.684
+4,Australian Capital Territory,Male,354604.2245
+5,Australian Capital Territory,Male,450002.3513
+6,Australian Capital Territory,Male,548262.4218
+7,Australian Capital Territory,Male,649470.2944
+8,Australian Capital Territory,Male,753714.4033
+9,Australian Capital Territory,Male,861085.8354
+10,Australian Capital Territory,Male,971678.4104
+11,Australian Capital Territory,Male,1085588.763
+12,Australian Capital Territory,Male,1202916.426
+13,Australian Capital Territory,Male,1323763.918
+14,Australian Capital Territory,Male,1448236.836
+15,Australian Capital Territory,Male,1576443.941
+16,Australian Capital Territory,Male,1708497.259
+17,Australian Capital Territory,Male,1844512.177
+18,Australian Capital Territory,Male,1984607.542
+19,Australian Capital Territory,Male,2128905.769
+20,Australian Capital Territory,Male,2277532.942
+21,Australian Capital Territory,Male,2430618.93
+22,Australian Capital Territory,Male,2588297.498
+23,Australian Capital Territory,Male,2750706.423
+24,Australian Capital Territory,Male,2917987.615
+25,Australian Capital Territory,Male,3090287.244
+26,Australian Capital Territory,Male,3267755.861
+27,Australian Capital Territory,Male,3450548.537
+28,Australian Capital Territory,Male,3638824.993
+29,Australian Capital Territory,Male,3832749.743
+30,Australian Capital Territory,Male,4032492.235
+31,Australian Capital Territory,Male,4238227.002
+32,Australian Capital Territory,Male,4450133.812
+33,Australian Capital Territory,Male,4668397.827
+34,Australian Capital Territory,Male,4893209.762
+35,Australian Capital Territory,Male,5124766.054
+36,Australian Capital Territory,Male,5363269.036
+37,Australian Capital Territory,Male,5608927.107
+38,Australian Capital Territory,Male,5861954.92
+39,Australian Capital Territory,Male,6122573.568
+40,Australian Capital Territory,Male,6391010.775
+41,Australian Capital Territory,Male,6667501.098
+42,Australian Capital Territory,Male,6952286.131
+43,Australian Capital Territory,Male,7245614.715
+44,Australian Capital Territory,Male,7547743.157
+45,Australian Capital Territory,Male,7858935.451
+46,Australian Capital Territory,Male,8179463.515
+47,Australian Capital Territory,Male,8509607.42
+48,Australian Capital Territory,Male,8849655.643
+49,Australian Capital Territory,Male,9199905.312
+50,Australian Capital Territory,Male,9560662.472
+51,Australian Capital Territory,Male,9932242.346
+52,Australian Capital Territory,Male,10314969.62
+53,Australian Capital Territory,Male,10709178.7
+54,Australian Capital Territory,Male,11115214.07
+55,Australian Capital Territory,Male,11533430.49
+56,Australian Capital Territory,Male,11964193.4
+57,Australian Capital Territory,Male,12407879.2
+58,Australian Capital Territory,Male,12864875.58
+59,Australian Capital Territory,Male,13335581.85
+60,Australian Capital Territory,Male,13820409.3
+61,Australian Capital Territory,Male,14319781.58
+62,Australian Capital Territory,Male,14834135.03
+63,Australian Capital Territory,Male,15363919.08
+64,Australian Capital Territory,Male,15909596.65
+65,Australian Capital Territory,Male,16471644.55
+66,Australian Capital Territory,Male,17050553.89
+67,Australian Capital Territory,Male,17646830.51
+68,Australian Capital Territory,Male,18260995.42
+69,Australian Capital Territory,Male,18893585.28
+70,Australian Capital Territory,Male,19545152.84
+1,Australian Capital Territory,Female,78499.2
+2,Australian Capital Territory,Female,159353.376
+3,Australian Capital Territory,Female,242633.1773
+4,Australian Capital Territory,Female,328411.3726
+5,Australian Capital Territory,Female,416762.9138
+6,Australian Capital Territory,Female,507765.0012
+7,Australian Capital Territory,Female,601497.1512
+8,Australian Capital Territory,Female,698041.2658
+9,Australian Capital Territory,Female,797481.7037
+10,Australian Capital Territory,Female,899905.3548
+11,Australian Capital Territory,Female,1005401.715
+12,Australian Capital Territory,Female,1114062.967
+13,Australian Capital Territory,Female,1225984.056
+14,Australian Capital Territory,Female,1341262.778
+15,Australian Capital Territory,Female,1459999.861
+16,Australian Capital Territory,Female,1582299.057
+17,Australian Capital Territory,Female,1708267.229
+18,Australian Capital Territory,Female,1838014.445
+19,Australian Capital Territory,Female,1971654.079
+20,Australian Capital Territory,Female,2109302.901
+21,Australian Capital Territory,Female,2251081.188
+22,Australian Capital Territory,Female,2397112.824
+23,Australian Capital Territory,Female,2547525.408
+24,Australian Capital Territory,Female,2702450.371
+25,Australian Capital Territory,Female,2862023.082
+26,Australian Capital Territory,Female,3026382.974
+27,Australian Capital Territory,Female,3195673.664
+28,Australian Capital Territory,Female,3370043.073
+29,Australian Capital Territory,Female,3549643.566
+30,Australian Capital Territory,Female,3734632.073
+31,Australian Capital Territory,Female,3925170.235
+32,Australian Capital Territory,Female,4121424.542
+33,Australian Capital Territory,Female,4323566.478
+34,Australian Capital Territory,Female,4531772.672
+35,Australian Capital Territory,Female,4746225.053
+36,Australian Capital Territory,Female,4967111.004
+37,Australian Capital Territory,Female,5194623.534
+38,Australian Capital Territory,Female,5428961.44
+39,Australian Capital Territory,Female,5670329.484
+40,Australian Capital Territory,Female,5918938.568
+41,Australian Capital Territory,Female,6175005.925
+42,Australian Capital Territory,Female,6438755.303
+43,Australian Capital Territory,Female,6710417.162
+44,Australian Capital Territory,Female,6990228.877
+45,Australian Capital Territory,Female,7278434.943
+46,Australian Capital Territory,Female,7575287.191
+47,Australian Capital Territory,Female,7881045.007
+48,Australian Capital Territory,Female,8195975.557
+49,Australian Capital Territory,Female,8520354.024
+50,Australian Capital Territory,Female,8854463.845
+51,Australian Capital Territory,Female,9198596.96
+52,Australian Capital Territory,Female,9553054.069
+53,Australian Capital Territory,Female,9918144.891
+54,Australian Capital Territory,Female,10294188.44
+55,Australian Capital Territory,Female,10681513.29
+56,Australian Capital Territory,Female,11080457.89
+57,Australian Capital Territory,Female,11491370.83
+58,Australian Capital Territory,Female,11914611.15
+59,Australian Capital Territory,Female,12350548.69
+60,Australian Capital Territory,Female,12799564.35
+61,Australian Capital Territory,Female,13262050.48
+62,Australian Capital Territory,Female,13738411.19
+63,Australian Capital Territory,Female,14229062.73
+64,Australian Capital Territory,Female,14734433.81
+65,Australian Capital Territory,Female,15254966.02
+66,Australian Capital Territory,Female,15791114.2
+67,Australian Capital Territory,Female,16343346.83
+68,Australian Capital Territory,Female,16912146.43
+69,Australian Capital Territory,Female,17498010.03
+70,Australian Capital Territory,Female,18101449.53
+1,Total,Male,78000
+2,Total,Male,158340
+3,Total,Male,241090.2
+4,Total,Male,326322.906
+5,Total,Male,414112.5932
+6,Total,Male,504535.971
+7,Total,Male,597672.0501
+8,Total,Male,693602.2116
+9,Total,Male,792410.278
+10,Total,Male,894182.5863
+11,Total,Male,999008.0639
+12,Total,Male,1106978.306
+13,Total,Male,1218187.655
+14,Total,Male,1332733.285
+15,Total,Male,1450715.283
+16,Total,Male,1572236.742
+17,Total,Male,1697403.844
+18,Total,Male,1826325.959
+19,Total,Male,1959115.738
+20,Total,Male,2095889.21
+21,Total,Male,2236765.886
+22,Total,Male,2381868.863
+23,Total,Male,2531324.929
+24,Total,Male,2685264.677
+25,Total,Male,2843822.617
+26,Total,Male,3007137.296
+27,Total,Male,3175351.414
+28,Total,Male,3348611.957
+29,Total,Male,3527070.316
+30,Total,Male,3710882.425
+31,Total,Male,3900208.898
+32,Total,Male,4095215.165
+33,Total,Male,4296071.62
+34,Total,Male,4502953.768
+35,Total,Male,4716042.381
+36,Total,Male,4935523.653
+37,Total,Male,5161589.362
+38,Total,Male,5394437.043
+39,Total,Male,5634270.155
+40,Total,Male,5881298.259
+41,Total,Male,6135737.207
+42,Total,Male,6397809.323
+43,Total,Male,6667743.603
+44,Total,Male,6945775.911
+45,Total,Male,7232149.188
+46,Total,Male,7527113.664
+47,Total,Male,7830927.074
+48,Total,Male,8143854.886
+49,Total,Male,8466170.533
+50,Total,Male,8798155.649
+51,Total,Male,9140100.318
+52,Total,Male,9492303.328
+53,Total,Male,9855072.427
+54,Total,Male,10228724.6
+55,Total,Male,10613586.34
+56,Total,Male,11009993.93
+57,Total,Male,11418293.75
+58,Total,Male,11838842.56
+59,Total,Male,12272007.84
+60,Total,Male,12718168.07
+61,Total,Male,13177713.11
+62,Total,Male,13651044.51
+63,Total,Male,14138575.84
+64,Total,Male,14640733.12
+65,Total,Male,15157955.11
+66,Total,Male,15690693.76
+67,Total,Male,16239414.58
+68,Total,Male,16804597.01
+69,Total,Male,17386734.92
+70,Total,Male,17986336.97
+1,Total,Female,59800
+2,Total,Female,121394
+3,Total,Female,184835.82
+4,Total,Female,250180.8946
+5,Total,Female,317486.3214
+6,Total,Female,386810.9111
+7,Total,Female,458215.2384
+8,Total,Female,531761.6956
+9,Total,Female,607514.5464
+10,Total,Female,685539.9828
+11,Total,Female,765906.1823
+12,Total,Female,848683.3678
+13,Total,Female,933943.8688
+14,Total,Female,1021762.185
+15,Total,Female,1112215.05
+16,Total,Female,1205381.502
+17,Total,Female,1301342.947
+18,Total,Female,1400183.235
+19,Total,Female,1501988.732
+20,Total,Female,1606848.394
+21,Total,Female,1714853.846
+22,Total,Female,1826099.462
+23,Total,Female,1940682.446
+24,Total,Female,2058702.919
+25,Total,Female,2180264.006
+26,Total,Female,2305471.927
+27,Total,Female,2434436.084
+28,Total,Female,2567269.167
+29,Total,Female,2704087.242
+30,Total,Female,2845009.859
+31,Total,Female,2990160.155
+32,Total,Female,3139664.96
+33,Total,Female,3293654.908
+34,Total,Female,3452264.556
+35,Total,Female,3615632.492
+36,Total,Female,3783901.467
+37,Total,Female,3957218.511
+38,Total,Female,4135735.067
+39,Total,Female,4319607.118
+40,Total,Female,4508995.332
+41,Total,Female,4704065.192
+42,Total,Female,4904987.148
+43,Total,Female,5111936.762
+44,Total,Female,5325094.865
+45,Total,Female,5544647.711
+46,Total,Female,5770787.142
+47,Total,Female,6003710.757
+48,Total,Female,6243622.079
+49,Total,Female,6490730.742
+50,Total,Female,6745252.664
+51,Total,Female,7007410.244
+52,Total,Female,7277432.551
+53,Total,Female,7555555.528
+54,Total,Female,7842022.194
+55,Total,Female,8137082.859
+56,Total,Female,8440995.345
+57,Total,Female,8754025.206
+58,Total,Female,9076445.962
+59,Total,Female,9408539.341
+60,Total,Female,9750595.521
+61,Total,Female,10102913.39
+62,Total,Female,10465800.79
+63,Total,Female,10839574.81
+64,Total,Female,11224562.06
+65,Total,Female,11621098.92
+66,Total,Female,12029531.89
+67,Total,Female,12450217.84
+68,Total,Female,12883524.38
+69,Total,Female,13329830.11
+70,Total,Female,13789525.01
