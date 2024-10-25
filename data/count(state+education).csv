@@ -1,1441 +1,1441 @@
 Year,State,Sex,Education,Count
-Aug-14,New South Wales,Male,Postgraduate Degree,0
-Aug-14,New South Wales,Male,Graduate Diploma or Certificate,0
-Aug-14,New South Wales,Male,Bachelor Degree,0
-Aug-14,New South Wales,Male,Advanced Diploma or Diploma,0
-Aug-14,New South Wales,Male,Certificate III or IV,0
-Aug-14,New South Wales,Male,Year 12 or equivalent,0
-Aug-14,New South Wales,Male,Year 11 or equivalent,0
-Aug-14,New South Wales,Male,Year 10 or equivalent,0
-Aug-14,New South Wales,Female,Postgraduate Degree,0
-Aug-14,New South Wales,Female,Graduate Diploma or Certificate,0
-Aug-14,New South Wales,Female,Bachelor Degree,0
-Aug-14,New South Wales,Female,Advanced Diploma or Diploma,0
-Aug-14,New South Wales,Female,Certificate III or IV,0
-Aug-14,New South Wales,Female,Year 12 or equivalent,0
-Aug-14,New South Wales,Female,Year 11 or equivalent,0
-Aug-14,New South Wales,Female,Year 10 or equivalent,0
-Aug-14,Victoria,Male,Postgraduate Degree,0
-Aug-14,Victoria,Male,Graduate Diploma or Certificate,0
-Aug-14,Victoria,Male,Bachelor Degree,0
-Aug-14,Victoria,Male,Advanced Diploma or Diploma,0
-Aug-14,Victoria,Male,Certificate III or IV,0
-Aug-14,Victoria,Male,Year 12 or equivalent,0
-Aug-14,Victoria,Male,Year 11 or equivalent,0
-Aug-14,Victoria,Male,Year 10 or equivalent,0
-Aug-14,Victoria,Female,Postgraduate Degree,0
-Aug-14,Victoria,Female,Graduate Diploma or Certificate,0
-Aug-14,Victoria,Female,Bachelor Degree,0
-Aug-14,Victoria,Female,Advanced Diploma or Diploma,0
-Aug-14,Victoria,Female,Certificate III or IV,0
-Aug-14,Victoria,Female,Year 12 or equivalent,0
-Aug-14,Victoria,Female,Year 11 or equivalent,0
-Aug-14,Victoria,Female,Year 10 or equivalent,0
-Aug-14,Queensland,Male,Postgraduate Degree,0
-Aug-14,Queensland,Male,Graduate Diploma or Certificate,0
-Aug-14,Queensland,Male,Bachelor Degree,0
-Aug-14,Queensland,Male,Advanced Diploma or Diploma,0
-Aug-14,Queensland,Male,Certificate III or IV,0
-Aug-14,Queensland,Male,Year 12 or equivalent,0
-Aug-14,Queensland,Male,Year 11 or equivalent,0
-Aug-14,Queensland,Male,Year 10 or equivalent,0
-Aug-14,Queensland,Female,Postgraduate Degree,0
-Aug-14,Queensland,Female,Graduate Diploma or Certificate,0
-Aug-14,Queensland,Female,Bachelor Degree,0
-Aug-14,Queensland,Female,Advanced Diploma or Diploma,0
-Aug-14,Queensland,Female,Certificate III or IV,0
-Aug-14,Queensland,Female,Year 12 or equivalent,0
-Aug-14,Queensland,Female,Year 11 or equivalent,0
-Aug-14,Queensland,Female,Year 10 or equivalent,0
-Aug-14,South Australia,Male,Postgraduate Degree,0
-Aug-14,South Australia,Male,Graduate Diploma or Certificate,0
-Aug-14,South Australia,Male,Bachelor Degree,0
-Aug-14,South Australia,Male,Advanced Diploma or Diploma,0
-Aug-14,South Australia,Male,Certificate III or IV,0
-Aug-14,South Australia,Male,Year 12 or equivalent,0
-Aug-14,South Australia,Male,Year 11 or equivalent,0
-Aug-14,South Australia,Male,Year 10 or equivalent,0
-Aug-14,South Australia,Female,Postgraduate Degree,0
-Aug-14,South Australia,Female,Graduate Diploma or Certificate,0
-Aug-14,South Australia,Female,Bachelor Degree,0
-Aug-14,South Australia,Female,Advanced Diploma or Diploma,0
-Aug-14,South Australia,Female,Certificate III or IV,0
-Aug-14,South Australia,Female,Year 12 or equivalent,0
-Aug-14,South Australia,Female,Year 11 or equivalent,0
-Aug-14,South Australia,Female,Year 10 or equivalent,0
-Aug-14,Western Australia,Male,Postgraduate Degree,0
-Aug-14,Western Australia,Male,Graduate Diploma or Certificate,0
-Aug-14,Western Australia,Male,Bachelor Degree,0
-Aug-14,Western Australia,Male,Advanced Diploma or Diploma,0
-Aug-14,Western Australia,Male,Certificate III or IV,0
-Aug-14,Western Australia,Male,Year 12 or equivalent,0
-Aug-14,Western Australia,Male,Year 11 or equivalent,0
-Aug-14,Western Australia,Male,Year 10 or equivalent,0
-Aug-14,Western Australia,Female,Postgraduate Degree,0
-Aug-14,Western Australia,Female,Graduate Diploma or Certificate,0
-Aug-14,Western Australia,Female,Bachelor Degree,0
-Aug-14,Western Australia,Female,Advanced Diploma or Diploma,0
-Aug-14,Western Australia,Female,Certificate III or IV,0
-Aug-14,Western Australia,Female,Year 12 or equivalent,0
-Aug-14,Western Australia,Female,Year 11 or equivalent,0
-Aug-14,Western Australia,Female,Year 10 or equivalent,0
-Aug-14,Tasmania,Male,Postgraduate Degree,0
-Aug-14,Tasmania,Male,Graduate Diploma or Certificate,0
-Aug-14,Tasmania,Male,Bachelor Degree,0
-Aug-14,Tasmania,Male,Advanced Diploma or Diploma,0
-Aug-14,Tasmania,Male,Certificate III or IV,0
-Aug-14,Tasmania,Male,Year 12 or equivalent,0
-Aug-14,Tasmania,Male,Year 11 or equivalent,0
-Aug-14,Tasmania,Male,Year 10 or equivalent,0
-Aug-14,Tasmania,Female,Postgraduate Degree,0
-Aug-14,Tasmania,Female,Graduate Diploma or Certificate,0
-Aug-14,Tasmania,Female,Bachelor Degree,0
-Aug-14,Tasmania,Female,Advanced Diploma or Diploma,0
-Aug-14,Tasmania,Female,Certificate III or IV,0
-Aug-14,Tasmania,Female,Year 12 or equivalent,0
-Aug-14,Tasmania,Female,Year 11 or equivalent,0
-Aug-14,Tasmania,Female,Year 10 or equivalent,0
-Aug-14,Northern Territory,Male,Postgraduate Degree,0
-Aug-14,Northern Territory,Male,Graduate Diploma or Certificate,0
-Aug-14,Northern Territory,Male,Bachelor Degree,0
-Aug-14,Northern Territory,Male,Advanced Diploma or Diploma,0
-Aug-14,Northern Territory,Male,Certificate III or IV,0
-Aug-14,Northern Territory,Male,Year 12 or equivalent,0
-Aug-14,Northern Territory,Male,Year 11 or equivalent,0
-Aug-14,Northern Territory,Male,Year 10 or equivalent,0
-Aug-14,Northern Territory,Female,Postgraduate Degree,0
-Aug-14,Northern Territory,Female,Graduate Diploma or Certificate,0
-Aug-14,Northern Territory,Female,Bachelor Degree,0
-Aug-14,Northern Territory,Female,Advanced Diploma or Diploma,0
-Aug-14,Northern Territory,Female,Certificate III or IV,0
-Aug-14,Northern Territory,Female,Year 12 or equivalent,0
-Aug-14,Northern Territory,Female,Year 11 or equivalent,0
-Aug-14,Northern Territory,Female,Year 10 or equivalent,0
-Aug-14,Australian Capital Territory,Male,Postgraduate Degree,0
-Aug-14,Australian Capital Territory,Male,Graduate Diploma or Certificate,0
-Aug-14,Australian Capital Territory,Male,Bachelor Degree,0
-Aug-14,Australian Capital Territory,Male,Advanced Diploma or Diploma,0
-Aug-14,Australian Capital Territory,Male,Certificate III or IV,0
-Aug-14,Australian Capital Territory,Male,Year 12 or equivalent,0
-Aug-14,Australian Capital Territory,Male,Year 11 or equivalent,0
-Aug-14,Australian Capital Territory,Male,Year 10 or equivalent,0
-Aug-14,Australian Capital Territory,Female,Postgraduate Degree,0
-Aug-14,Australian Capital Territory,Female,Graduate Diploma or Certificate,0
-Aug-14,Australian Capital Territory,Female,Bachelor Degree,0
-Aug-14,Australian Capital Territory,Female,Advanced Diploma or Diploma,0
-Aug-14,Australian Capital Territory,Female,Certificate III or IV,0
-Aug-14,Australian Capital Territory,Female,Year 12 or equivalent,0
-Aug-14,Australian Capital Territory,Female,Year 11 or equivalent,0
-Aug-14,Australian Capital Territory,Female,Year 10 or equivalent,0
-Aug-14,Total,Male,Postgraduate Degree,0
-Aug-14,Total,Male,Graduate Diploma or Certificate,0
-Aug-14,Total,Male,Bachelor Degree,0
-Aug-14,Total,Male,Advanced Diploma or Diploma,0
-Aug-14,Total,Male,Certificate III or IV,0
-Aug-14,Total,Male,Year 12 or equivalent,0
-Aug-14,Total,Male,Year 11 or equivalent,0
-Aug-14,Total,Male,Year 10 or equivalent,0
-Aug-14,Total,Female,Postgraduate Degree,0
-Aug-14,Total,Female,Graduate Diploma or Certificate,0
-Aug-14,Total,Female,Bachelor Degree,0
-Aug-14,Total,Female,Advanced Diploma or Diploma,0
-Aug-14,Total,Female,Certificate III or IV,0
-Aug-14,Total,Female,Year 12 or equivalent,0
-Aug-14,Total,Female,Year 11 or equivalent,0
-Aug-14,Total,Female,Year 10 or equivalent,0
-Aug-15,New South Wales,Male,Postgraduate Degree,0
-Aug-15,New South Wales,Male,Graduate Diploma or Certificate,0
-Aug-15,New South Wales,Male,Bachelor Degree,0
-Aug-15,New South Wales,Male,Advanced Diploma or Diploma,0
-Aug-15,New South Wales,Male,Certificate III or IV,0
-Aug-15,New South Wales,Male,Year 12 or equivalent,0
-Aug-15,New South Wales,Male,Year 11 or equivalent,0
-Aug-15,New South Wales,Male,Year 10 or equivalent,0
-Aug-15,New South Wales,Female,Postgraduate Degree,0
-Aug-15,New South Wales,Female,Graduate Diploma or Certificate,0
-Aug-15,New South Wales,Female,Bachelor Degree,0
-Aug-15,New South Wales,Female,Advanced Diploma or Diploma,0
-Aug-15,New South Wales,Female,Certificate III or IV,0
-Aug-15,New South Wales,Female,Year 12 or equivalent,0
-Aug-15,New South Wales,Female,Year 11 or equivalent,0
-Aug-15,New South Wales,Female,Year 10 or equivalent,0
-Aug-15,Victoria,Male,Postgraduate Degree,0
-Aug-15,Victoria,Male,Graduate Diploma or Certificate,0
-Aug-15,Victoria,Male,Bachelor Degree,0
-Aug-15,Victoria,Male,Advanced Diploma or Diploma,0
-Aug-15,Victoria,Male,Certificate III or IV,0
-Aug-15,Victoria,Male,Year 12 or equivalent,0
-Aug-15,Victoria,Male,Year 11 or equivalent,0
-Aug-15,Victoria,Male,Year 10 or equivalent,0
-Aug-15,Victoria,Female,Postgraduate Degree,0
-Aug-15,Victoria,Female,Graduate Diploma or Certificate,0
-Aug-15,Victoria,Female,Bachelor Degree,0
-Aug-15,Victoria,Female,Advanced Diploma or Diploma,0
-Aug-15,Victoria,Female,Certificate III or IV,0
-Aug-15,Victoria,Female,Year 12 or equivalent,0
-Aug-15,Victoria,Female,Year 11 or equivalent,0
-Aug-15,Victoria,Female,Year 10 or equivalent,0
-Aug-15,Queensland,Male,Postgraduate Degree,0
-Aug-15,Queensland,Male,Graduate Diploma or Certificate,0
-Aug-15,Queensland,Male,Bachelor Degree,0
-Aug-15,Queensland,Male,Advanced Diploma or Diploma,0
-Aug-15,Queensland,Male,Certificate III or IV,0
-Aug-15,Queensland,Male,Year 12 or equivalent,0
-Aug-15,Queensland,Male,Year 11 or equivalent,0
-Aug-15,Queensland,Male,Year 10 or equivalent,0
-Aug-15,Queensland,Female,Postgraduate Degree,0
-Aug-15,Queensland,Female,Graduate Diploma or Certificate,0
-Aug-15,Queensland,Female,Bachelor Degree,0
-Aug-15,Queensland,Female,Advanced Diploma or Diploma,0
-Aug-15,Queensland,Female,Certificate III or IV,0
-Aug-15,Queensland,Female,Year 12 or equivalent,0
-Aug-15,Queensland,Female,Year 11 or equivalent,0
-Aug-15,Queensland,Female,Year 10 or equivalent,0
-Aug-15,South Australia,Male,Postgraduate Degree,0
-Aug-15,South Australia,Male,Graduate Diploma or Certificate,0
-Aug-15,South Australia,Male,Bachelor Degree,0
-Aug-15,South Australia,Male,Advanced Diploma or Diploma,0
-Aug-15,South Australia,Male,Certificate III or IV,0
-Aug-15,South Australia,Male,Year 12 or equivalent,0
-Aug-15,South Australia,Male,Year 11 or equivalent,0
-Aug-15,South Australia,Male,Year 10 or equivalent,0
-Aug-15,South Australia,Female,Postgraduate Degree,0
-Aug-15,South Australia,Female,Graduate Diploma or Certificate,0
-Aug-15,South Australia,Female,Bachelor Degree,0
-Aug-15,South Australia,Female,Advanced Diploma or Diploma,0
-Aug-15,South Australia,Female,Certificate III or IV,0
-Aug-15,South Australia,Female,Year 12 or equivalent,0
-Aug-15,South Australia,Female,Year 11 or equivalent,0
-Aug-15,South Australia,Female,Year 10 or equivalent,0
-Aug-15,Western Australia,Male,Postgraduate Degree,0
-Aug-15,Western Australia,Male,Graduate Diploma or Certificate,0
-Aug-15,Western Australia,Male,Bachelor Degree,0
-Aug-15,Western Australia,Male,Advanced Diploma or Diploma,0
-Aug-15,Western Australia,Male,Certificate III or IV,0
-Aug-15,Western Australia,Male,Year 12 or equivalent,0
-Aug-15,Western Australia,Male,Year 11 or equivalent,0
-Aug-15,Western Australia,Male,Year 10 or equivalent,0
-Aug-15,Western Australia,Female,Postgraduate Degree,0
-Aug-15,Western Australia,Female,Graduate Diploma or Certificate,0
-Aug-15,Western Australia,Female,Bachelor Degree,0
-Aug-15,Western Australia,Female,Advanced Diploma or Diploma,0
-Aug-15,Western Australia,Female,Certificate III or IV,0
-Aug-15,Western Australia,Female,Year 12 or equivalent,0
-Aug-15,Western Australia,Female,Year 11 or equivalent,0
-Aug-15,Western Australia,Female,Year 10 or equivalent,0
-Aug-15,Tasmania,Male,Postgraduate Degree,0
-Aug-15,Tasmania,Male,Graduate Diploma or Certificate,0
-Aug-15,Tasmania,Male,Bachelor Degree,0
-Aug-15,Tasmania,Male,Advanced Diploma or Diploma,0
-Aug-15,Tasmania,Male,Certificate III or IV,0
-Aug-15,Tasmania,Male,Year 12 or equivalent,0
-Aug-15,Tasmania,Male,Year 11 or equivalent,0
-Aug-15,Tasmania,Male,Year 10 or equivalent,0
-Aug-15,Tasmania,Female,Postgraduate Degree,0
-Aug-15,Tasmania,Female,Graduate Diploma or Certificate,0
-Aug-15,Tasmania,Female,Bachelor Degree,0
-Aug-15,Tasmania,Female,Advanced Diploma or Diploma,0
-Aug-15,Tasmania,Female,Certificate III or IV,0
-Aug-15,Tasmania,Female,Year 12 or equivalent,0
-Aug-15,Tasmania,Female,Year 11 or equivalent,0
-Aug-15,Tasmania,Female,Year 10 or equivalent,0
-Aug-15,Northern Territory,Male,Postgraduate Degree,0
-Aug-15,Northern Territory,Male,Graduate Diploma or Certificate,0
-Aug-15,Northern Territory,Male,Bachelor Degree,0
-Aug-15,Northern Territory,Male,Advanced Diploma or Diploma,0
-Aug-15,Northern Territory,Male,Certificate III or IV,0
-Aug-15,Northern Territory,Male,Year 12 or equivalent,0
-Aug-15,Northern Territory,Male,Year 11 or equivalent,0
-Aug-15,Northern Territory,Male,Year 10 or equivalent,0
-Aug-15,Northern Territory,Female,Postgraduate Degree,0
-Aug-15,Northern Territory,Female,Graduate Diploma or Certificate,0
-Aug-15,Northern Territory,Female,Bachelor Degree,0
-Aug-15,Northern Territory,Female,Advanced Diploma or Diploma,0
-Aug-15,Northern Territory,Female,Certificate III or IV,0
-Aug-15,Northern Territory,Female,Year 12 or equivalent,0
-Aug-15,Northern Territory,Female,Year 11 or equivalent,0
-Aug-15,Northern Territory,Female,Year 10 or equivalent,0
-Aug-15,Australian Capital Territory,Male,Postgraduate Degree,0
-Aug-15,Australian Capital Territory,Male,Graduate Diploma or Certificate,0
-Aug-15,Australian Capital Territory,Male,Bachelor Degree,0
-Aug-15,Australian Capital Territory,Male,Advanced Diploma or Diploma,0
-Aug-15,Australian Capital Territory,Male,Certificate III or IV,0
-Aug-15,Australian Capital Territory,Male,Year 12 or equivalent,0
-Aug-15,Australian Capital Territory,Male,Year 11 or equivalent,0
-Aug-15,Australian Capital Territory,Male,Year 10 or equivalent,0
-Aug-15,Australian Capital Territory,Female,Postgraduate Degree,0
-Aug-15,Australian Capital Territory,Female,Graduate Diploma or Certificate,0
-Aug-15,Australian Capital Territory,Female,Bachelor Degree,0
-Aug-15,Australian Capital Territory,Female,Advanced Diploma or Diploma,0
-Aug-15,Australian Capital Territory,Female,Certificate III or IV,0
-Aug-15,Australian Capital Territory,Female,Year 12 or equivalent,0
-Aug-15,Australian Capital Territory,Female,Year 11 or equivalent,0
-Aug-15,Australian Capital Territory,Female,Year 10 or equivalent,0
-Aug-15,Total,Male,Postgraduate Degree,0
-Aug-15,Total,Male,Graduate Diploma or Certificate,0
-Aug-15,Total,Male,Bachelor Degree,0
-Aug-15,Total,Male,Advanced Diploma or Diploma,0
-Aug-15,Total,Male,Certificate III or IV,0
-Aug-15,Total,Male,Year 12 or equivalent,0
-Aug-15,Total,Male,Year 11 or equivalent,0
-Aug-15,Total,Male,Year 10 or equivalent,0
-Aug-15,Total,Female,Postgraduate Degree,0
-Aug-15,Total,Female,Graduate Diploma or Certificate,0
-Aug-15,Total,Female,Bachelor Degree,0
-Aug-15,Total,Female,Advanced Diploma or Diploma,0
-Aug-15,Total,Female,Certificate III or IV,0
-Aug-15,Total,Female,Year 12 or equivalent,0
-Aug-15,Total,Female,Year 11 or equivalent,0
-Aug-15,Total,Female,Year 10 or equivalent,0
-Aug-16,New South Wales,Male,Postgraduate Degree,177800
-Aug-16,New South Wales,Male,Graduate Diploma or Certificate,52300
-Aug-16,New South Wales,Male,Bachelor Degree,414400
-Aug-16,New South Wales,Male,Advanced Diploma or Diploma,187600
-Aug-16,New South Wales,Male,Certificate III or IV,493300
-Aug-16,New South Wales,Male,Year 12 or equivalent,327900
-Aug-16,New South Wales,Male,Year 11 or equivalent,55500
-Aug-16,New South Wales,Male,Year 10 or equivalent,195500
-Aug-16,New South Wales,Female,Postgraduate Degree,148400
-Aug-16,New South Wales,Female,Graduate Diploma or Certificate,74900
-Aug-16,New South Wales,Female,Bachelor Degree,481300
-Aug-16,New South Wales,Female,Advanced Diploma or Diploma,210600
-Aug-16,New South Wales,Female,Certificate III or IV,260300
-Aug-16,New South Wales,Female,Year 12 or equivalent,296200
-Aug-16,New South Wales,Female,Year 11 or equivalent,49000
-Aug-16,New South Wales,Female,Year 10 or equivalent,155000
-Aug-16,Victoria,Male,Postgraduate Degree,121500
-Aug-16,Victoria,Male,Graduate Diploma or Certificate,55500
-Aug-16,Victoria,Male,Bachelor Degree,351400
-Aug-16,Victoria,Male,Advanced Diploma or Diploma,171300
-Aug-16,Victoria,Male,Certificate III or IV,387000
-Aug-16,Victoria,Male,Year 12 or equivalent,288200
-Aug-16,Victoria,Male,Year 11 or equivalent,91200
-Aug-16,Victoria,Male,Year 10 or equivalent,116800
-Aug-16,Victoria,Female,Postgraduate Degree,130600
-Aug-16,Victoria,Female,Graduate Diploma or Certificate,75900
-Aug-16,Victoria,Female,Bachelor Degree,362000
-Aug-16,Victoria,Female,Advanced Diploma or Diploma,178400
-Aug-16,Victoria,Female,Certificate III or IV,195100
-Aug-16,Victoria,Female,Year 12 or equivalent,236300
-Aug-16,Victoria,Female,Year 11 or equivalent,84400
-Aug-16,Victoria,Female,Year 10 or equivalent,93000
-Aug-16,Queensland,Male,Postgraduate Degree,71100
-Aug-16,Queensland,Male,Graduate Diploma or Certificate,31200
-Aug-16,Queensland,Male,Bachelor Degree,167500
-Aug-16,Queensland,Male,Advanced Diploma or Diploma,117800
-Aug-16,Queensland,Male,Certificate III or IV,358200
-Aug-16,Queensland,Male,Year 12 or equivalent,249400
-Aug-16,Queensland,Male,Year 11 or equivalent,45900
-Aug-16,Queensland,Male,Year 10 or equivalent,128600
-Aug-16,Queensland,Female,Postgraduate Degree,52700
-Aug-16,Queensland,Female,Graduate Diploma or Certificate,53400
-Aug-16,Queensland,Female,Bachelor Degree,219500
-Aug-16,Queensland,Female,Advanced Diploma or Diploma,151100
-Aug-16,Queensland,Female,Certificate III or IV,171500
-Aug-16,Queensland,Female,Year 12 or equivalent,248000
-Aug-16,Queensland,Female,Year 11 or equivalent,43500
-Aug-16,Queensland,Female,Year 10 or equivalent,119100
-Aug-16,South Australia,Male,Postgraduate Degree,25900
-Aug-16,South Australia,Male,Graduate Diploma or Certificate,7800
-Aug-16,South Australia,Male,Bachelor Degree,70700
-Aug-16,South Australia,Male,Advanced Diploma or Diploma,38200
-Aug-16,South Australia,Male,Certificate III or IV,99700
-Aug-16,South Australia,Male,Year 12 or equivalent,72200
-Aug-16,South Australia,Male,Year 11 or equivalent,46600
-Aug-16,South Australia,Male,Year 10 or equivalent,32800
-Aug-16,South Australia,Female,Postgraduate Degree,19900
-Aug-16,South Australia,Female,Graduate Diploma or Certificate,13300
-Aug-16,South Australia,Female,Bachelor Degree,80400
-Aug-16,South Australia,Female,Advanced Diploma or Diploma,43200
-Aug-16,South Australia,Female,Certificate III or IV,71300
-Aug-16,South Australia,Female,Year 12 or equivalent,76600
-Aug-16,South Australia,Female,Year 11 or equivalent,35300
-Aug-16,South Australia,Female,Year 10 or equivalent,25900
-Aug-16,Western Australia,Male,Postgraduate Degree,38000
-Aug-16,Western Australia,Male,Graduate Diploma or Certificate,19500
-Aug-16,Western Australia,Male,Bachelor Degree,113100
-Aug-16,Western Australia,Male,Advanced Diploma or Diploma,62100
-Aug-16,Western Australia,Male,Certificate III or IV,186800
-Aug-16,Western Australia,Male,Year 12 or equivalent,130000
-Aug-16,Western Australia,Male,Year 11 or equivalent,31200
-Aug-16,Western Australia,Male,Year 10 or equivalent,71700
-Aug-16,Western Australia,Female,Postgraduate Degree,33400
-Aug-16,Western Australia,Female,Graduate Diploma or Certificate,19300
-Aug-16,Western Australia,Female,Bachelor Degree,147200
-Aug-16,Western Australia,Female,Advanced Diploma or Diploma,76200
-Aug-16,Western Australia,Female,Certificate III or IV,89700
-Aug-16,Western Australia,Female,Year 12 or equivalent,110200
-Aug-16,Western Australia,Female,Year 11 or equivalent,27800
-Aug-16,Western Australia,Female,Year 10 or equivalent,52100
-Aug-16,Tasmania,Male,Postgraduate Degree,6400
-Aug-16,Tasmania,Male,Graduate Diploma or Certificate,2800
-Aug-16,Tasmania,Male,Bachelor Degree,17500
-Aug-16,Tasmania,Male,Advanced Diploma or Diploma,9600
-Aug-16,Tasmania,Male,Certificate III or IV,38900
-Aug-16,Tasmania,Male,Year 12 or equivalent,14300
-Aug-16,Tasmania,Male,Year 11 or equivalent,4200
-Aug-16,Tasmania,Male,Year 10 or equivalent,21200
-Aug-16,Tasmania,Female,Postgraduate Degree,5000
-Aug-16,Tasmania,Female,Graduate Diploma or Certificate,3100
-Aug-16,Tasmania,Female,Bachelor Degree,20800
-Aug-16,Tasmania,Female,Advanced Diploma or Diploma,12200
-Aug-16,Tasmania,Female,Certificate III or IV,23500
-Aug-16,Tasmania,Female,Year 12 or equivalent,14900
-Aug-16,Tasmania,Female,Year 11 or equivalent,5200
-Aug-16,Tasmania,Female,Year 10 or equivalent,18900
-Aug-16,Northern Territory,Male,Postgraduate Degree,3700
-Aug-16,Northern Territory,Male,Graduate Diploma or Certificate,700
-Aug-16,Northern Territory,Male,Bachelor Degree,10800
-Aug-16,Northern Territory,Male,Advanced Diploma or Diploma,8300
-Aug-16,Northern Territory,Male,Certificate III or IV,22400
-Aug-16,Northern Territory,Male,Year 12 or equivalent,10600
-Aug-16,Northern Territory,Male,Year 11 or equivalent,3600
-Aug-16,Northern Territory,Male,Year 10 or equivalent,6600
-Aug-16,Northern Territory,Female,Postgraduate Degree,3800
-Aug-16,Northern Territory,Female,Graduate Diploma or Certificate,1800
-Aug-16,Northern Territory,Female,Bachelor Degree,14700
-Aug-16,Northern Territory,Female,Advanced Diploma or Diploma,6100
-Aug-16,Northern Territory,Female,Certificate III or IV,8600
-Aug-16,Northern Territory,Female,Year 12 or equivalent,11400
-Aug-16,Northern Territory,Female,Year 11 or equivalent,3300
-Aug-16,Northern Territory,Female,Year 10 or equivalent,5100
-Aug-16,Australian Capital Territory,Male,Postgraduate Degree,18200
-Aug-16,Australian Capital Territory,Male,Graduate Diploma or Certificate,4100
-Aug-16,Australian Capital Territory,Male,Bachelor Degree,24500
-Aug-16,Australian Capital Territory,Male,Advanced Diploma or Diploma,13500
-Aug-16,Australian Capital Territory,Male,Certificate III or IV,16100
-Aug-16,Australian Capital Territory,Male,Year 12 or equivalent,23400
-Aug-16,Australian Capital Territory,Male,Year 11 or equivalent,1000
-Aug-16,Australian Capital Territory,Male,Year 10 or equivalent,6000
-Aug-16,Australian Capital Territory,Female,Postgraduate Degree,15800
-Aug-16,Australian Capital Territory,Female,Graduate Diploma or Certificate,10400
-Aug-16,Australian Capital Territory,Female,Bachelor Degree,29000
-Aug-16,Australian Capital Territory,Female,Advanced Diploma or Diploma,10000
-Aug-16,Australian Capital Territory,Female,Certificate III or IV,10900
-Aug-16,Australian Capital Territory,Female,Year 12 or equivalent,18200
-Aug-16,Australian Capital Territory,Female,Year 11 or equivalent,2800
-Aug-16,Australian Capital Territory,Female,Year 10 or equivalent,5900
-Aug-16,Total,Male,Postgraduate Degree,460800
-Aug-16,Total,Male,Graduate Diploma or Certificate,173600
-Aug-16,Total,Male,Bachelor Degree,1170400
-Aug-16,Total,Male,Advanced Diploma or Diploma,608100
-Aug-16,Total,Male,Certificate III or IV,1601500
-Aug-16,Total,Male,Year 12 or equivalent,1115200
-Aug-16,Total,Male,Year 11 or equivalent,280900
-Aug-16,Total,Male,Year 10 or equivalent,575700
-Aug-16,Total,Female,Postgraduate Degree,411800
-Aug-16,Total,Female,Graduate Diploma or Certificate,249500
-Aug-16,Total,Female,Bachelor Degree,1353200
-Aug-16,Total,Female,Advanced Diploma or Diploma,684800
-Aug-16,Total,Female,Certificate III or IV,828600
-Aug-16,Total,Female,Year 12 or equivalent,1011400
-Aug-16,Total,Female,Year 11 or equivalent,251900
-Aug-16,Total,Female,Year 10 or equivalent,475600
-Aug-17,New South Wales,Male,Postgraduate Degree,167800
-Aug-17,New South Wales,Male,Graduate Diploma or Certificate,41200
-Aug-17,New South Wales,Male,Bachelor Degree,446600
-Aug-17,New South Wales,Male,Advanced Diploma or Diploma,188200
-Aug-17,New South Wales,Male,Certificate III or IV,482900
-Aug-17,New South Wales,Male,Year 12 or equivalent,346000
-Aug-17,New South Wales,Male,Year 11 or equivalent,56600
-Aug-17,New South Wales,Male,Year 10 or equivalent,191000
-Aug-17,New South Wales,Female,Postgraduate Degree,163500
-Aug-17,New South Wales,Female,Graduate Diploma or Certificate,67800
-Aug-17,New South Wales,Female,Bachelor Degree,475900
-Aug-17,New South Wales,Female,Advanced Diploma or Diploma,227500
-Aug-17,New South Wales,Female,Certificate III or IV,238700
-Aug-17,New South Wales,Female,Year 12 or equivalent,297300
-Aug-17,New South Wales,Female,Year 11 or equivalent,56300
-Aug-17,New South Wales,Female,Year 10 or equivalent,157500
-Aug-17,Victoria,Male,Postgraduate Degree,140400
-Aug-17,Victoria,Male,Graduate Diploma or Certificate,47500
-Aug-17,Victoria,Male,Bachelor Degree,337200
-Aug-17,Victoria,Male,Advanced Diploma or Diploma,174500
-Aug-17,Victoria,Male,Certificate III or IV,419400
-Aug-17,Victoria,Male,Year 12 or equivalent,274200
-Aug-17,Victoria,Male,Year 11 or equivalent,91300
-Aug-17,Victoria,Male,Year 10 or equivalent,99600
-Aug-17,Victoria,Female,Postgraduate Degree,134500
-Aug-17,Victoria,Female,Graduate Diploma or Certificate,68100
-Aug-17,Victoria,Female,Bachelor Degree,404800
-Aug-17,Victoria,Female,Advanced Diploma or Diploma,209000
-Aug-17,Victoria,Female,Certificate III or IV,184800
-Aug-17,Victoria,Female,Year 12 or equivalent,235500
-Aug-17,Victoria,Female,Year 11 or equivalent,85500
-Aug-17,Victoria,Female,Year 10 or equivalent,87800
-Aug-17,Queensland,Male,Postgraduate Degree,57400
-Aug-17,Queensland,Male,Graduate Diploma or Certificate,28300
-Aug-17,Queensland,Male,Bachelor Degree,200400
-Aug-17,Queensland,Male,Advanced Diploma or Diploma,115100
-Aug-17,Queensland,Male,Certificate III or IV,385300
-Aug-17,Queensland,Male,Year 12 or equivalent,241300
-Aug-17,Queensland,Male,Year 11 or equivalent,49800
-Aug-17,Queensland,Male,Year 10 or equivalent,120300
-Aug-17,Queensland,Female,Postgraduate Degree,54500
-Aug-17,Queensland,Female,Graduate Diploma or Certificate,41700
-Aug-17,Queensland,Female,Bachelor Degree,263700
-Aug-17,Queensland,Female,Advanced Diploma or Diploma,157700
-Aug-17,Queensland,Female,Certificate III or IV,185500
-Aug-17,Queensland,Female,Year 12 or equivalent,242700
-Aug-17,Queensland,Female,Year 11 or equivalent,45300
-Aug-17,Queensland,Female,Year 10 or equivalent,114200
-Aug-17,South Australia,Male,Postgraduate Degree,23600
-Aug-17,South Australia,Male,Graduate Diploma or Certificate,10800
-Aug-17,South Australia,Male,Bachelor Degree,63400
-Aug-17,South Australia,Male,Advanced Diploma or Diploma,45400
-Aug-17,South Australia,Male,Certificate III or IV,121600
-Aug-17,South Australia,Male,Year 12 or equivalent,77200
-Aug-17,South Australia,Male,Year 11 or equivalent,33400
-Aug-17,South Australia,Male,Year 10 or equivalent,36300
-Aug-17,South Australia,Female,Postgraduate Degree,18300
-Aug-17,South Australia,Female,Graduate Diploma or Certificate,14400
-Aug-17,South Australia,Female,Bachelor Degree,82500
-Aug-17,South Australia,Female,Advanced Diploma or Diploma,54400
-Aug-17,South Australia,Female,Certificate III or IV,68500
-Aug-17,South Australia,Female,Year 12 or equivalent,66800
-Aug-17,South Australia,Female,Year 11 or equivalent,33000
-Aug-17,South Australia,Female,Year 10 or equivalent,28900
-Aug-17,Western Australia,Male,Postgraduate Degree,46300
-Aug-17,Western Australia,Male,Graduate Diploma or Certificate,14900
-Aug-17,Western Australia,Male,Bachelor Degree,130500
-Aug-17,Western Australia,Male,Advanced Diploma or Diploma,62800
-Aug-17,Western Australia,Male,Certificate III or IV,191000
-Aug-17,Western Australia,Male,Year 12 or equivalent,126300
-Aug-17,Western Australia,Male,Year 11 or equivalent,35700
-Aug-17,Western Australia,Male,Year 10 or equivalent,72600
-Aug-17,Western Australia,Female,Postgraduate Degree,35600
-Aug-17,Western Australia,Female,Graduate Diploma or Certificate,30300
-Aug-17,Western Australia,Female,Bachelor Degree,152700
-Aug-17,Western Australia,Female,Advanced Diploma or Diploma,81400
-Aug-17,Western Australia,Female,Certificate III or IV,87900
-Aug-17,Western Australia,Female,Year 12 or equivalent,108100
-Aug-17,Western Australia,Female,Year 11 or equivalent,28300
-Aug-17,Western Australia,Female,Year 10 or equivalent,50300
-Aug-17,Tasmania,Male,Postgraduate Degree,7300
-Aug-17,Tasmania,Male,Graduate Diploma or Certificate,3000
-Aug-17,Tasmania,Male,Bachelor Degree,13900
-Aug-17,Tasmania,Male,Advanced Diploma or Diploma,8900
-Aug-17,Tasmania,Male,Certificate III or IV,45200
-Aug-17,Tasmania,Male,Year 12 or equivalent,15200
-Aug-17,Tasmania,Male,Year 11 or equivalent,6700
-Aug-17,Tasmania,Male,Year 10 or equivalent,20500
-Aug-17,Tasmania,Female,Postgraduate Degree,7100
-Aug-17,Tasmania,Female,Graduate Diploma or Certificate,4500
-Aug-17,Tasmania,Female,Bachelor Degree,22700
-Aug-17,Tasmania,Female,Advanced Diploma or Diploma,13200
-Aug-17,Tasmania,Female,Certificate III or IV,24600
-Aug-17,Tasmania,Female,Year 12 or equivalent,17700
-Aug-17,Tasmania,Female,Year 11 or equivalent,5400
-Aug-17,Tasmania,Female,Year 10 or equivalent,17200
-Aug-17,Northern Territory,Male,Postgraduate Degree,4400
-Aug-17,Northern Territory,Male,Graduate Diploma or Certificate,1400
-Aug-17,Northern Territory,Male,Bachelor Degree,9300
-Aug-17,Northern Territory,Male,Advanced Diploma or Diploma,7700
-Aug-17,Northern Territory,Male,Certificate III or IV,23000
-Aug-17,Northern Territory,Male,Year 12 or equivalent,9000
-Aug-17,Northern Territory,Male,Year 11 or equivalent,5800
-Aug-17,Northern Territory,Male,Year 10 or equivalent,6600
-Aug-17,Northern Territory,Female,Postgraduate Degree,3600
-Aug-17,Northern Territory,Female,Graduate Diploma or Certificate,2900
-Aug-17,Northern Territory,Female,Bachelor Degree,15900
-Aug-17,Northern Territory,Female,Advanced Diploma or Diploma,6500
-Aug-17,Northern Territory,Female,Certificate III or IV,8500
-Aug-17,Northern Territory,Female,Year 12 or equivalent,9700
-Aug-17,Northern Territory,Female,Year 11 or equivalent,4200
-Aug-17,Northern Territory,Female,Year 10 or equivalent,6000
-Aug-17,Australian Capital Territory,Male,Postgraduate Degree,20700
-Aug-17,Australian Capital Territory,Male,Graduate Diploma or Certificate,5000
-Aug-17,Australian Capital Territory,Male,Bachelor Degree,24300
-Aug-17,Australian Capital Territory,Male,Advanced Diploma or Diploma,11100
-Aug-17,Australian Capital Territory,Male,Certificate III or IV,18800
-Aug-17,Australian Capital Territory,Male,Year 12 or equivalent,21000
-Aug-17,Australian Capital Territory,Male,Year 11 or equivalent,2300
-Aug-17,Australian Capital Territory,Male,Year 10 or equivalent,5700
-Aug-17,Australian Capital Territory,Female,Postgraduate Degree,18700
-Aug-17,Australian Capital Territory,Female,Graduate Diploma or Certificate,7800
-Aug-17,Australian Capital Territory,Female,Bachelor Degree,29600
-Aug-17,Australian Capital Territory,Female,Advanced Diploma or Diploma,11700
-Aug-17,Australian Capital Territory,Female,Certificate III or IV,12100
-Aug-17,Australian Capital Territory,Female,Year 12 or equivalent,19700
-Aug-17,Australian Capital Territory,Female,Year 11 or equivalent,1900
-Aug-17,Australian Capital Territory,Female,Year 10 or equivalent,5700
-Aug-17,Total,Male,Postgraduate Degree,467700
-Aug-17,Total,Male,Graduate Diploma or Certificate,153000
-Aug-17,Total,Male,Bachelor Degree,1227400
-Aug-17,Total,Male,Advanced Diploma or Diploma,608500
-Aug-17,Total,Male,Certificate III or IV,1684400
-Aug-17,Total,Male,Year 12 or equivalent,1112200
-Aug-17,Total,Male,Year 11 or equivalent,278400
-Aug-17,Total,Male,Year 10 or equivalent,556000
-Aug-17,Total,Female,Postgraduate Degree,436400
-Aug-17,Total,Female,Graduate Diploma or Certificate,241000
-Aug-17,Total,Female,Bachelor Degree,1448400
-Aug-17,Total,Female,Advanced Diploma or Diploma,763100
-Aug-17,Total,Female,Certificate III or IV,809800
-Aug-17,Total,Female,Year 12 or equivalent,997100
-Aug-17,Total,Female,Year 11 or equivalent,262600
-Aug-17,Total,Female,Year 10 or equivalent,467700
-Aug-18,New South Wales,Male,Postgraduate Degree,191100
-Aug-18,New South Wales,Male,Graduate Diploma or Certificate,44100
-Aug-18,New South Wales,Male,Bachelor Degree,459500
-Aug-18,New South Wales,Male,Advanced Diploma or Diploma,185800
-Aug-18,New South Wales,Male,Certificate III or IV,487200
-Aug-18,New South Wales,Male,Year 12 or equivalent,376400
-Aug-18,New South Wales,Male,Year 11 or equivalent,53600
-Aug-18,New South Wales,Male,Year 10 or equivalent,192400
-Aug-18,New South Wales,Female,Postgraduate Degree,174900
-Aug-18,New South Wales,Female,Graduate Diploma or Certificate,69100
-Aug-18,New South Wales,Female,Bachelor Degree,509500
-Aug-18,New South Wales,Female,Advanced Diploma or Diploma,216400
-Aug-18,New South Wales,Female,Certificate III or IV,280200
-Aug-18,New South Wales,Female,Year 12 or equivalent,320300
-Aug-18,New South Wales,Female,Year 11 or equivalent,47000
-Aug-18,New South Wales,Female,Year 10 or equivalent,161500
-Aug-18,Victoria,Male,Postgraduate Degree,133200
-Aug-18,Victoria,Male,Graduate Diploma or Certificate,51600
-Aug-18,Victoria,Male,Bachelor Degree,368700
-Aug-18,Victoria,Male,Advanced Diploma or Diploma,195200
-Aug-18,Victoria,Male,Certificate III or IV,413100
-Aug-18,Victoria,Male,Year 12 or equivalent,280200
-Aug-18,Victoria,Male,Year 11 or equivalent,95300
-Aug-18,Victoria,Male,Year 10 or equivalent,92500
-Aug-18,Victoria,Female,Postgraduate Degree,146900
-Aug-18,Victoria,Female,Graduate Diploma or Certificate,69100
-Aug-18,Victoria,Female,Bachelor Degree,424400
-Aug-18,Victoria,Female,Advanced Diploma or Diploma,191200
-Aug-18,Victoria,Female,Certificate III or IV,193100
-Aug-18,Victoria,Female,Year 12 or equivalent,246800
-Aug-18,Victoria,Female,Year 11 or equivalent,92700
-Aug-18,Victoria,Female,Year 10 or equivalent,77800
-Aug-18,Queensland,Male,Postgraduate Degree,61600
-Aug-18,Queensland,Male,Graduate Diploma or Certificate,26800
-Aug-18,Queensland,Male,Bachelor Degree,195800
-Aug-18,Queensland,Male,Advanced Diploma or Diploma,113500
-Aug-18,Queensland,Male,Certificate III or IV,379000
-Aug-18,Queensland,Male,Year 12 or equivalent,264000
-Aug-18,Queensland,Male,Year 11 or equivalent,52100
-Aug-18,Queensland,Male,Year 10 or equivalent,129100
-Aug-18,Queensland,Female,Postgraduate Degree,63000
-Aug-18,Queensland,Female,Graduate Diploma or Certificate,53900
-Aug-18,Queensland,Female,Bachelor Degree,243800
-Aug-18,Queensland,Female,Advanced Diploma or Diploma,141000
-Aug-18,Queensland,Female,Certificate III or IV,200900
-Aug-18,Queensland,Female,Year 12 or equivalent,244600
-Aug-18,Queensland,Female,Year 11 or equivalent,45200
-Aug-18,Queensland,Female,Year 10 or equivalent,122400
-Aug-18,South Australia,Male,Postgraduate Degree,23900
-Aug-18,South Australia,Male,Graduate Diploma or Certificate,8000
-Aug-18,South Australia,Male,Bachelor Degree,64700
-Aug-18,South Australia,Male,Advanced Diploma or Diploma,39800
-Aug-18,South Australia,Male,Certificate III or IV,123300
-Aug-18,South Australia,Male,Year 12 or equivalent,80200
-Aug-18,South Australia,Male,Year 11 or equivalent,46100
-Aug-18,South Australia,Male,Year 10 or equivalent,27800
-Aug-18,South Australia,Female,Postgraduate Degree,24500
-Aug-18,South Australia,Female,Graduate Diploma or Certificate,14200
-Aug-18,South Australia,Female,Bachelor Degree,87800
-Aug-18,South Australia,Female,Advanced Diploma or Diploma,46000
-Aug-18,South Australia,Female,Certificate III or IV,69000
-Aug-18,South Australia,Female,Year 12 or equivalent,78500
-Aug-18,South Australia,Female,Year 11 or equivalent,39700
-Aug-18,South Australia,Female,Year 10 or equivalent,18500
-Aug-18,Western Australia,Male,Postgraduate Degree,48800
-Aug-18,Western Australia,Male,Graduate Diploma or Certificate,21300
-Aug-18,Western Australia,Male,Bachelor Degree,127600
-Aug-18,Western Australia,Male,Advanced Diploma or Diploma,61400
-Aug-18,Western Australia,Male,Certificate III or IV,215400
-Aug-18,Western Australia,Male,Year 12 or equivalent,127600
-Aug-18,Western Australia,Male,Year 11 or equivalent,31300
-Aug-18,Western Australia,Male,Year 10 or equivalent,68000
-Aug-18,Western Australia,Female,Postgraduate Degree,38200
-Aug-18,Western Australia,Female,Graduate Diploma or Certificate,31000
-Aug-18,Western Australia,Female,Bachelor Degree,150700
-Aug-18,Western Australia,Female,Advanced Diploma or Diploma,86200
-Aug-18,Western Australia,Female,Certificate III or IV,89000
-Aug-18,Western Australia,Female,Year 12 or equivalent,112000
-Aug-18,Western Australia,Female,Year 11 or equivalent,29800
-Aug-18,Western Australia,Female,Year 10 or equivalent,49000
-Aug-18,Tasmania,Male,Postgraduate Degree,7800
-Aug-18,Tasmania,Male,Graduate Diploma or Certificate,3100
-Aug-18,Tasmania,Male,Bachelor Degree,17500
-Aug-18,Tasmania,Male,Advanced Diploma or Diploma,9000
-Aug-18,Tasmania,Male,Certificate III or IV,44900
-Aug-18,Tasmania,Male,Year 12 or equivalent,17800
-Aug-18,Tasmania,Male,Year 11 or equivalent,6600
-Aug-18,Tasmania,Male,Year 10 or equivalent,19600
-Aug-18,Tasmania,Female,Postgraduate Degree,5300
-Aug-18,Tasmania,Female,Graduate Diploma or Certificate,6000
-Aug-18,Tasmania,Female,Bachelor Degree,25500
-Aug-18,Tasmania,Female,Advanced Diploma or Diploma,12900
-Aug-18,Tasmania,Female,Certificate III or IV,26000
-Aug-18,Tasmania,Female,Year 12 or equivalent,15700
-Aug-18,Tasmania,Female,Year 11 or equivalent,6500
-Aug-18,Tasmania,Female,Year 10 or equivalent,19700
-Aug-18,Northern Territory,Male,Postgraduate Degree,3800
-Aug-18,Northern Territory,Male,Graduate Diploma or Certificate,1600
-Aug-18,Northern Territory,Male,Bachelor Degree,9600
-Aug-18,Northern Territory,Male,Advanced Diploma or Diploma,6600
-Aug-18,Northern Territory,Male,Certificate III or IV,21900
-Aug-18,Northern Territory,Male,Year 12 or equivalent,8500
-Aug-18,Northern Territory,Male,Year 11 or equivalent,5300
-Aug-18,Northern Territory,Male,Year 10 or equivalent,6100
-Aug-18,Northern Territory,Female,Postgraduate Degree,3700
-Aug-18,Northern Territory,Female,Graduate Diploma or Certificate,3400
-Aug-18,Northern Territory,Female,Bachelor Degree,13400
-Aug-18,Northern Territory,Female,Advanced Diploma or Diploma,7600
-Aug-18,Northern Territory,Female,Certificate III or IV,9600
-Aug-18,Northern Territory,Female,Year 12 or equivalent,9300
-Aug-18,Northern Territory,Female,Year 11 or equivalent,4000
-Aug-18,Northern Territory,Female,Year 10 or equivalent,5100
-Aug-18,Australian Capital Territory,Male,Postgraduate Degree,15800
-Aug-18,Australian Capital Territory,Male,Graduate Diploma or Certificate,5200
-Aug-18,Australian Capital Territory,Male,Bachelor Degree,33700
-Aug-18,Australian Capital Territory,Male,Advanced Diploma or Diploma,9500
-Aug-18,Australian Capital Territory,Male,Certificate III or IV,20600
-Aug-18,Australian Capital Territory,Male,Year 12 or equivalent,20800
-Aug-18,Australian Capital Territory,Male,Year 11 or equivalent,3600
-Aug-18,Australian Capital Territory,Male,Year 10 or equivalent,5200
-Aug-18,Australian Capital Territory,Female,Postgraduate Degree,12900
-Aug-18,Australian Capital Territory,Female,Graduate Diploma or Certificate,7600
-Aug-18,Australian Capital Territory,Female,Bachelor Degree,31600
-Aug-18,Australian Capital Territory,Female,Advanced Diploma or Diploma,16000
-Aug-18,Australian Capital Territory,Female,Certificate III or IV,10900
-Aug-18,Australian Capital Territory,Female,Year 12 or equivalent,21000
-Aug-18,Australian Capital Territory,Female,Year 11 or equivalent,3700
-Aug-18,Australian Capital Territory,Female,Year 10 or equivalent,4500
-Aug-18,Total,Male,Postgraduate Degree,486200
-Aug-18,Total,Male,Graduate Diploma or Certificate,161100
-Aug-18,Total,Male,Bachelor Degree,1276400
-Aug-18,Total,Male,Advanced Diploma or Diploma,621800
-Aug-18,Total,Male,Certificate III or IV,1703400
-Aug-18,Total,Male,Year 12 or equivalent,1177500
-Aug-18,Total,Male,Year 11 or equivalent,291000
-Aug-18,Total,Male,Year 10 or equivalent,538700
-Aug-18,Total,Female,Postgraduate Degree,466500
-Aug-18,Total,Female,Graduate Diploma or Certificate,256300
-Aug-18,Total,Female,Bachelor Degree,1490100
-Aug-18,Total,Female,Advanced Diploma or Diploma,718200
-Aug-18,Total,Female,Certificate III or IV,878800
-Aug-18,Total,Female,Year 12 or equivalent,1049000
-Aug-18,Total,Female,Year 11 or equivalent,264300
-Aug-18,Total,Female,Year 10 or equivalent,453800
-Aug-19,New South Wales,Male,Postgraduate Degree,219100
-Aug-19,New South Wales,Male,Graduate Diploma or Certificate,53500
-Aug-19,New South Wales,Male,Bachelor Degree,466300
-Aug-19,New South Wales,Male,Advanced Diploma or Diploma,226300
-Aug-19,New South Wales,Male,Certificate III or IV,510900
-Aug-19,New South Wales,Male,Year 12 or equivalent,373600
-Aug-19,New South Wales,Male,Year 11 or equivalent,55000
-Aug-19,New South Wales,Male,Year 10 or equivalent,164000
-Aug-19,New South Wales,Female,Postgraduate Degree,181800
-Aug-19,New South Wales,Female,Graduate Diploma or Certificate,82400
-Aug-19,New South Wales,Female,Bachelor Degree,532300
-Aug-19,New South Wales,Female,Advanced Diploma or Diploma,240900
-Aug-19,New South Wales,Female,Certificate III or IV,225000
-Aug-19,New South Wales,Female,Year 12 or equivalent,323500
-Aug-19,New South Wales,Female,Year 11 or equivalent,46700
-Aug-19,New South Wales,Female,Year 10 or equivalent,170600
-Aug-19,Victoria,Male,Postgraduate Degree,176900
-Aug-19,Victoria,Male,Graduate Diploma or Certificate,57700
-Aug-19,Victoria,Male,Bachelor Degree,382900
-Aug-19,Victoria,Male,Advanced Diploma or Diploma,181800
-Aug-19,Victoria,Male,Certificate III or IV,357200
-Aug-19,Victoria,Male,Year 12 or equivalent,288900
-Aug-19,Victoria,Male,Year 11 or equivalent,98600
-Aug-19,Victoria,Male,Year 10 or equivalent,103700
-Aug-19,Victoria,Female,Postgraduate Degree,165800
-Aug-19,Victoria,Female,Graduate Diploma or Certificate,89700
-Aug-19,Victoria,Female,Bachelor Degree,426400
-Aug-19,Victoria,Female,Advanced Diploma or Diploma,204000
-Aug-19,Victoria,Female,Certificate III or IV,194300
-Aug-19,Victoria,Female,Year 12 or equivalent,271700
-Aug-19,Victoria,Female,Year 11 or equivalent,69900
-Aug-19,Victoria,Female,Year 10 or equivalent,74300
-Aug-19,Queensland,Male,Postgraduate Degree,74300
-Aug-19,Queensland,Male,Graduate Diploma or Certificate,28800
-Aug-19,Queensland,Male,Bachelor Degree,195900
-Aug-19,Queensland,Male,Advanced Diploma or Diploma,115100
-Aug-19,Queensland,Male,Certificate III or IV,393500
-Aug-19,Queensland,Male,Year 12 or equivalent,255300
-Aug-19,Queensland,Male,Year 11 or equivalent,45300
-Aug-19,Queensland,Male,Year 10 or equivalent,126600
-Aug-19,Queensland,Female,Postgraduate Degree,73900
-Aug-19,Queensland,Female,Graduate Diploma or Certificate,46500
-Aug-19,Queensland,Female,Bachelor Degree,264100
-Aug-19,Queensland,Female,Advanced Diploma or Diploma,162200
-Aug-19,Queensland,Female,Certificate III or IV,207100
-Aug-19,Queensland,Female,Year 12 or equivalent,264300
-Aug-19,Queensland,Female,Year 11 or equivalent,35700
-Aug-19,Queensland,Female,Year 10 or equivalent,109200
-Aug-19,South Australia,Male,Postgraduate Degree,30800
-Aug-19,South Australia,Male,Graduate Diploma or Certificate,8600
-Aug-19,South Australia,Male,Bachelor Degree,60200
-Aug-19,South Australia,Male,Advanced Diploma or Diploma,35900
-Aug-19,South Australia,Male,Certificate III or IV,125100
-Aug-19,South Australia,Male,Year 12 or equivalent,82000
-Aug-19,South Australia,Male,Year 11 or equivalent,40200
-Aug-19,South Australia,Male,Year 10 or equivalent,32400
-Aug-19,South Australia,Female,Postgraduate Degree,28400
-Aug-19,South Australia,Female,Graduate Diploma or Certificate,16700
-Aug-19,South Australia,Female,Bachelor Degree,86400
-Aug-19,South Australia,Female,Advanced Diploma or Diploma,52300
-Aug-19,South Australia,Female,Certificate III or IV,68400
-Aug-19,South Australia,Female,Year 12 or equivalent,79900
-Aug-19,South Australia,Female,Year 11 or equivalent,40300
-Aug-19,South Australia,Female,Year 10 or equivalent,20000
-Aug-19,Western Australia,Male,Postgraduate Degree,57500
-Aug-19,Western Australia,Male,Graduate Diploma or Certificate,17400
-Aug-19,Western Australia,Male,Bachelor Degree,121200
-Aug-19,Western Australia,Male,Advanced Diploma or Diploma,74800
-Aug-19,Western Australia,Male,Certificate III or IV,205200
-Aug-19,Western Australia,Male,Year 12 or equivalent,124200
-Aug-19,Western Australia,Male,Year 11 or equivalent,36400
-Aug-19,Western Australia,Male,Year 10 or equivalent,58600
-Aug-19,Western Australia,Female,Postgraduate Degree,38700
-Aug-19,Western Australia,Female,Graduate Diploma or Certificate,30400
-Aug-19,Western Australia,Female,Bachelor Degree,149400
-Aug-19,Western Australia,Female,Advanced Diploma or Diploma,73100
-Aug-19,Western Australia,Female,Certificate III or IV,104600
-Aug-19,Western Australia,Female,Year 12 or equivalent,125200
-Aug-19,Western Australia,Female,Year 11 or equivalent,24500
-Aug-19,Western Australia,Female,Year 10 or equivalent,57300
-Aug-19,Tasmania,Male,Postgraduate Degree,9400
-Aug-19,Tasmania,Male,Graduate Diploma or Certificate,4700
-Aug-19,Tasmania,Male,Bachelor Degree,22600
-Aug-19,Tasmania,Male,Advanced Diploma or Diploma,10900
-Aug-19,Tasmania,Male,Certificate III or IV,39800
-Aug-19,Tasmania,Male,Year 12 or equivalent,17700
-Aug-19,Tasmania,Male,Year 11 or equivalent,5600
-Aug-19,Tasmania,Male,Year 10 or equivalent,17600
-Aug-19,Tasmania,Female,Postgraduate Degree,10300
-Aug-19,Tasmania,Female,Graduate Diploma or Certificate,5200
-Aug-19,Tasmania,Female,Bachelor Degree,27700
-Aug-19,Tasmania,Female,Advanced Diploma or Diploma,11600
-Aug-19,Tasmania,Female,Certificate III or IV,23000
-Aug-19,Tasmania,Female,Year 12 or equivalent,16800
-Aug-19,Tasmania,Female,Year 11 or equivalent,6800
-Aug-19,Tasmania,Female,Year 10 or equivalent,16300
-Aug-19,Northern Territory,Male,Postgraduate Degree,5200
-Aug-19,Northern Territory,Male,Graduate Diploma or Certificate,1800
-Aug-19,Northern Territory,Male,Bachelor Degree,9700
-Aug-19,Northern Territory,Male,Advanced Diploma or Diploma,6500
-Aug-19,Northern Territory,Male,Certificate III or IV,19200
-Aug-19,Northern Territory,Male,Year 12 or equivalent,10100
-Aug-19,Northern Territory,Male,Year 11 or equivalent,4400
-Aug-19,Northern Territory,Male,Year 10 or equivalent,3900
-Aug-19,Northern Territory,Female,Postgraduate Degree,7000
-Aug-19,Northern Territory,Female,Graduate Diploma or Certificate,2100
-Aug-19,Northern Territory,Female,Bachelor Degree,15800
-Aug-19,Northern Territory,Female,Advanced Diploma or Diploma,6700
-Aug-19,Northern Territory,Female,Certificate III or IV,7200
-Aug-19,Northern Territory,Female,Year 12 or equivalent,9200
-Aug-19,Northern Territory,Female,Year 11 or equivalent,3200
-Aug-19,Northern Territory,Female,Year 10 or equivalent,4500
-Aug-19,Australian Capital Territory,Male,Postgraduate Degree,18700
-Aug-19,Australian Capital Territory,Male,Graduate Diploma or Certificate,3800
-Aug-19,Australian Capital Territory,Male,Bachelor Degree,30600
-Aug-19,Australian Capital Territory,Male,Advanced Diploma or Diploma,10300
-Aug-19,Australian Capital Territory,Male,Certificate III or IV,19400
-Aug-19,Australian Capital Territory,Male,Year 12 or equivalent,28100
-Aug-19,Australian Capital Territory,Male,Year 11 or equivalent,2400
-Aug-19,Australian Capital Territory,Male,Year 10 or equivalent,5900
-Aug-19,Australian Capital Territory,Female,Postgraduate Degree,17700
-Aug-19,Australian Capital Territory,Female,Graduate Diploma or Certificate,7500
-Aug-19,Australian Capital Territory,Female,Bachelor Degree,35600
-Aug-19,Australian Capital Territory,Female,Advanced Diploma or Diploma,11700
-Aug-19,Australian Capital Territory,Female,Certificate III or IV,10200
-Aug-19,Australian Capital Territory,Female,Year 12 or equivalent,24300
-Aug-19,Australian Capital Territory,Female,Year 11 or equivalent,2300
-Aug-19,Australian Capital Territory,Female,Year 10 or equivalent,4600
-Aug-19,Total,Male,Postgraduate Degree,589800
-Aug-19,Total,Male,Graduate Diploma or Certificate,171400
-Aug-19,Total,Male,Bachelor Degree,1290000
-Aug-19,Total,Male,Advanced Diploma or Diploma,664800
-Aug-19,Total,Male,Certificate III or IV,1667500
-Aug-19,Total,Male,Year 12 or equivalent,1183100
-Aug-19,Total,Male,Year 11 or equivalent,285800
-Aug-19,Total,Male,Year 10 or equivalent,513100
-Aug-19,Total,Female,Postgraduate Degree,523800
-Aug-19,Total,Female,Graduate Diploma or Certificate,283100
-Aug-19,Total,Female,Bachelor Degree,1534300
-Aug-19,Total,Female,Advanced Diploma or Diploma,762500
-Aug-19,Total,Female,Certificate III or IV,843200
-Aug-19,Total,Female,Year 12 or equivalent,1114600
-Aug-19,Total,Female,Year 11 or equivalent,229000
-Aug-19,Total,Female,Year 10 or equivalent,456700
-Aug-20,New South Wales,Male,Postgraduate Degree,213700
-Aug-20,New South Wales,Male,Graduate Diploma or Certificate,57400
-Aug-20,New South Wales,Male,Bachelor Degree,450200
-Aug-20,New South Wales,Male,Advanced Diploma or Diploma,192700
-Aug-20,New South Wales,Male,Certificate III or IV,428100
-Aug-20,New South Wales,Male,Year 12 or equivalent,357900
-Aug-20,New South Wales,Male,Year 11 or equivalent,55600
-Aug-20,New South Wales,Male,Year 10 or equivalent,185700
-Aug-20,New South Wales,Female,Postgraduate Degree,203700
-Aug-20,New South Wales,Female,Graduate Diploma or Certificate,78000
-Aug-20,New South Wales,Female,Bachelor Degree,524100
-Aug-20,New South Wales,Female,Advanced Diploma or Diploma,219500
-Aug-20,New South Wales,Female,Certificate III or IV,233300
-Aug-20,New South Wales,Female,Year 12 or equivalent,306900
-Aug-20,New South Wales,Female,Year 11 or equivalent,54000
-Aug-20,New South Wales,Female,Year 10 or equivalent,142200
-Aug-20,Victoria,Male,Postgraduate Degree,194800
-Aug-20,Victoria,Male,Graduate Diploma or Certificate,53800
-Aug-20,Victoria,Male,Bachelor Degree,379100
-Aug-20,Victoria,Male,Advanced Diploma or Diploma,198500
-Aug-20,Victoria,Male,Certificate III or IV,351700
-Aug-20,Victoria,Male,Year 12 or equivalent,267200
-Aug-20,Victoria,Male,Year 11 or equivalent,87300
-Aug-20,Victoria,Male,Year 10 or equivalent,101500
-Aug-20,Victoria,Female,Postgraduate Degree,177200
-Aug-20,Victoria,Female,Graduate Diploma or Certificate,102500
-Aug-20,Victoria,Female,Bachelor Degree,435500
-Aug-20,Victoria,Female,Advanced Diploma or Diploma,190000
-Aug-20,Victoria,Female,Certificate III or IV,158300
-Aug-20,Victoria,Female,Year 12 or equivalent,222700
-Aug-20,Victoria,Female,Year 11 or equivalent,85100
-Aug-20,Victoria,Female,Year 10 or equivalent,53700
-Aug-20,Queensland,Male,Postgraduate Degree,88200
-Aug-20,Queensland,Male,Graduate Diploma or Certificate,33200
-Aug-20,Queensland,Male,Bachelor Degree,224300
-Aug-20,Queensland,Male,Advanced Diploma or Diploma,116100
-Aug-20,Queensland,Male,Certificate III or IV,342100
-Aug-20,Queensland,Male,Year 12 or equivalent,251200
-Aug-20,Queensland,Male,Year 11 or equivalent,50400
-Aug-20,Queensland,Male,Year 10 or equivalent,91200
-Aug-20,Queensland,Female,Postgraduate Degree,93800
-Aug-20,Queensland,Female,Graduate Diploma or Certificate,63700
-Aug-20,Queensland,Female,Bachelor Degree,275800
-Aug-20,Queensland,Female,Advanced Diploma or Diploma,153200
-Aug-20,Queensland,Female,Certificate III or IV,197900
-Aug-20,Queensland,Female,Year 12 or equivalent,235000
-Aug-20,Queensland,Female,Year 11 or equivalent,35900
-Aug-20,Queensland,Female,Year 10 or equivalent,89400
-Aug-20,South Australia,Male,Postgraduate Degree,31200
-Aug-20,South Australia,Male,Graduate Diploma or Certificate,14300
-Aug-20,South Australia,Male,Bachelor Degree,65400
-Aug-20,South Australia,Male,Advanced Diploma or Diploma,35100
-Aug-20,South Australia,Male,Certificate III or IV,110100
-Aug-20,South Australia,Male,Year 12 or equivalent,92000
-Aug-20,South Australia,Male,Year 11 or equivalent,40200
-Aug-20,South Australia,Male,Year 10 or equivalent,30100
-Aug-20,South Australia,Female,Postgraduate Degree,27500
-Aug-20,South Australia,Female,Graduate Diploma or Certificate,20100
-Aug-20,South Australia,Female,Bachelor Degree,90100
-Aug-20,South Australia,Female,Advanced Diploma or Diploma,52900
-Aug-20,South Australia,Female,Certificate III or IV,61000
-Aug-20,South Australia,Female,Year 12 or equivalent,73200
-Aug-20,South Australia,Female,Year 11 or equivalent,36200
-Aug-20,South Australia,Female,Year 10 or equivalent,22300
-Aug-20,Western Australia,Male,Postgraduate Degree,55100
-Aug-20,Western Australia,Male,Graduate Diploma or Certificate,20500
-Aug-20,Western Australia,Male,Bachelor Degree,145900
-Aug-20,Western Australia,Male,Advanced Diploma or Diploma,73800
-Aug-20,Western Australia,Male,Certificate III or IV,191000
-Aug-20,Western Australia,Male,Year 12 or equivalent,119700
-Aug-20,Western Australia,Male,Year 11 or equivalent,38000
-Aug-20,Western Australia,Male,Year 10 or equivalent,60000
-Aug-20,Western Australia,Female,Postgraduate Degree,44300
-Aug-20,Western Australia,Female,Graduate Diploma or Certificate,37700
-Aug-20,Western Australia,Female,Bachelor Degree,159700
-Aug-20,Western Australia,Female,Advanced Diploma or Diploma,79600
-Aug-20,Western Australia,Female,Certificate III or IV,84700
-Aug-20,Western Australia,Female,Year 12 or equivalent,118100
-Aug-20,Western Australia,Female,Year 11 or equivalent,27300
-Aug-20,Western Australia,Female,Year 10 or equivalent,53900
-Aug-20,Tasmania,Male,Postgraduate Degree,11400
-Aug-20,Tasmania,Male,Graduate Diploma or Certificate,2800
-Aug-20,Tasmania,Male,Bachelor Degree,22700
-Aug-20,Tasmania,Male,Advanced Diploma or Diploma,10400
-Aug-20,Tasmania,Male,Certificate III or IV,35800
-Aug-20,Tasmania,Male,Year 12 or equivalent,21100
-Aug-20,Tasmania,Male,Year 11 or equivalent,6900
-Aug-20,Tasmania,Male,Year 10 or equivalent,19000
-Aug-20,Tasmania,Female,Postgraduate Degree,9500
-Aug-20,Tasmania,Female,Graduate Diploma or Certificate,5600
-Aug-20,Tasmania,Female,Bachelor Degree,29000
-Aug-20,Tasmania,Female,Advanced Diploma or Diploma,12300
-Aug-20,Tasmania,Female,Certificate III or IV,22300
-Aug-20,Tasmania,Female,Year 12 or equivalent,17100
-Aug-20,Tasmania,Female,Year 11 or equivalent,6000
-Aug-20,Tasmania,Female,Year 10 or equivalent,15700
-Aug-20,Northern Territory,Male,Postgraduate Degree,5100
-Aug-20,Northern Territory,Male,Graduate Diploma or Certificate,2400
-Aug-20,Northern Territory,Male,Bachelor Degree,10900
-Aug-20,Northern Territory,Male,Advanced Diploma or Diploma,6100
-Aug-20,Northern Territory,Male,Certificate III or IV,17500
-Aug-20,Northern Territory,Male,Year 12 or equivalent,10200
-Aug-20,Northern Territory,Male,Year 11 or equivalent,3300
-Aug-20,Northern Territory,Male,Year 10 or equivalent,4300
-Aug-20,Northern Territory,Female,Postgraduate Degree,5600
-Aug-20,Northern Territory,Female,Graduate Diploma or Certificate,4200
-Aug-20,Northern Territory,Female,Bachelor Degree,11900
-Aug-20,Northern Territory,Female,Advanced Diploma or Diploma,6400
-Aug-20,Northern Territory,Female,Certificate III or IV,6600
-Aug-20,Northern Territory,Female,Year 12 or equivalent,11400
-Aug-20,Northern Territory,Female,Year 11 or equivalent,3100
-Aug-20,Northern Territory,Female,Year 10 or equivalent,3900
-Aug-20,Australian Capital Territory,Male,Postgraduate Degree,20600
-Aug-20,Australian Capital Territory,Male,Graduate Diploma or Certificate,4700
-Aug-20,Australian Capital Territory,Male,Bachelor Degree,36100
-Aug-20,Australian Capital Territory,Male,Advanced Diploma or Diploma,11100
-Aug-20,Australian Capital Territory,Male,Certificate III or IV,17100
-Aug-20,Australian Capital Territory,Male,Year 12 or equivalent,22800
-Aug-20,Australian Capital Territory,Male,Year 11 or equivalent,4200
-Aug-20,Australian Capital Territory,Male,Year 10 or equivalent,4700
-Aug-20,Australian Capital Territory,Female,Postgraduate Degree,19800
-Aug-20,Australian Capital Territory,Female,Graduate Diploma or Certificate,9200
-Aug-20,Australian Capital Territory,Female,Bachelor Degree,36900
-Aug-20,Australian Capital Territory,Female,Advanced Diploma or Diploma,10400
-Aug-20,Australian Capital Territory,Female,Certificate III or IV,9400
-Aug-20,Australian Capital Territory,Female,Year 12 or equivalent,24600
-Aug-20,Australian Capital Territory,Female,Year 11 or equivalent,2500
-Aug-20,Australian Capital Territory,Female,Year 10 or equivalent,5100
-Aug-20,Total,Male,Postgraduate Degree,622800
-Aug-20,Total,Male,Graduate Diploma or Certificate,191400
-Aug-20,Total,Male,Bachelor Degree,1329900
-Aug-20,Total,Male,Advanced Diploma or Diploma,646800
-Aug-20,Total,Male,Certificate III or IV,1489200
-Aug-20,Total,Male,Year 12 or equivalent,1147000
-Aug-20,Total,Male,Year 11 or equivalent,279900
-Aug-20,Total,Male,Year 10 or equivalent,494400
-Aug-20,Total,Female,Postgraduate Degree,582700
-Aug-20,Total,Female,Graduate Diploma or Certificate,323400
-Aug-20,Total,Female,Bachelor Degree,1569400
-Aug-20,Total,Female,Advanced Diploma or Diploma,724200
-Aug-20,Total,Female,Certificate III or IV,777700
-Aug-20,Total,Female,Year 12 or equivalent,1007800
-Aug-20,Total,Female,Year 11 or equivalent,250000
-Aug-20,Total,Female,Year 10 or equivalent,382300
-Aug-21,New South Wales,Male,Postgraduate Degree,236300
-Aug-21,New South Wales,Male,Graduate Diploma or Certificate,65200
-Aug-21,New South Wales,Male,Bachelor Degree,478000
-Aug-21,New South Wales,Male,Advanced Diploma or Diploma,200800
-Aug-21,New South Wales,Male,Certificate III or IV,426400
-Aug-21,New South Wales,Male,Year 12 or equivalent,325700
-Aug-21,New South Wales,Male,Year 11 or equivalent,53200
-Aug-21,New South Wales,Male,Year 10 or equivalent,154900
-Aug-21,New South Wales,Female,Postgraduate Degree,218300
-Aug-21,New South Wales,Female,Graduate Diploma or Certificate,97000
-Aug-21,New South Wales,Female,Bachelor Degree,551400
-Aug-21,New South Wales,Female,Advanced Diploma or Diploma,214600
-Aug-21,New South Wales,Female,Certificate III or IV,233400
-Aug-21,New South Wales,Female,Year 12 or equivalent,274600
-Aug-21,New South Wales,Female,Year 11 or equivalent,49300
-Aug-21,New South Wales,Female,Year 10 or equivalent,108100
-Aug-21,Victoria,Male,Postgraduate Degree,177500
-Aug-21,Victoria,Male,Graduate Diploma or Certificate,54400
-Aug-21,Victoria,Male,Bachelor Degree,425200
-Aug-21,Victoria,Male,Advanced Diploma or Diploma,176000
-Aug-21,Victoria,Male,Certificate III or IV,344300
-Aug-21,Victoria,Male,Year 12 or equivalent,319700
-Aug-21,Victoria,Male,Year 11 or equivalent,98700
-Aug-21,Victoria,Male,Year 10 or equivalent,76000
-Aug-21,Victoria,Female,Postgraduate Degree,168900
-Aug-21,Victoria,Female,Graduate Diploma or Certificate,88800
-Aug-21,Victoria,Female,Bachelor Degree,461400
-Aug-21,Victoria,Female,Advanced Diploma or Diploma,189300
-Aug-21,Victoria,Female,Certificate III or IV,160800
-Aug-21,Victoria,Female,Year 12 or equivalent,259400
-Aug-21,Victoria,Female,Year 11 or equivalent,88400
-Aug-21,Victoria,Female,Year 10 or equivalent,75700
-Aug-21,Queensland,Male,Postgraduate Degree,95500
-Aug-21,Queensland,Male,Graduate Diploma or Certificate,37200
-Aug-21,Queensland,Male,Bachelor Degree,214300
-Aug-21,Queensland,Male,Advanced Diploma or Diploma,128100
-Aug-21,Queensland,Male,Certificate III or IV,382500
-Aug-21,Queensland,Male,Year 12 or equivalent,295300
-Aug-21,Queensland,Male,Year 11 or equivalent,38600
-Aug-21,Queensland,Male,Year 10 or equivalent,115000
-Aug-21,Queensland,Female,Postgraduate Degree,87200
-Aug-21,Queensland,Female,Graduate Diploma or Certificate,56600
-Aug-21,Queensland,Female,Bachelor Degree,281800
-Aug-21,Queensland,Female,Advanced Diploma or Diploma,164300
-Aug-21,Queensland,Female,Certificate III or IV,220000
-Aug-21,Queensland,Female,Year 12 or equivalent,261300
-Aug-21,Queensland,Female,Year 11 or equivalent,45200
-Aug-21,Queensland,Female,Year 10 or equivalent,108300
-Aug-21,South Australia,Male,Postgraduate Degree,28700
-Aug-21,South Australia,Male,Graduate Diploma or Certificate,10400
-Aug-21,South Australia,Male,Bachelor Degree,82800
-Aug-21,South Australia,Male,Advanced Diploma or Diploma,37600
-Aug-21,South Australia,Male,Certificate III or IV,117000
-Aug-21,South Australia,Male,Year 12 or equivalent,89000
-Aug-21,South Australia,Male,Year 11 or equivalent,40000
-Aug-21,South Australia,Male,Year 10 or equivalent,30400
-Aug-21,South Australia,Female,Postgraduate Degree,36700
-Aug-21,South Australia,Female,Graduate Diploma or Certificate,20200
-Aug-21,South Australia,Female,Bachelor Degree,97000
-Aug-21,South Australia,Female,Advanced Diploma or Diploma,52300
-Aug-21,South Australia,Female,Certificate III or IV,70100
-Aug-21,South Australia,Female,Year 12 or equivalent,76800
-Aug-21,South Australia,Female,Year 11 or equivalent,33000
-Aug-21,South Australia,Female,Year 10 or equivalent,18400
-Aug-21,Western Australia,Male,Postgraduate Degree,59700
-Aug-21,Western Australia,Male,Graduate Diploma or Certificate,25400
-Aug-21,Western Australia,Male,Bachelor Degree,126000
-Aug-21,Western Australia,Male,Advanced Diploma or Diploma,77700
-Aug-21,Western Australia,Male,Certificate III or IV,219200
-Aug-21,Western Australia,Male,Year 12 or equivalent,129500
-Aug-21,Western Australia,Male,Year 11 or equivalent,32900
-Aug-21,Western Australia,Male,Year 10 or equivalent,64100
-Aug-21,Western Australia,Female,Postgraduate Degree,42300
-Aug-21,Western Australia,Female,Graduate Diploma or Certificate,46100
-Aug-21,Western Australia,Female,Bachelor Degree,159800
-Aug-21,Western Australia,Female,Advanced Diploma or Diploma,83500
-Aug-21,Western Australia,Female,Certificate III or IV,99700
-Aug-21,Western Australia,Female,Year 12 or equivalent,130700
-Aug-21,Western Australia,Female,Year 11 or equivalent,27900
-Aug-21,Western Australia,Female,Year 10 or equivalent,57800
-Aug-21,Tasmania,Male,Postgraduate Degree,13800
-Aug-21,Tasmania,Male,Graduate Diploma or Certificate,4400
-Aug-21,Tasmania,Male,Bachelor Degree,19400
-Aug-21,Tasmania,Male,Advanced Diploma or Diploma,11900
-Aug-21,Tasmania,Male,Certificate III or IV,40000
-Aug-21,Tasmania,Male,Year 12 or equivalent,21800
-Aug-21,Tasmania,Male,Year 11 or equivalent,7700
-Aug-21,Tasmania,Male,Year 10 or equivalent,17800
-Aug-21,Tasmania,Female,Postgraduate Degree,14700
-Aug-21,Tasmania,Female,Graduate Diploma or Certificate,5500
-Aug-21,Tasmania,Female,Bachelor Degree,28400
-Aug-21,Tasmania,Female,Advanced Diploma or Diploma,9300
-Aug-21,Tasmania,Female,Certificate III or IV,27400
-Aug-21,Tasmania,Female,Year 12 or equivalent,17600
-Aug-21,Tasmania,Female,Year 11 or equivalent,5500
-Aug-21,Tasmania,Female,Year 10 or equivalent,17500
-Aug-21,Northern Territory,Male,Postgraduate Degree,3900
-Aug-21,Northern Territory,Male,Graduate Diploma or Certificate,1300
-Aug-21,Northern Territory,Male,Bachelor Degree,12000
-Aug-21,Northern Territory,Male,Advanced Diploma or Diploma,6600
-Aug-21,Northern Territory,Male,Certificate III or IV,16500
-Aug-21,Northern Territory,Male,Year 12 or equivalent,11700
-Aug-21,Northern Territory,Male,Year 11 or equivalent,2700
-Aug-21,Northern Territory,Male,Year 10 or equivalent,4500
-Aug-21,Northern Territory,Female,Postgraduate Degree,6400
-Aug-21,Northern Territory,Female,Graduate Diploma or Certificate,4300
-Aug-21,Northern Territory,Female,Bachelor Degree,13500
-Aug-21,Northern Territory,Female,Advanced Diploma or Diploma,5800
-Aug-21,Northern Territory,Female,Certificate III or IV,9100
-Aug-21,Northern Territory,Female,Year 12 or equivalent,9300
-Aug-21,Northern Territory,Female,Year 11 or equivalent,3600
-Aug-21,Northern Territory,Female,Year 10 or equivalent,3500
-Aug-21,Australian Capital Territory,Male,Postgraduate Degree,23400
-Aug-21,Australian Capital Territory,Male,Graduate Diploma or Certificate,6700
-Aug-21,Australian Capital Territory,Male,Bachelor Degree,34100
-Aug-21,Australian Capital Territory,Male,Advanced Diploma or Diploma,12800
-Aug-21,Australian Capital Territory,Male,Certificate III or IV,14500
-Aug-21,Australian Capital Territory,Male,Year 12 or equivalent,24600
-Aug-21,Australian Capital Territory,Male,Year 11 or equivalent,3600
-Aug-21,Australian Capital Territory,Male,Year 10 or equivalent,5400
-Aug-21,Australian Capital Territory,Female,Postgraduate Degree,19800
-Aug-21,Australian Capital Territory,Female,Graduate Diploma or Certificate,8300
-Aug-21,Australian Capital Territory,Female,Bachelor Degree,38200
-Aug-21,Australian Capital Territory,Female,Advanced Diploma or Diploma,9400
-Aug-21,Australian Capital Territory,Female,Certificate III or IV,12400
-Aug-21,Australian Capital Territory,Female,Year 12 or equivalent,20300
-Aug-21,Australian Capital Territory,Female,Year 11 or equivalent,700
-Aug-21,Australian Capital Territory,Female,Year 10 or equivalent,8200
-Aug-21,Total,Male,Postgraduate Degree,639000
-Aug-21,Total,Male,Graduate Diploma or Certificate,202500
-Aug-21,Total,Male,Bachelor Degree,1393200
-Aug-21,Total,Male,Advanced Diploma or Diploma,654500
-Aug-21,Total,Male,Certificate III or IV,1563400
-Aug-21,Total,Male,Year 12 or equivalent,1218100
-Aug-21,Total,Male,Year 11 or equivalent,283200
-Aug-21,Total,Male,Year 10 or equivalent,468700
-Aug-21,Total,Female,Postgraduate Degree,597900
-Aug-21,Total,Female,Graduate Diploma or Certificate,327300
-Aug-21,Total,Female,Bachelor Degree,1629700
-Aug-21,Total,Female,Advanced Diploma or Diploma,731700
-Aug-21,Total,Female,Certificate III or IV,831400
-Aug-21,Total,Female,Year 12 or equivalent,1050500
-Aug-21,Total,Female,Year 11 or equivalent,252800
-Aug-21,Total,Female,Year 10 or equivalent,393800
-Aug-22,New South Wales,Male,Postgraduate Degree,228700
-Aug-22,New South Wales,Male,Graduate Diploma or Certificate,57600
-Aug-22,New South Wales,Male,Bachelor Degree,456300
-Aug-22,New South Wales,Male,Advanced Diploma or Diploma,209300
-Aug-22,New South Wales,Male,Certificate III or IV,469000
-Aug-22,New South Wales,Male,Year 12 or equivalent,442400
-Aug-22,New South Wales,Male,Year 11 or equivalent,57700
-Aug-22,New South Wales,Male,Year 10 or equivalent,163900
-Aug-22,New South Wales,Female,Postgraduate Degree,230400
-Aug-22,New South Wales,Female,Graduate Diploma or Certificate,82200
-Aug-22,New South Wales,Female,Bachelor Degree,540800
-Aug-22,New South Wales,Female,Advanced Diploma or Diploma,223800
-Aug-22,New South Wales,Female,Certificate III or IV,273500
-Aug-22,New South Wales,Female,Year 12 or equivalent,358300
-Aug-22,New South Wales,Female,Year 11 or equivalent,52600
-Aug-22,New South Wales,Female,Year 10 or equivalent,144700
-Aug-22,Victoria,Male,Postgraduate Degree,188000
-Aug-22,Victoria,Male,Graduate Diploma or Certificate,70900
-Aug-22,Victoria,Male,Bachelor Degree,402800
-Aug-22,Victoria,Male,Advanced Diploma or Diploma,192800
-Aug-22,Victoria,Male,Certificate III or IV,396000
-Aug-22,Victoria,Male,Year 12 or equivalent,313300
-Aug-22,Victoria,Male,Year 11 or equivalent,78700
-Aug-22,Victoria,Male,Year 10 or equivalent,102200
-Aug-22,Victoria,Female,Postgraduate Degree,201300
-Aug-22,Victoria,Female,Graduate Diploma or Certificate,101900
-Aug-22,Victoria,Female,Bachelor Degree,466600
-Aug-22,Victoria,Female,Advanced Diploma or Diploma,222200
-Aug-22,Victoria,Female,Certificate III or IV,173600
-Aug-22,Victoria,Female,Year 12 or equivalent,251600
-Aug-22,Victoria,Female,Year 11 or equivalent,78200
-Aug-22,Victoria,Female,Year 10 or equivalent,78200
-Aug-22,Queensland,Male,Postgraduate Degree,92500
-Aug-22,Queensland,Male,Graduate Diploma or Certificate,34400
-Aug-22,Queensland,Male,Bachelor Degree,247700
-Aug-22,Queensland,Male,Advanced Diploma or Diploma,124600
-Aug-22,Queensland,Male,Certificate III or IV,390400
-Aug-22,Queensland,Male,Year 12 or equivalent,287200
-Aug-22,Queensland,Male,Year 11 or equivalent,58500
-Aug-22,Queensland,Male,Year 10 or equivalent,109100
-Aug-22,Queensland,Female,Postgraduate Degree,101500
-Aug-22,Queensland,Female,Graduate Diploma or Certificate,56400
-Aug-22,Queensland,Female,Bachelor Degree,312900
-Aug-22,Queensland,Female,Advanced Diploma or Diploma,164700
-Aug-22,Queensland,Female,Certificate III or IV,244700
-Aug-22,Queensland,Female,Year 12 or equivalent,245800
-Aug-22,Queensland,Female,Year 11 or equivalent,42700
-Aug-22,Queensland,Female,Year 10 or equivalent,108000
-Aug-22,South Australia,Male,Postgraduate Degree,33800
-Aug-22,South Australia,Male,Graduate Diploma or Certificate,14400
-Aug-22,South Australia,Male,Bachelor Degree,78300
-Aug-22,South Australia,Male,Advanced Diploma or Diploma,43900
-Aug-22,South Australia,Male,Certificate III or IV,118700
-Aug-22,South Australia,Male,Year 12 or equivalent,94000
-Aug-22,South Australia,Male,Year 11 or equivalent,33600
-Aug-22,South Australia,Male,Year 10 or equivalent,35300
-Aug-22,South Australia,Female,Postgraduate Degree,39000
-Aug-22,South Australia,Female,Graduate Diploma or Certificate,18200
-Aug-22,South Australia,Female,Bachelor Degree,94100
-Aug-22,South Australia,Female,Advanced Diploma or Diploma,50600
-Aug-22,South Australia,Female,Certificate III or IV,74700
-Aug-22,South Australia,Female,Year 12 or equivalent,87400
-Aug-22,South Australia,Female,Year 11 or equivalent,28900
-Aug-22,South Australia,Female,Year 10 or equivalent,23800
-Aug-22,Western Australia,Male,Postgraduate Degree,69600
-Aug-22,Western Australia,Male,Graduate Diploma or Certificate,18100
-Aug-22,Western Australia,Male,Bachelor Degree,141100
-Aug-22,Western Australia,Male,Advanced Diploma or Diploma,79100
-Aug-22,Western Australia,Male,Certificate III or IV,212300
-Aug-22,Western Australia,Male,Year 12 or equivalent,149600
-Aug-22,Western Australia,Male,Year 11 or equivalent,35600
-Aug-22,Western Australia,Male,Year 10 or equivalent,60800
-Aug-22,Western Australia,Female,Postgraduate Degree,50900
-Aug-22,Western Australia,Female,Graduate Diploma or Certificate,38700
-Aug-22,Western Australia,Female,Bachelor Degree,168000
-Aug-22,Western Australia,Female,Advanced Diploma or Diploma,85300
-Aug-22,Western Australia,Female,Certificate III or IV,103700
-Aug-22,Western Australia,Female,Year 12 or equivalent,128000
-Aug-22,Western Australia,Female,Year 11 or equivalent,34700
-Aug-22,Western Australia,Female,Year 10 or equivalent,62200
-Aug-22,Tasmania,Male,Postgraduate Degree,12800
-Aug-22,Tasmania,Male,Graduate Diploma or Certificate,3300
-Aug-22,Tasmania,Male,Bachelor Degree,20600
-Aug-22,Tasmania,Male,Advanced Diploma or Diploma,13500
-Aug-22,Tasmania,Male,Certificate III or IV,40400
-Aug-22,Tasmania,Male,Year 12 or equivalent,21400
-Aug-22,Tasmania,Male,Year 11 or equivalent,5500
-Aug-22,Tasmania,Male,Year 10 or equivalent,20000
-Aug-22,Tasmania,Female,Postgraduate Degree,14700
-Aug-22,Tasmania,Female,Graduate Diploma or Certificate,6800
-Aug-22,Tasmania,Female,Bachelor Degree,28000
-Aug-22,Tasmania,Female,Advanced Diploma or Diploma,13800
-Aug-22,Tasmania,Female,Certificate III or IV,25400
-Aug-22,Tasmania,Female,Year 12 or equivalent,17400
-Aug-22,Tasmania,Female,Year 11 or equivalent,7200
-Aug-22,Tasmania,Female,Year 10 or equivalent,18600
-Aug-22,Northern Territory,Male,Postgraduate Degree,3500
-Aug-22,Northern Territory,Male,Graduate Diploma or Certificate,1700
-Aug-22,Northern Territory,Male,Bachelor Degree,11100
-Aug-22,Northern Territory,Male,Advanced Diploma or Diploma,7100
-Aug-22,Northern Territory,Male,Certificate III or IV,18700
-Aug-22,Northern Territory,Male,Year 12 or equivalent,9700
-Aug-22,Northern Territory,Male,Year 11 or equivalent,2800
-Aug-22,Northern Territory,Male,Year 10 or equivalent,5700
-Aug-22,Northern Territory,Female,Postgraduate Degree,6200
-Aug-22,Northern Territory,Female,Graduate Diploma or Certificate,3000
-Aug-22,Northern Territory,Female,Bachelor Degree,14000
-Aug-22,Northern Territory,Female,Advanced Diploma or Diploma,6300
-Aug-22,Northern Territory,Female,Certificate III or IV,11200
-Aug-22,Northern Territory,Female,Year 12 or equivalent,10600
-Aug-22,Northern Territory,Female,Year 11 or equivalent,3000
-Aug-22,Northern Territory,Female,Year 10 or equivalent,4000
-Aug-22,Australian Capital Territory,Male,Postgraduate Degree,27500
-Aug-22,Australian Capital Territory,Male,Graduate Diploma or Certificate,7700
-Aug-22,Australian Capital Territory,Male,Bachelor Degree,36300
-Aug-22,Australian Capital Territory,Male,Advanced Diploma or Diploma,12000
-Aug-22,Australian Capital Territory,Male,Certificate III or IV,13900
-Aug-22,Australian Capital Territory,Male,Year 12 or equivalent,24700
-Aug-22,Australian Capital Territory,Male,Year 11 or equivalent,2400
-Aug-22,Australian Capital Territory,Male,Year 10 or equivalent,4100
-Aug-22,Australian Capital Territory,Female,Postgraduate Degree,23100
-Aug-22,Australian Capital Territory,Female,Graduate Diploma or Certificate,8600
-Aug-22,Australian Capital Territory,Female,Bachelor Degree,39400
-Aug-22,Australian Capital Territory,Female,Advanced Diploma or Diploma,12400
-Aug-22,Australian Capital Territory,Female,Certificate III or IV,12400
-Aug-22,Australian Capital Territory,Female,Year 12 or equivalent,22600
-Aug-22,Australian Capital Territory,Female,Year 11 or equivalent,2000
-Aug-22,Australian Capital Territory,Female,Year 10 or equivalent,4000
-Aug-22,Total,Male,Postgraduate Degree,659900
-Aug-22,Total,Male,Graduate Diploma or Certificate,206800
-Aug-22,Total,Male,Bachelor Degree,1402200
-Aug-22,Total,Male,Advanced Diploma or Diploma,679100
-Aug-22,Total,Male,Certificate III or IV,1661100
-Aug-22,Total,Male,Year 12 or equivalent,1339000
-Aug-22,Total,Male,Year 11 or equivalent,277000
-Aug-22,Total,Male,Year 10 or equivalent,503400
-Aug-22,Total,Female,Postgraduate Degree,669500
-Aug-22,Total,Female,Graduate Diploma or Certificate,317200
-Aug-22,Total,Female,Bachelor Degree,1663800
-Aug-22,Total,Female,Advanced Diploma or Diploma,780800
-Aug-22,Total,Female,Certificate III or IV,916600
-Aug-22,Total,Female,Year 12 or equivalent,1123700
-Aug-22,Total,Female,Year 11 or equivalent,250500
-Aug-22,Total,Female,Year 10 or equivalent,445700
-Aug-23,New South Wales,Male,Postgraduate Degree,236000
-Aug-23,New South Wales,Male,Graduate Diploma or Certificate,67300
-Aug-23,New South Wales,Male,Bachelor Degree,492700
-Aug-23,New South Wales,Male,Advanced Diploma or Diploma,217100
-Aug-23,New South Wales,Male,Certificate III or IV,448400
-Aug-23,New South Wales,Male,Year 12 or equivalent,416700
-Aug-23,New South Wales,Male,Year 11 or equivalent,67700
-Aug-23,New South Wales,Male,Year 10 or equivalent,192300
-Aug-23,New South Wales,Female,Postgraduate Degree,237000
-Aug-23,New South Wales,Female,Graduate Diploma or Certificate,94800
-Aug-23,New South Wales,Female,Bachelor Degree,573700
-Aug-23,New South Wales,Female,Advanced Diploma or Diploma,228500
-Aug-23,New South Wales,Female,Certificate III or IV,249400
-Aug-23,New South Wales,Female,Year 12 or equivalent,351900
-Aug-23,New South Wales,Female,Year 11 or equivalent,52300
-Aug-23,New South Wales,Female,Year 10 or equivalent,155600
-Aug-23,Victoria,Male,Postgraduate Degree,201900
-Aug-23,Victoria,Male,Graduate Diploma or Certificate,58600
-Aug-23,Victoria,Male,Bachelor Degree,412800
-Aug-23,Victoria,Male,Advanced Diploma or Diploma,213500
-Aug-23,Victoria,Male,Certificate III or IV,374900
-Aug-23,Victoria,Male,Year 12 or equivalent,337600
-Aug-23,Victoria,Male,Year 11 or equivalent,93000
-Aug-23,Victoria,Male,Year 10 or equivalent,89300
-Aug-23,Victoria,Female,Postgraduate Degree,194700
-Aug-23,Victoria,Female,Graduate Diploma or Certificate,111300
-Aug-23,Victoria,Female,Bachelor Degree,510900
-Aug-23,Victoria,Female,Advanced Diploma or Diploma,208600
-Aug-23,Victoria,Female,Certificate III or IV,192100
-Aug-23,Victoria,Female,Year 12 or equivalent,294800
-Aug-23,Victoria,Female,Year 11 or equivalent,78800
-Aug-23,Victoria,Female,Year 10 or equivalent,66100
-Aug-23,Queensland,Male,Postgraduate Degree,109200
-Aug-23,Queensland,Male,Graduate Diploma or Certificate,40800
-Aug-23,Queensland,Male,Bachelor Degree,235200
-Aug-23,Queensland,Male,Advanced Diploma or Diploma,130800
-Aug-23,Queensland,Male,Certificate III or IV,389900
-Aug-23,Queensland,Male,Year 12 or equivalent,300900
-Aug-23,Queensland,Male,Year 11 or equivalent,47600
-Aug-23,Queensland,Male,Year 10 or equivalent,122300
-Aug-23,Queensland,Female,Postgraduate Degree,110900
-Aug-23,Queensland,Female,Graduate Diploma or Certificate,72900
-Aug-23,Queensland,Female,Bachelor Degree,318800
-Aug-23,Queensland,Female,Advanced Diploma or Diploma,158500
-Aug-23,Queensland,Female,Certificate III or IV,222100
-Aug-23,Queensland,Female,Year 12 or equivalent,267200
-Aug-23,Queensland,Female,Year 11 or equivalent,41100
-Aug-23,Queensland,Female,Year 10 or equivalent,100400
-Aug-23,South Australia,Male,Postgraduate Degree,36100
-Aug-23,South Australia,Male,Graduate Diploma or Certificate,11800
-Aug-23,South Australia,Male,Bachelor Degree,85700
-Aug-23,South Australia,Male,Advanced Diploma or Diploma,42100
-Aug-23,South Australia,Male,Certificate III or IV,118900
-Aug-23,South Australia,Male,Year 12 or equivalent,92800
-Aug-23,South Australia,Male,Year 11 or equivalent,40800
-Aug-23,South Australia,Male,Year 10 or equivalent,33800
-Aug-23,South Australia,Female,Postgraduate Degree,38100
-Aug-23,South Australia,Female,Graduate Diploma or Certificate,21300
-Aug-23,South Australia,Female,Bachelor Degree,114500
-Aug-23,South Australia,Female,Advanced Diploma or Diploma,43900
-Aug-23,South Australia,Female,Certificate III or IV,76700
-Aug-23,South Australia,Female,Year 12 or equivalent,76900
-Aug-23,South Australia,Female,Year 11 or equivalent,35800
-Aug-23,South Australia,Female,Year 10 or equivalent,19300
-Aug-23,Western Australia,Male,Postgraduate Degree,54900
-Aug-23,Western Australia,Male,Graduate Diploma or Certificate,20100
-Aug-23,Western Australia,Male,Bachelor Degree,146800
-Aug-23,Western Australia,Male,Advanced Diploma or Diploma,71800
-Aug-23,Western Australia,Male,Certificate III or IV,211100
-Aug-23,Western Australia,Male,Year 12 or equivalent,162200
-Aug-23,Western Australia,Male,Year 11 or equivalent,32900
-Aug-23,Western Australia,Male,Year 10 or equivalent,72200
-Aug-23,Western Australia,Female,Postgraduate Degree,60600
-Aug-23,Western Australia,Female,Graduate Diploma or Certificate,33100
-Aug-23,Western Australia,Female,Bachelor Degree,167800
-Aug-23,Western Australia,Female,Advanced Diploma or Diploma,86200
-Aug-23,Western Australia,Female,Certificate III or IV,93200
-Aug-23,Western Australia,Female,Year 12 or equivalent,154400
-Aug-23,Western Australia,Female,Year 11 or equivalent,31400
-Aug-23,Western Australia,Female,Year 10 or equivalent,62400
-Aug-23,Tasmania,Male,Postgraduate Degree,12000
-Aug-23,Tasmania,Male,Graduate Diploma or Certificate,3700
-Aug-23,Tasmania,Male,Bachelor Degree,22400
-Aug-23,Tasmania,Male,Advanced Diploma or Diploma,11900
-Aug-23,Tasmania,Male,Certificate III or IV,42700
-Aug-23,Tasmania,Male,Year 12 or equivalent,20500
-Aug-23,Tasmania,Male,Year 11 or equivalent,7700
-Aug-23,Tasmania,Male,Year 10 or equivalent,17800
-Aug-23,Tasmania,Female,Postgraduate Degree,14200
-Aug-23,Tasmania,Female,Graduate Diploma or Certificate,9500
-Aug-23,Tasmania,Female,Bachelor Degree,30700
-Aug-23,Tasmania,Female,Advanced Diploma or Diploma,14100
-Aug-23,Tasmania,Female,Certificate III or IV,22000
-Aug-23,Tasmania,Female,Year 12 or equivalent,18700
-Aug-23,Tasmania,Female,Year 11 or equivalent,6300
-Aug-23,Tasmania,Female,Year 10 or equivalent,17500
-Aug-23,Northern Territory,Male,Postgraduate Degree,6300
-Aug-23,Northern Territory,Male,Graduate Diploma or Certificate,1900
-Aug-23,Northern Territory,Male,Bachelor Degree,10600
-Aug-23,Northern Territory,Male,Advanced Diploma or Diploma,6400
-Aug-23,Northern Territory,Male,Certificate III or IV,16900
-Aug-23,Northern Territory,Male,Year 12 or equivalent,11600
-Aug-23,Northern Territory,Male,Year 11 or equivalent,3800
-Aug-23,Northern Territory,Male,Year 10 or equivalent,3700
-Aug-23,Northern Territory,Female,Postgraduate Degree,6200
-Aug-23,Northern Territory,Female,Graduate Diploma or Certificate,3100
-Aug-23,Northern Territory,Female,Bachelor Degree,16500
-Aug-23,Northern Territory,Female,Advanced Diploma or Diploma,6800
-Aug-23,Northern Territory,Female,Certificate III or IV,8500
-Aug-23,Northern Territory,Female,Year 12 or equivalent,10900
-Aug-23,Northern Territory,Female,Year 11 or equivalent,3500
-Aug-23,Northern Territory,Female,Year 10 or equivalent,1800
-Aug-23,Australian Capital Territory,Male,Postgraduate Degree,25700
-Aug-23,Australian Capital Territory,Male,Graduate Diploma or Certificate,7300
-Aug-23,Australian Capital Territory,Male,Bachelor Degree,33900
-Aug-23,Australian Capital Territory,Male,Advanced Diploma or Diploma,10900
-Aug-23,Australian Capital Territory,Male,Certificate III or IV,21900
-Aug-23,Australian Capital Territory,Male,Year 12 or equivalent,22300
-Aug-23,Australian Capital Territory,Male,Year 11 or equivalent,2500
-Aug-23,Australian Capital Territory,Male,Year 10 or equivalent,7000
-Aug-23,Australian Capital Territory,Female,Postgraduate Degree,21600
-Aug-23,Australian Capital Territory,Female,Graduate Diploma or Certificate,11200
-Aug-23,Australian Capital Territory,Female,Bachelor Degree,39900
-Aug-23,Australian Capital Territory,Female,Advanced Diploma or Diploma,12400
-Aug-23,Australian Capital Territory,Female,Certificate III or IV,12300
-Aug-23,Australian Capital Territory,Female,Year 12 or equivalent,19700
-Aug-23,Australian Capital Territory,Female,Year 11 or equivalent,2300
-Aug-23,Australian Capital Territory,Female,Year 10 or equivalent,4000
-Aug-23,Total,Male,Postgraduate Degree,684400
-Aug-23,Total,Male,Graduate Diploma or Certificate,210600
-Aug-23,Total,Male,Bachelor Degree,1435800
-Aug-23,Total,Male,Advanced Diploma or Diploma,702900
-Aug-23,Total,Male,Certificate III or IV,1626100
-Aug-23,Total,Male,Year 12 or equivalent,1362700
-Aug-23,Total,Male,Year 11 or equivalent,296000
-Aug-23,Total,Male,Year 10 or equivalent,538200
-Aug-23,Total,Female,Postgraduate Degree,687800
-Aug-23,Total,Female,Graduate Diploma or Certificate,358200
-Aug-23,Total,Female,Bachelor Degree,1775800
-Aug-23,Total,Female,Advanced Diploma or Diploma,761100
-Aug-23,Total,Female,Certificate III or IV,873300
-Aug-23,Total,Female,Year 12 or equivalent,1197200
-Aug-23,Total,Female,Year 11 or equivalent,255600
-Aug-23,Total,Female,Year 10 or equivalent,428500
+2014,New South Wales,Male,Postgraduate Degree,0
+2014,New South Wales,Male,Graduate Diploma or Certificate,0
+2014,New South Wales,Male,Bachelor Degree,0
+2014,New South Wales,Male,Advanced Diploma or Diploma,0
+2014,New South Wales,Male,Certificate III or IV,0
+2014,New South Wales,Male,Year 12 or equivalent,0
+2014,New South Wales,Male,Year 11 or equivalent,0
+2014,New South Wales,Male,Year 10 or equivalent,0
+2014,New South Wales,Female,Postgraduate Degree,0
+2014,New South Wales,Female,Graduate Diploma or Certificate,0
+2014,New South Wales,Female,Bachelor Degree,0
+2014,New South Wales,Female,Advanced Diploma or Diploma,0
+2014,New South Wales,Female,Certificate III or IV,0
+2014,New South Wales,Female,Year 12 or equivalent,0
+2014,New South Wales,Female,Year 11 or equivalent,0
+2014,New South Wales,Female,Year 10 or equivalent,0
+2014,Victoria,Male,Postgraduate Degree,0
+2014,Victoria,Male,Graduate Diploma or Certificate,0
+2014,Victoria,Male,Bachelor Degree,0
+2014,Victoria,Male,Advanced Diploma or Diploma,0
+2014,Victoria,Male,Certificate III or IV,0
+2014,Victoria,Male,Year 12 or equivalent,0
+2014,Victoria,Male,Year 11 or equivalent,0
+2014,Victoria,Male,Year 10 or equivalent,0
+2014,Victoria,Female,Postgraduate Degree,0
+2014,Victoria,Female,Graduate Diploma or Certificate,0
+2014,Victoria,Female,Bachelor Degree,0
+2014,Victoria,Female,Advanced Diploma or Diploma,0
+2014,Victoria,Female,Certificate III or IV,0
+2014,Victoria,Female,Year 12 or equivalent,0
+2014,Victoria,Female,Year 11 or equivalent,0
+2014,Victoria,Female,Year 10 or equivalent,0
+2014,Queensland,Male,Postgraduate Degree,0
+2014,Queensland,Male,Graduate Diploma or Certificate,0
+2014,Queensland,Male,Bachelor Degree,0
+2014,Queensland,Male,Advanced Diploma or Diploma,0
+2014,Queensland,Male,Certificate III or IV,0
+2014,Queensland,Male,Year 12 or equivalent,0
+2014,Queensland,Male,Year 11 or equivalent,0
+2014,Queensland,Male,Year 10 or equivalent,0
+2014,Queensland,Female,Postgraduate Degree,0
+2014,Queensland,Female,Graduate Diploma or Certificate,0
+2014,Queensland,Female,Bachelor Degree,0
+2014,Queensland,Female,Advanced Diploma or Diploma,0
+2014,Queensland,Female,Certificate III or IV,0
+2014,Queensland,Female,Year 12 or equivalent,0
+2014,Queensland,Female,Year 11 or equivalent,0
+2014,Queensland,Female,Year 10 or equivalent,0
+2014,South Australia,Male,Postgraduate Degree,0
+2014,South Australia,Male,Graduate Diploma or Certificate,0
+2014,South Australia,Male,Bachelor Degree,0
+2014,South Australia,Male,Advanced Diploma or Diploma,0
+2014,South Australia,Male,Certificate III or IV,0
+2014,South Australia,Male,Year 12 or equivalent,0
+2014,South Australia,Male,Year 11 or equivalent,0
+2014,South Australia,Male,Year 10 or equivalent,0
+2014,South Australia,Female,Postgraduate Degree,0
+2014,South Australia,Female,Graduate Diploma or Certificate,0
+2014,South Australia,Female,Bachelor Degree,0
+2014,South Australia,Female,Advanced Diploma or Diploma,0
+2014,South Australia,Female,Certificate III or IV,0
+2014,South Australia,Female,Year 12 or equivalent,0
+2014,South Australia,Female,Year 11 or equivalent,0
+2014,South Australia,Female,Year 10 or equivalent,0
+2014,Western Australia,Male,Postgraduate Degree,0
+2014,Western Australia,Male,Graduate Diploma or Certificate,0
+2014,Western Australia,Male,Bachelor Degree,0
+2014,Western Australia,Male,Advanced Diploma or Diploma,0
+2014,Western Australia,Male,Certificate III or IV,0
+2014,Western Australia,Male,Year 12 or equivalent,0
+2014,Western Australia,Male,Year 11 or equivalent,0
+2014,Western Australia,Male,Year 10 or equivalent,0
+2014,Western Australia,Female,Postgraduate Degree,0
+2014,Western Australia,Female,Graduate Diploma or Certificate,0
+2014,Western Australia,Female,Bachelor Degree,0
+2014,Western Australia,Female,Advanced Diploma or Diploma,0
+2014,Western Australia,Female,Certificate III or IV,0
+2014,Western Australia,Female,Year 12 or equivalent,0
+2014,Western Australia,Female,Year 11 or equivalent,0
+2014,Western Australia,Female,Year 10 or equivalent,0
+2014,Tasmania,Male,Postgraduate Degree,0
+2014,Tasmania,Male,Graduate Diploma or Certificate,0
+2014,Tasmania,Male,Bachelor Degree,0
+2014,Tasmania,Male,Advanced Diploma or Diploma,0
+2014,Tasmania,Male,Certificate III or IV,0
+2014,Tasmania,Male,Year 12 or equivalent,0
+2014,Tasmania,Male,Year 11 or equivalent,0
+2014,Tasmania,Male,Year 10 or equivalent,0
+2014,Tasmania,Female,Postgraduate Degree,0
+2014,Tasmania,Female,Graduate Diploma or Certificate,0
+2014,Tasmania,Female,Bachelor Degree,0
+2014,Tasmania,Female,Advanced Diploma or Diploma,0
+2014,Tasmania,Female,Certificate III or IV,0
+2014,Tasmania,Female,Year 12 or equivalent,0
+2014,Tasmania,Female,Year 11 or equivalent,0
+2014,Tasmania,Female,Year 10 or equivalent,0
+2014,Northern Territory,Male,Postgraduate Degree,0
+2014,Northern Territory,Male,Graduate Diploma or Certificate,0
+2014,Northern Territory,Male,Bachelor Degree,0
+2014,Northern Territory,Male,Advanced Diploma or Diploma,0
+2014,Northern Territory,Male,Certificate III or IV,0
+2014,Northern Territory,Male,Year 12 or equivalent,0
+2014,Northern Territory,Male,Year 11 or equivalent,0
+2014,Northern Territory,Male,Year 10 or equivalent,0
+2014,Northern Territory,Female,Postgraduate Degree,0
+2014,Northern Territory,Female,Graduate Diploma or Certificate,0
+2014,Northern Territory,Female,Bachelor Degree,0
+2014,Northern Territory,Female,Advanced Diploma or Diploma,0
+2014,Northern Territory,Female,Certificate III or IV,0
+2014,Northern Territory,Female,Year 12 or equivalent,0
+2014,Northern Territory,Female,Year 11 or equivalent,0
+2014,Northern Territory,Female,Year 10 or equivalent,0
+2014,Australian Capital Territory,Male,Postgraduate Degree,0
+2014,Australian Capital Territory,Male,Graduate Diploma or Certificate,0
+2014,Australian Capital Territory,Male,Bachelor Degree,0
+2014,Australian Capital Territory,Male,Advanced Diploma or Diploma,0
+2014,Australian Capital Territory,Male,Certificate III or IV,0
+2014,Australian Capital Territory,Male,Year 12 or equivalent,0
+2014,Australian Capital Territory,Male,Year 11 or equivalent,0
+2014,Australian Capital Territory,Male,Year 10 or equivalent,0
+2014,Australian Capital Territory,Female,Postgraduate Degree,0
+2014,Australian Capital Territory,Female,Graduate Diploma or Certificate,0
+2014,Australian Capital Territory,Female,Bachelor Degree,0
+2014,Australian Capital Territory,Female,Advanced Diploma or Diploma,0
+2014,Australian Capital Territory,Female,Certificate III or IV,0
+2014,Australian Capital Territory,Female,Year 12 or equivalent,0
+2014,Australian Capital Territory,Female,Year 11 or equivalent,0
+2014,Australian Capital Territory,Female,Year 10 or equivalent,0
+2014,Total,Male,Postgraduate Degree,0
+2014,Total,Male,Graduate Diploma or Certificate,0
+2014,Total,Male,Bachelor Degree,0
+2014,Total,Male,Advanced Diploma or Diploma,0
+2014,Total,Male,Certificate III or IV,0
+2014,Total,Male,Year 12 or equivalent,0
+2014,Total,Male,Year 11 or equivalent,0
+2014,Total,Male,Year 10 or equivalent,0
+2014,Total,Female,Postgraduate Degree,0
+2014,Total,Female,Graduate Diploma or Certificate,0
+2014,Total,Female,Bachelor Degree,0
+2014,Total,Female,Advanced Diploma or Diploma,0
+2014,Total,Female,Certificate III or IV,0
+2014,Total,Female,Year 12 or equivalent,0
+2014,Total,Female,Year 11 or equivalent,0
+2014,Total,Female,Year 10 or equivalent,0
+2015,New South Wales,Male,Postgraduate Degree,0
+2015,New South Wales,Male,Graduate Diploma or Certificate,0
+2015,New South Wales,Male,Bachelor Degree,0
+2015,New South Wales,Male,Advanced Diploma or Diploma,0
+2015,New South Wales,Male,Certificate III or IV,0
+2015,New South Wales,Male,Year 12 or equivalent,0
+2015,New South Wales,Male,Year 11 or equivalent,0
+2015,New South Wales,Male,Year 10 or equivalent,0
+2015,New South Wales,Female,Postgraduate Degree,0
+2015,New South Wales,Female,Graduate Diploma or Certificate,0
+2015,New South Wales,Female,Bachelor Degree,0
+2015,New South Wales,Female,Advanced Diploma or Diploma,0
+2015,New South Wales,Female,Certificate III or IV,0
+2015,New South Wales,Female,Year 12 or equivalent,0
+2015,New South Wales,Female,Year 11 or equivalent,0
+2015,New South Wales,Female,Year 10 or equivalent,0
+2015,Victoria,Male,Postgraduate Degree,0
+2015,Victoria,Male,Graduate Diploma or Certificate,0
+2015,Victoria,Male,Bachelor Degree,0
+2015,Victoria,Male,Advanced Diploma or Diploma,0
+2015,Victoria,Male,Certificate III or IV,0
+2015,Victoria,Male,Year 12 or equivalent,0
+2015,Victoria,Male,Year 11 or equivalent,0
+2015,Victoria,Male,Year 10 or equivalent,0
+2015,Victoria,Female,Postgraduate Degree,0
+2015,Victoria,Female,Graduate Diploma or Certificate,0
+2015,Victoria,Female,Bachelor Degree,0
+2015,Victoria,Female,Advanced Diploma or Diploma,0
+2015,Victoria,Female,Certificate III or IV,0
+2015,Victoria,Female,Year 12 or equivalent,0
+2015,Victoria,Female,Year 11 or equivalent,0
+2015,Victoria,Female,Year 10 or equivalent,0
+2015,Queensland,Male,Postgraduate Degree,0
+2015,Queensland,Male,Graduate Diploma or Certificate,0
+2015,Queensland,Male,Bachelor Degree,0
+2015,Queensland,Male,Advanced Diploma or Diploma,0
+2015,Queensland,Male,Certificate III or IV,0
+2015,Queensland,Male,Year 12 or equivalent,0
+2015,Queensland,Male,Year 11 or equivalent,0
+2015,Queensland,Male,Year 10 or equivalent,0
+2015,Queensland,Female,Postgraduate Degree,0
+2015,Queensland,Female,Graduate Diploma or Certificate,0
+2015,Queensland,Female,Bachelor Degree,0
+2015,Queensland,Female,Advanced Diploma or Diploma,0
+2015,Queensland,Female,Certificate III or IV,0
+2015,Queensland,Female,Year 12 or equivalent,0
+2015,Queensland,Female,Year 11 or equivalent,0
+2015,Queensland,Female,Year 10 or equivalent,0
+2015,South Australia,Male,Postgraduate Degree,0
+2015,South Australia,Male,Graduate Diploma or Certificate,0
+2015,South Australia,Male,Bachelor Degree,0
+2015,South Australia,Male,Advanced Diploma or Diploma,0
+2015,South Australia,Male,Certificate III or IV,0
+2015,South Australia,Male,Year 12 or equivalent,0
+2015,South Australia,Male,Year 11 or equivalent,0
+2015,South Australia,Male,Year 10 or equivalent,0
+2015,South Australia,Female,Postgraduate Degree,0
+2015,South Australia,Female,Graduate Diploma or Certificate,0
+2015,South Australia,Female,Bachelor Degree,0
+2015,South Australia,Female,Advanced Diploma or Diploma,0
+2015,South Australia,Female,Certificate III or IV,0
+2015,South Australia,Female,Year 12 or equivalent,0
+2015,South Australia,Female,Year 11 or equivalent,0
+2015,South Australia,Female,Year 10 or equivalent,0
+2015,Western Australia,Male,Postgraduate Degree,0
+2015,Western Australia,Male,Graduate Diploma or Certificate,0
+2015,Western Australia,Male,Bachelor Degree,0
+2015,Western Australia,Male,Advanced Diploma or Diploma,0
+2015,Western Australia,Male,Certificate III or IV,0
+2015,Western Australia,Male,Year 12 or equivalent,0
+2015,Western Australia,Male,Year 11 or equivalent,0
+2015,Western Australia,Male,Year 10 or equivalent,0
+2015,Western Australia,Female,Postgraduate Degree,0
+2015,Western Australia,Female,Graduate Diploma or Certificate,0
+2015,Western Australia,Female,Bachelor Degree,0
+2015,Western Australia,Female,Advanced Diploma or Diploma,0
+2015,Western Australia,Female,Certificate III or IV,0
+2015,Western Australia,Female,Year 12 or equivalent,0
+2015,Western Australia,Female,Year 11 or equivalent,0
+2015,Western Australia,Female,Year 10 or equivalent,0
+2015,Tasmania,Male,Postgraduate Degree,0
+2015,Tasmania,Male,Graduate Diploma or Certificate,0
+2015,Tasmania,Male,Bachelor Degree,0
+2015,Tasmania,Male,Advanced Diploma or Diploma,0
+2015,Tasmania,Male,Certificate III or IV,0
+2015,Tasmania,Male,Year 12 or equivalent,0
+2015,Tasmania,Male,Year 11 or equivalent,0
+2015,Tasmania,Male,Year 10 or equivalent,0
+2015,Tasmania,Female,Postgraduate Degree,0
+2015,Tasmania,Female,Graduate Diploma or Certificate,0
+2015,Tasmania,Female,Bachelor Degree,0
+2015,Tasmania,Female,Advanced Diploma or Diploma,0
+2015,Tasmania,Female,Certificate III or IV,0
+2015,Tasmania,Female,Year 12 or equivalent,0
+2015,Tasmania,Female,Year 11 or equivalent,0
+2015,Tasmania,Female,Year 10 or equivalent,0
+2015,Northern Territory,Male,Postgraduate Degree,0
+2015,Northern Territory,Male,Graduate Diploma or Certificate,0
+2015,Northern Territory,Male,Bachelor Degree,0
+2015,Northern Territory,Male,Advanced Diploma or Diploma,0
+2015,Northern Territory,Male,Certificate III or IV,0
+2015,Northern Territory,Male,Year 12 or equivalent,0
+2015,Northern Territory,Male,Year 11 or equivalent,0
+2015,Northern Territory,Male,Year 10 or equivalent,0
+2015,Northern Territory,Female,Postgraduate Degree,0
+2015,Northern Territory,Female,Graduate Diploma or Certificate,0
+2015,Northern Territory,Female,Bachelor Degree,0
+2015,Northern Territory,Female,Advanced Diploma or Diploma,0
+2015,Northern Territory,Female,Certificate III or IV,0
+2015,Northern Territory,Female,Year 12 or equivalent,0
+2015,Northern Territory,Female,Year 11 or equivalent,0
+2015,Northern Territory,Female,Year 10 or equivalent,0
+2015,Australian Capital Territory,Male,Postgraduate Degree,0
+2015,Australian Capital Territory,Male,Graduate Diploma or Certificate,0
+2015,Australian Capital Territory,Male,Bachelor Degree,0
+2015,Australian Capital Territory,Male,Advanced Diploma or Diploma,0
+2015,Australian Capital Territory,Male,Certificate III or IV,0
+2015,Australian Capital Territory,Male,Year 12 or equivalent,0
+2015,Australian Capital Territory,Male,Year 11 or equivalent,0
+2015,Australian Capital Territory,Male,Year 10 or equivalent,0
+2015,Australian Capital Territory,Female,Postgraduate Degree,0
+2015,Australian Capital Territory,Female,Graduate Diploma or Certificate,0
+2015,Australian Capital Territory,Female,Bachelor Degree,0
+2015,Australian Capital Territory,Female,Advanced Diploma or Diploma,0
+2015,Australian Capital Territory,Female,Certificate III or IV,0
+2015,Australian Capital Territory,Female,Year 12 or equivalent,0
+2015,Australian Capital Territory,Female,Year 11 or equivalent,0
+2015,Australian Capital Territory,Female,Year 10 or equivalent,0
+2015,Total,Male,Postgraduate Degree,0
+2015,Total,Male,Graduate Diploma or Certificate,0
+2015,Total,Male,Bachelor Degree,0
+2015,Total,Male,Advanced Diploma or Diploma,0
+2015,Total,Male,Certificate III or IV,0
+2015,Total,Male,Year 12 or equivalent,0
+2015,Total,Male,Year 11 or equivalent,0
+2015,Total,Male,Year 10 or equivalent,0
+2015,Total,Female,Postgraduate Degree,0
+2015,Total,Female,Graduate Diploma or Certificate,0
+2015,Total,Female,Bachelor Degree,0
+2015,Total,Female,Advanced Diploma or Diploma,0
+2015,Total,Female,Certificate III or IV,0
+2015,Total,Female,Year 12 or equivalent,0
+2015,Total,Female,Year 11 or equivalent,0
+2015,Total,Female,Year 10 or equivalent,0
+2016,New South Wales,Male,Postgraduate Degree,177800
+2016,New South Wales,Male,Graduate Diploma or Certificate,52300
+2016,New South Wales,Male,Bachelor Degree,414400
+2016,New South Wales,Male,Advanced Diploma or Diploma,187600
+2016,New South Wales,Male,Certificate III or IV,493300
+2016,New South Wales,Male,Year 12 or equivalent,327900
+2016,New South Wales,Male,Year 11 or equivalent,55500
+2016,New South Wales,Male,Year 10 or equivalent,195500
+2016,New South Wales,Female,Postgraduate Degree,148400
+2016,New South Wales,Female,Graduate Diploma or Certificate,74900
+2016,New South Wales,Female,Bachelor Degree,481300
+2016,New South Wales,Female,Advanced Diploma or Diploma,210600
+2016,New South Wales,Female,Certificate III or IV,260300
+2016,New South Wales,Female,Year 12 or equivalent,296200
+2016,New South Wales,Female,Year 11 or equivalent,49000
+2016,New South Wales,Female,Year 10 or equivalent,155000
+2016,Victoria,Male,Postgraduate Degree,121500
+2016,Victoria,Male,Graduate Diploma or Certificate,55500
+2016,Victoria,Male,Bachelor Degree,351400
+2016,Victoria,Male,Advanced Diploma or Diploma,171300
+2016,Victoria,Male,Certificate III or IV,387000
+2016,Victoria,Male,Year 12 or equivalent,288200
+2016,Victoria,Male,Year 11 or equivalent,91200
+2016,Victoria,Male,Year 10 or equivalent,116800
+2016,Victoria,Female,Postgraduate Degree,130600
+2016,Victoria,Female,Graduate Diploma or Certificate,75900
+2016,Victoria,Female,Bachelor Degree,362000
+2016,Victoria,Female,Advanced Diploma or Diploma,178400
+2016,Victoria,Female,Certificate III or IV,195100
+2016,Victoria,Female,Year 12 or equivalent,236300
+2016,Victoria,Female,Year 11 or equivalent,84400
+2016,Victoria,Female,Year 10 or equivalent,93000
+2016,Queensland,Male,Postgraduate Degree,71100
+2016,Queensland,Male,Graduate Diploma or Certificate,31200
+2016,Queensland,Male,Bachelor Degree,167500
+2016,Queensland,Male,Advanced Diploma or Diploma,117800
+2016,Queensland,Male,Certificate III or IV,358200
+2016,Queensland,Male,Year 12 or equivalent,249400
+2016,Queensland,Male,Year 11 or equivalent,45900
+2016,Queensland,Male,Year 10 or equivalent,128600
+2016,Queensland,Female,Postgraduate Degree,52700
+2016,Queensland,Female,Graduate Diploma or Certificate,53400
+2016,Queensland,Female,Bachelor Degree,219500
+2016,Queensland,Female,Advanced Diploma or Diploma,151100
+2016,Queensland,Female,Certificate III or IV,171500
+2016,Queensland,Female,Year 12 or equivalent,248000
+2016,Queensland,Female,Year 11 or equivalent,43500
+2016,Queensland,Female,Year 10 or equivalent,119100
+2016,South Australia,Male,Postgraduate Degree,25900
+2016,South Australia,Male,Graduate Diploma or Certificate,7800
+2016,South Australia,Male,Bachelor Degree,70700
+2016,South Australia,Male,Advanced Diploma or Diploma,38200
+2016,South Australia,Male,Certificate III or IV,99700
+2016,South Australia,Male,Year 12 or equivalent,72200
+2016,South Australia,Male,Year 11 or equivalent,46600
+2016,South Australia,Male,Year 10 or equivalent,32800
+2016,South Australia,Female,Postgraduate Degree,19900
+2016,South Australia,Female,Graduate Diploma or Certificate,13300
+2016,South Australia,Female,Bachelor Degree,80400
+2016,South Australia,Female,Advanced Diploma or Diploma,43200
+2016,South Australia,Female,Certificate III or IV,71300
+2016,South Australia,Female,Year 12 or equivalent,76600
+2016,South Australia,Female,Year 11 or equivalent,35300
+2016,South Australia,Female,Year 10 or equivalent,25900
+2016,Western Australia,Male,Postgraduate Degree,38000
+2016,Western Australia,Male,Graduate Diploma or Certificate,19500
+2016,Western Australia,Male,Bachelor Degree,113100
+2016,Western Australia,Male,Advanced Diploma or Diploma,62100
+2016,Western Australia,Male,Certificate III or IV,186800
+2016,Western Australia,Male,Year 12 or equivalent,130000
+2016,Western Australia,Male,Year 11 or equivalent,31200
+2016,Western Australia,Male,Year 10 or equivalent,71700
+2016,Western Australia,Female,Postgraduate Degree,33400
+2016,Western Australia,Female,Graduate Diploma or Certificate,19300
+2016,Western Australia,Female,Bachelor Degree,147200
+2016,Western Australia,Female,Advanced Diploma or Diploma,76200
+2016,Western Australia,Female,Certificate III or IV,89700
+2016,Western Australia,Female,Year 12 or equivalent,110200
+2016,Western Australia,Female,Year 11 or equivalent,27800
+2016,Western Australia,Female,Year 10 or equivalent,52100
+2016,Tasmania,Male,Postgraduate Degree,6400
+2016,Tasmania,Male,Graduate Diploma or Certificate,2800
+2016,Tasmania,Male,Bachelor Degree,17500
+2016,Tasmania,Male,Advanced Diploma or Diploma,9600
+2016,Tasmania,Male,Certificate III or IV,38900
+2016,Tasmania,Male,Year 12 or equivalent,14300
+2016,Tasmania,Male,Year 11 or equivalent,4200
+2016,Tasmania,Male,Year 10 or equivalent,21200
+2016,Tasmania,Female,Postgraduate Degree,5000
+2016,Tasmania,Female,Graduate Diploma or Certificate,3100
+2016,Tasmania,Female,Bachelor Degree,20800
+2016,Tasmania,Female,Advanced Diploma or Diploma,12200
+2016,Tasmania,Female,Certificate III or IV,23500
+2016,Tasmania,Female,Year 12 or equivalent,14900
+2016,Tasmania,Female,Year 11 or equivalent,5200
+2016,Tasmania,Female,Year 10 or equivalent,18900
+2016,Northern Territory,Male,Postgraduate Degree,3700
+2016,Northern Territory,Male,Graduate Diploma or Certificate,700
+2016,Northern Territory,Male,Bachelor Degree,10800
+2016,Northern Territory,Male,Advanced Diploma or Diploma,8300
+2016,Northern Territory,Male,Certificate III or IV,22400
+2016,Northern Territory,Male,Year 12 or equivalent,10600
+2016,Northern Territory,Male,Year 11 or equivalent,3600
+2016,Northern Territory,Male,Year 10 or equivalent,6600
+2016,Northern Territory,Female,Postgraduate Degree,3800
+2016,Northern Territory,Female,Graduate Diploma or Certificate,1800
+2016,Northern Territory,Female,Bachelor Degree,14700
+2016,Northern Territory,Female,Advanced Diploma or Diploma,6100
+2016,Northern Territory,Female,Certificate III or IV,8600
+2016,Northern Territory,Female,Year 12 or equivalent,11400
+2016,Northern Territory,Female,Year 11 or equivalent,3300
+2016,Northern Territory,Female,Year 10 or equivalent,5100
+2016,Australian Capital Territory,Male,Postgraduate Degree,18200
+2016,Australian Capital Territory,Male,Graduate Diploma or Certificate,4100
+2016,Australian Capital Territory,Male,Bachelor Degree,24500
+2016,Australian Capital Territory,Male,Advanced Diploma or Diploma,13500
+2016,Australian Capital Territory,Male,Certificate III or IV,16100
+2016,Australian Capital Territory,Male,Year 12 or equivalent,23400
+2016,Australian Capital Territory,Male,Year 11 or equivalent,1000
+2016,Australian Capital Territory,Male,Year 10 or equivalent,6000
+2016,Australian Capital Territory,Female,Postgraduate Degree,15800
+2016,Australian Capital Territory,Female,Graduate Diploma or Certificate,10400
+2016,Australian Capital Territory,Female,Bachelor Degree,29000
+2016,Australian Capital Territory,Female,Advanced Diploma or Diploma,10000
+2016,Australian Capital Territory,Female,Certificate III or IV,10900
+2016,Australian Capital Territory,Female,Year 12 or equivalent,18200
+2016,Australian Capital Territory,Female,Year 11 or equivalent,2800
+2016,Australian Capital Territory,Female,Year 10 or equivalent,5900
+2016,Total,Male,Postgraduate Degree,460800
+2016,Total,Male,Graduate Diploma or Certificate,173600
+2016,Total,Male,Bachelor Degree,1170400
+2016,Total,Male,Advanced Diploma or Diploma,608100
+2016,Total,Male,Certificate III or IV,1601500
+2016,Total,Male,Year 12 or equivalent,1115200
+2016,Total,Male,Year 11 or equivalent,280900
+2016,Total,Male,Year 10 or equivalent,575700
+2016,Total,Female,Postgraduate Degree,411800
+2016,Total,Female,Graduate Diploma or Certificate,249500
+2016,Total,Female,Bachelor Degree,1353200
+2016,Total,Female,Advanced Diploma or Diploma,684800
+2016,Total,Female,Certificate III or IV,828600
+2016,Total,Female,Year 12 or equivalent,1011400
+2016,Total,Female,Year 11 or equivalent,251900
+2016,Total,Female,Year 10 or equivalent,475600
+2017,New South Wales,Male,Postgraduate Degree,167800
+2017,New South Wales,Male,Graduate Diploma or Certificate,41200
+2017,New South Wales,Male,Bachelor Degree,446600
+2017,New South Wales,Male,Advanced Diploma or Diploma,188200
+2017,New South Wales,Male,Certificate III or IV,482900
+2017,New South Wales,Male,Year 12 or equivalent,346000
+2017,New South Wales,Male,Year 11 or equivalent,56600
+2017,New South Wales,Male,Year 10 or equivalent,191000
+2017,New South Wales,Female,Postgraduate Degree,163500
+2017,New South Wales,Female,Graduate Diploma or Certificate,67800
+2017,New South Wales,Female,Bachelor Degree,475900
+2017,New South Wales,Female,Advanced Diploma or Diploma,227500
+2017,New South Wales,Female,Certificate III or IV,238700
+2017,New South Wales,Female,Year 12 or equivalent,297300
+2017,New South Wales,Female,Year 11 or equivalent,56300
+2017,New South Wales,Female,Year 10 or equivalent,157500
+2017,Victoria,Male,Postgraduate Degree,140400
+2017,Victoria,Male,Graduate Diploma or Certificate,47500
+2017,Victoria,Male,Bachelor Degree,337200
+2017,Victoria,Male,Advanced Diploma or Diploma,174500
+2017,Victoria,Male,Certificate III or IV,419400
+2017,Victoria,Male,Year 12 or equivalent,274200
+2017,Victoria,Male,Year 11 or equivalent,91300
+2017,Victoria,Male,Year 10 or equivalent,99600
+2017,Victoria,Female,Postgraduate Degree,134500
+2017,Victoria,Female,Graduate Diploma or Certificate,68100
+2017,Victoria,Female,Bachelor Degree,404800
+2017,Victoria,Female,Advanced Diploma or Diploma,209000
+2017,Victoria,Female,Certificate III or IV,184800
+2017,Victoria,Female,Year 12 or equivalent,235500
+2017,Victoria,Female,Year 11 or equivalent,85500
+2017,Victoria,Female,Year 10 or equivalent,87800
+2017,Queensland,Male,Postgraduate Degree,57400
+2017,Queensland,Male,Graduate Diploma or Certificate,28300
+2017,Queensland,Male,Bachelor Degree,200400
+2017,Queensland,Male,Advanced Diploma or Diploma,115100
+2017,Queensland,Male,Certificate III or IV,385300
+2017,Queensland,Male,Year 12 or equivalent,241300
+2017,Queensland,Male,Year 11 or equivalent,49800
+2017,Queensland,Male,Year 10 or equivalent,120300
+2017,Queensland,Female,Postgraduate Degree,54500
+2017,Queensland,Female,Graduate Diploma or Certificate,41700
+2017,Queensland,Female,Bachelor Degree,263700
+2017,Queensland,Female,Advanced Diploma or Diploma,157700
+2017,Queensland,Female,Certificate III or IV,185500
+2017,Queensland,Female,Year 12 or equivalent,242700
+2017,Queensland,Female,Year 11 or equivalent,45300
+2017,Queensland,Female,Year 10 or equivalent,114200
+2017,South Australia,Male,Postgraduate Degree,23600
+2017,South Australia,Male,Graduate Diploma or Certificate,10800
+2017,South Australia,Male,Bachelor Degree,63400
+2017,South Australia,Male,Advanced Diploma or Diploma,45400
+2017,South Australia,Male,Certificate III or IV,121600
+2017,South Australia,Male,Year 12 or equivalent,77200
+2017,South Australia,Male,Year 11 or equivalent,33400
+2017,South Australia,Male,Year 10 or equivalent,36300
+2017,South Australia,Female,Postgraduate Degree,18300
+2017,South Australia,Female,Graduate Diploma or Certificate,14400
+2017,South Australia,Female,Bachelor Degree,82500
+2017,South Australia,Female,Advanced Diploma or Diploma,54400
+2017,South Australia,Female,Certificate III or IV,68500
+2017,South Australia,Female,Year 12 or equivalent,66800
+2017,South Australia,Female,Year 11 or equivalent,33000
+2017,South Australia,Female,Year 10 or equivalent,28900
+2017,Western Australia,Male,Postgraduate Degree,46300
+2017,Western Australia,Male,Graduate Diploma or Certificate,14900
+2017,Western Australia,Male,Bachelor Degree,130500
+2017,Western Australia,Male,Advanced Diploma or Diploma,62800
+2017,Western Australia,Male,Certificate III or IV,191000
+2017,Western Australia,Male,Year 12 or equivalent,126300
+2017,Western Australia,Male,Year 11 or equivalent,35700
+2017,Western Australia,Male,Year 10 or equivalent,72600
+2017,Western Australia,Female,Postgraduate Degree,35600
+2017,Western Australia,Female,Graduate Diploma or Certificate,30300
+2017,Western Australia,Female,Bachelor Degree,152700
+2017,Western Australia,Female,Advanced Diploma or Diploma,81400
+2017,Western Australia,Female,Certificate III or IV,87900
+2017,Western Australia,Female,Year 12 or equivalent,108100
+2017,Western Australia,Female,Year 11 or equivalent,28300
+2017,Western Australia,Female,Year 10 or equivalent,50300
+2017,Tasmania,Male,Postgraduate Degree,7300
+2017,Tasmania,Male,Graduate Diploma or Certificate,3000
+2017,Tasmania,Male,Bachelor Degree,13900
+2017,Tasmania,Male,Advanced Diploma or Diploma,8900
+2017,Tasmania,Male,Certificate III or IV,45200
+2017,Tasmania,Male,Year 12 or equivalent,15200
+2017,Tasmania,Male,Year 11 or equivalent,6700
+2017,Tasmania,Male,Year 10 or equivalent,20500
+2017,Tasmania,Female,Postgraduate Degree,7100
+2017,Tasmania,Female,Graduate Diploma or Certificate,4500
+2017,Tasmania,Female,Bachelor Degree,22700
+2017,Tasmania,Female,Advanced Diploma or Diploma,13200
+2017,Tasmania,Female,Certificate III or IV,24600
+2017,Tasmania,Female,Year 12 or equivalent,17700
+2017,Tasmania,Female,Year 11 or equivalent,5400
+2017,Tasmania,Female,Year 10 or equivalent,17200
+2017,Northern Territory,Male,Postgraduate Degree,4400
+2017,Northern Territory,Male,Graduate Diploma or Certificate,1400
+2017,Northern Territory,Male,Bachelor Degree,9300
+2017,Northern Territory,Male,Advanced Diploma or Diploma,7700
+2017,Northern Territory,Male,Certificate III or IV,23000
+2017,Northern Territory,Male,Year 12 or equivalent,9000
+2017,Northern Territory,Male,Year 11 or equivalent,5800
+2017,Northern Territory,Male,Year 10 or equivalent,6600
+2017,Northern Territory,Female,Postgraduate Degree,3600
+2017,Northern Territory,Female,Graduate Diploma or Certificate,2900
+2017,Northern Territory,Female,Bachelor Degree,15900
+2017,Northern Territory,Female,Advanced Diploma or Diploma,6500
+2017,Northern Territory,Female,Certificate III or IV,8500
+2017,Northern Territory,Female,Year 12 or equivalent,9700
+2017,Northern Territory,Female,Year 11 or equivalent,4200
+2017,Northern Territory,Female,Year 10 or equivalent,6000
+2017,Australian Capital Territory,Male,Postgraduate Degree,20700
+2017,Australian Capital Territory,Male,Graduate Diploma or Certificate,5000
+2017,Australian Capital Territory,Male,Bachelor Degree,24300
+2017,Australian Capital Territory,Male,Advanced Diploma or Diploma,11100
+2017,Australian Capital Territory,Male,Certificate III or IV,18800
+2017,Australian Capital Territory,Male,Year 12 or equivalent,21000
+2017,Australian Capital Territory,Male,Year 11 or equivalent,2300
+2017,Australian Capital Territory,Male,Year 10 or equivalent,5700
+2017,Australian Capital Territory,Female,Postgraduate Degree,18700
+2017,Australian Capital Territory,Female,Graduate Diploma or Certificate,7800
+2017,Australian Capital Territory,Female,Bachelor Degree,29600
+2017,Australian Capital Territory,Female,Advanced Diploma or Diploma,11700
+2017,Australian Capital Territory,Female,Certificate III or IV,12100
+2017,Australian Capital Territory,Female,Year 12 or equivalent,19700
+2017,Australian Capital Territory,Female,Year 11 or equivalent,1900
+2017,Australian Capital Territory,Female,Year 10 or equivalent,5700
+2017,Total,Male,Postgraduate Degree,467700
+2017,Total,Male,Graduate Diploma or Certificate,153000
+2017,Total,Male,Bachelor Degree,1227400
+2017,Total,Male,Advanced Diploma or Diploma,608500
+2017,Total,Male,Certificate III or IV,1684400
+2017,Total,Male,Year 12 or equivalent,1112200
+2017,Total,Male,Year 11 or equivalent,278400
+2017,Total,Male,Year 10 or equivalent,556000
+2017,Total,Female,Postgraduate Degree,436400
+2017,Total,Female,Graduate Diploma or Certificate,241000
+2017,Total,Female,Bachelor Degree,1448400
+2017,Total,Female,Advanced Diploma or Diploma,763100
+2017,Total,Female,Certificate III or IV,809800
+2017,Total,Female,Year 12 or equivalent,997100
+2017,Total,Female,Year 11 or equivalent,262600
+2017,Total,Female,Year 10 or equivalent,467700
+2018,New South Wales,Male,Postgraduate Degree,191100
+2018,New South Wales,Male,Graduate Diploma or Certificate,44100
+2018,New South Wales,Male,Bachelor Degree,459500
+2018,New South Wales,Male,Advanced Diploma or Diploma,185800
+2018,New South Wales,Male,Certificate III or IV,487200
+2018,New South Wales,Male,Year 12 or equivalent,376400
+2018,New South Wales,Male,Year 11 or equivalent,53600
+2018,New South Wales,Male,Year 10 or equivalent,192400
+2018,New South Wales,Female,Postgraduate Degree,174900
+2018,New South Wales,Female,Graduate Diploma or Certificate,69100
+2018,New South Wales,Female,Bachelor Degree,509500
+2018,New South Wales,Female,Advanced Diploma or Diploma,216400
+2018,New South Wales,Female,Certificate III or IV,280200
+2018,New South Wales,Female,Year 12 or equivalent,320300
+2018,New South Wales,Female,Year 11 or equivalent,47000
+2018,New South Wales,Female,Year 10 or equivalent,161500
+2018,Victoria,Male,Postgraduate Degree,133200
+2018,Victoria,Male,Graduate Diploma or Certificate,51600
+2018,Victoria,Male,Bachelor Degree,368700
+2018,Victoria,Male,Advanced Diploma or Diploma,195200
+2018,Victoria,Male,Certificate III or IV,413100
+2018,Victoria,Male,Year 12 or equivalent,280200
+2018,Victoria,Male,Year 11 or equivalent,95300
+2018,Victoria,Male,Year 10 or equivalent,92500
+2018,Victoria,Female,Postgraduate Degree,146900
+2018,Victoria,Female,Graduate Diploma or Certificate,69100
+2018,Victoria,Female,Bachelor Degree,424400
+2018,Victoria,Female,Advanced Diploma or Diploma,191200
+2018,Victoria,Female,Certificate III or IV,193100
+2018,Victoria,Female,Year 12 or equivalent,246800
+2018,Victoria,Female,Year 11 or equivalent,92700
+2018,Victoria,Female,Year 10 or equivalent,77800
+2018,Queensland,Male,Postgraduate Degree,61600
+2018,Queensland,Male,Graduate Diploma or Certificate,26800
+2018,Queensland,Male,Bachelor Degree,195800
+2018,Queensland,Male,Advanced Diploma or Diploma,113500
+2018,Queensland,Male,Certificate III or IV,379000
+2018,Queensland,Male,Year 12 or equivalent,264000
+2018,Queensland,Male,Year 11 or equivalent,52100
+2018,Queensland,Male,Year 10 or equivalent,129100
+2018,Queensland,Female,Postgraduate Degree,63000
+2018,Queensland,Female,Graduate Diploma or Certificate,53900
+2018,Queensland,Female,Bachelor Degree,243800
+2018,Queensland,Female,Advanced Diploma or Diploma,141000
+2018,Queensland,Female,Certificate III or IV,200900
+2018,Queensland,Female,Year 12 or equivalent,244600
+2018,Queensland,Female,Year 11 or equivalent,45200
+2018,Queensland,Female,Year 10 or equivalent,122400
+2018,South Australia,Male,Postgraduate Degree,23900
+2018,South Australia,Male,Graduate Diploma or Certificate,8000
+2018,South Australia,Male,Bachelor Degree,64700
+2018,South Australia,Male,Advanced Diploma or Diploma,39800
+2018,South Australia,Male,Certificate III or IV,123300
+2018,South Australia,Male,Year 12 or equivalent,80200
+2018,South Australia,Male,Year 11 or equivalent,46100
+2018,South Australia,Male,Year 10 or equivalent,27800
+2018,South Australia,Female,Postgraduate Degree,24500
+2018,South Australia,Female,Graduate Diploma or Certificate,14200
+2018,South Australia,Female,Bachelor Degree,87800
+2018,South Australia,Female,Advanced Diploma or Diploma,46000
+2018,South Australia,Female,Certificate III or IV,69000
+2018,South Australia,Female,Year 12 or equivalent,78500
+2018,South Australia,Female,Year 11 or equivalent,39700
+2018,South Australia,Female,Year 10 or equivalent,18500
+2018,Western Australia,Male,Postgraduate Degree,48800
+2018,Western Australia,Male,Graduate Diploma or Certificate,21300
+2018,Western Australia,Male,Bachelor Degree,127600
+2018,Western Australia,Male,Advanced Diploma or Diploma,61400
+2018,Western Australia,Male,Certificate III or IV,215400
+2018,Western Australia,Male,Year 12 or equivalent,127600
+2018,Western Australia,Male,Year 11 or equivalent,31300
+2018,Western Australia,Male,Year 10 or equivalent,68000
+2018,Western Australia,Female,Postgraduate Degree,38200
+2018,Western Australia,Female,Graduate Diploma or Certificate,31000
+2018,Western Australia,Female,Bachelor Degree,150700
+2018,Western Australia,Female,Advanced Diploma or Diploma,86200
+2018,Western Australia,Female,Certificate III or IV,89000
+2018,Western Australia,Female,Year 12 or equivalent,112000
+2018,Western Australia,Female,Year 11 or equivalent,29800
+2018,Western Australia,Female,Year 10 or equivalent,49000
+2018,Tasmania,Male,Postgraduate Degree,7800
+2018,Tasmania,Male,Graduate Diploma or Certificate,3100
+2018,Tasmania,Male,Bachelor Degree,17500
+2018,Tasmania,Male,Advanced Diploma or Diploma,9000
+2018,Tasmania,Male,Certificate III or IV,44900
+2018,Tasmania,Male,Year 12 or equivalent,17800
+2018,Tasmania,Male,Year 11 or equivalent,6600
+2018,Tasmania,Male,Year 10 or equivalent,19600
+2018,Tasmania,Female,Postgraduate Degree,5300
+2018,Tasmania,Female,Graduate Diploma or Certificate,6000
+2018,Tasmania,Female,Bachelor Degree,25500
+2018,Tasmania,Female,Advanced Diploma or Diploma,12900
+2018,Tasmania,Female,Certificate III or IV,26000
+2018,Tasmania,Female,Year 12 or equivalent,15700
+2018,Tasmania,Female,Year 11 or equivalent,6500
+2018,Tasmania,Female,Year 10 or equivalent,19700
+2018,Northern Territory,Male,Postgraduate Degree,3800
+2018,Northern Territory,Male,Graduate Diploma or Certificate,1600
+2018,Northern Territory,Male,Bachelor Degree,9600
+2018,Northern Territory,Male,Advanced Diploma or Diploma,6600
+2018,Northern Territory,Male,Certificate III or IV,21900
+2018,Northern Territory,Male,Year 12 or equivalent,8500
+2018,Northern Territory,Male,Year 11 or equivalent,5300
+2018,Northern Territory,Male,Year 10 or equivalent,6100
+2018,Northern Territory,Female,Postgraduate Degree,3700
+2018,Northern Territory,Female,Graduate Diploma or Certificate,3400
+2018,Northern Territory,Female,Bachelor Degree,13400
+2018,Northern Territory,Female,Advanced Diploma or Diploma,7600
+2018,Northern Territory,Female,Certificate III or IV,9600
+2018,Northern Territory,Female,Year 12 or equivalent,9300
+2018,Northern Territory,Female,Year 11 or equivalent,4000
+2018,Northern Territory,Female,Year 10 or equivalent,5100
+2018,Australian Capital Territory,Male,Postgraduate Degree,15800
+2018,Australian Capital Territory,Male,Graduate Diploma or Certificate,5200
+2018,Australian Capital Territory,Male,Bachelor Degree,33700
+2018,Australian Capital Territory,Male,Advanced Diploma or Diploma,9500
+2018,Australian Capital Territory,Male,Certificate III or IV,20600
+2018,Australian Capital Territory,Male,Year 12 or equivalent,20800
+2018,Australian Capital Territory,Male,Year 11 or equivalent,3600
+2018,Australian Capital Territory,Male,Year 10 or equivalent,5200
+2018,Australian Capital Territory,Female,Postgraduate Degree,12900
+2018,Australian Capital Territory,Female,Graduate Diploma or Certificate,7600
+2018,Australian Capital Territory,Female,Bachelor Degree,31600
+2018,Australian Capital Territory,Female,Advanced Diploma or Diploma,16000
+2018,Australian Capital Territory,Female,Certificate III or IV,10900
+2018,Australian Capital Territory,Female,Year 12 or equivalent,21000
+2018,Australian Capital Territory,Female,Year 11 or equivalent,3700
+2018,Australian Capital Territory,Female,Year 10 or equivalent,4500
+2018,Total,Male,Postgraduate Degree,486200
+2018,Total,Male,Graduate Diploma or Certificate,161100
+2018,Total,Male,Bachelor Degree,1276400
+2018,Total,Male,Advanced Diploma or Diploma,621800
+2018,Total,Male,Certificate III or IV,1703400
+2018,Total,Male,Year 12 or equivalent,1177500
+2018,Total,Male,Year 11 or equivalent,291000
+2018,Total,Male,Year 10 or equivalent,538700
+2018,Total,Female,Postgraduate Degree,466500
+2018,Total,Female,Graduate Diploma or Certificate,256300
+2018,Total,Female,Bachelor Degree,1490100
+2018,Total,Female,Advanced Diploma or Diploma,718200
+2018,Total,Female,Certificate III or IV,878800
+2018,Total,Female,Year 12 or equivalent,1049000
+2018,Total,Female,Year 11 or equivalent,264300
+2018,Total,Female,Year 10 or equivalent,453800
+2019,New South Wales,Male,Postgraduate Degree,219100
+2019,New South Wales,Male,Graduate Diploma or Certificate,53500
+2019,New South Wales,Male,Bachelor Degree,466300
+2019,New South Wales,Male,Advanced Diploma or Diploma,226300
+2019,New South Wales,Male,Certificate III or IV,510900
+2019,New South Wales,Male,Year 12 or equivalent,373600
+2019,New South Wales,Male,Year 11 or equivalent,55000
+2019,New South Wales,Male,Year 10 or equivalent,164000
+2019,New South Wales,Female,Postgraduate Degree,181800
+2019,New South Wales,Female,Graduate Diploma or Certificate,82400
+2019,New South Wales,Female,Bachelor Degree,532300
+2019,New South Wales,Female,Advanced Diploma or Diploma,240900
+2019,New South Wales,Female,Certificate III or IV,225000
+2019,New South Wales,Female,Year 12 or equivalent,323500
+2019,New South Wales,Female,Year 11 or equivalent,46700
+2019,New South Wales,Female,Year 10 or equivalent,170600
+2019,Victoria,Male,Postgraduate Degree,176900
+2019,Victoria,Male,Graduate Diploma or Certificate,57700
+2019,Victoria,Male,Bachelor Degree,382900
+2019,Victoria,Male,Advanced Diploma or Diploma,181800
+2019,Victoria,Male,Certificate III or IV,357200
+2019,Victoria,Male,Year 12 or equivalent,288900
+2019,Victoria,Male,Year 11 or equivalent,98600
+2019,Victoria,Male,Year 10 or equivalent,103700
+2019,Victoria,Female,Postgraduate Degree,165800
+2019,Victoria,Female,Graduate Diploma or Certificate,89700
+2019,Victoria,Female,Bachelor Degree,426400
+2019,Victoria,Female,Advanced Diploma or Diploma,204000
+2019,Victoria,Female,Certificate III or IV,194300
+2019,Victoria,Female,Year 12 or equivalent,271700
+2019,Victoria,Female,Year 11 or equivalent,69900
+2019,Victoria,Female,Year 10 or equivalent,74300
+2019,Queensland,Male,Postgraduate Degree,74300
+2019,Queensland,Male,Graduate Diploma or Certificate,28800
+2019,Queensland,Male,Bachelor Degree,195900
+2019,Queensland,Male,Advanced Diploma or Diploma,115100
+2019,Queensland,Male,Certificate III or IV,393500
+2019,Queensland,Male,Year 12 or equivalent,255300
+2019,Queensland,Male,Year 11 or equivalent,45300
+2019,Queensland,Male,Year 10 or equivalent,126600
+2019,Queensland,Female,Postgraduate Degree,73900
+2019,Queensland,Female,Graduate Diploma or Certificate,46500
+2019,Queensland,Female,Bachelor Degree,264100
+2019,Queensland,Female,Advanced Diploma or Diploma,162200
+2019,Queensland,Female,Certificate III or IV,207100
+2019,Queensland,Female,Year 12 or equivalent,264300
+2019,Queensland,Female,Year 11 or equivalent,35700
+2019,Queensland,Female,Year 10 or equivalent,109200
+2019,South Australia,Male,Postgraduate Degree,30800
+2019,South Australia,Male,Graduate Diploma or Certificate,8600
+2019,South Australia,Male,Bachelor Degree,60200
+2019,South Australia,Male,Advanced Diploma or Diploma,35900
+2019,South Australia,Male,Certificate III or IV,125100
+2019,South Australia,Male,Year 12 or equivalent,82000
+2019,South Australia,Male,Year 11 or equivalent,40200
+2019,South Australia,Male,Year 10 or equivalent,32400
+2019,South Australia,Female,Postgraduate Degree,28400
+2019,South Australia,Female,Graduate Diploma or Certificate,16700
+2019,South Australia,Female,Bachelor Degree,86400
+2019,South Australia,Female,Advanced Diploma or Diploma,52300
+2019,South Australia,Female,Certificate III or IV,68400
+2019,South Australia,Female,Year 12 or equivalent,79900
+2019,South Australia,Female,Year 11 or equivalent,40300
+2019,South Australia,Female,Year 10 or equivalent,20000
+2019,Western Australia,Male,Postgraduate Degree,57500
+2019,Western Australia,Male,Graduate Diploma or Certificate,17400
+2019,Western Australia,Male,Bachelor Degree,121200
+2019,Western Australia,Male,Advanced Diploma or Diploma,74800
+2019,Western Australia,Male,Certificate III or IV,205200
+2019,Western Australia,Male,Year 12 or equivalent,124200
+2019,Western Australia,Male,Year 11 or equivalent,36400
+2019,Western Australia,Male,Year 10 or equivalent,58600
+2019,Western Australia,Female,Postgraduate Degree,38700
+2019,Western Australia,Female,Graduate Diploma or Certificate,30400
+2019,Western Australia,Female,Bachelor Degree,149400
+2019,Western Australia,Female,Advanced Diploma or Diploma,73100
+2019,Western Australia,Female,Certificate III or IV,104600
+2019,Western Australia,Female,Year 12 or equivalent,125200
+2019,Western Australia,Female,Year 11 or equivalent,24500
+2019,Western Australia,Female,Year 10 or equivalent,57300
+2019,Tasmania,Male,Postgraduate Degree,9400
+2019,Tasmania,Male,Graduate Diploma or Certificate,4700
+2019,Tasmania,Male,Bachelor Degree,22600
+2019,Tasmania,Male,Advanced Diploma or Diploma,10900
+2019,Tasmania,Male,Certificate III or IV,39800
+2019,Tasmania,Male,Year 12 or equivalent,17700
+2019,Tasmania,Male,Year 11 or equivalent,5600
+2019,Tasmania,Male,Year 10 or equivalent,17600
+2019,Tasmania,Female,Postgraduate Degree,10300
+2019,Tasmania,Female,Graduate Diploma or Certificate,5200
+2019,Tasmania,Female,Bachelor Degree,27700
+2019,Tasmania,Female,Advanced Diploma or Diploma,11600
+2019,Tasmania,Female,Certificate III or IV,23000
+2019,Tasmania,Female,Year 12 or equivalent,16800
+2019,Tasmania,Female,Year 11 or equivalent,6800
+2019,Tasmania,Female,Year 10 or equivalent,16300
+2019,Northern Territory,Male,Postgraduate Degree,5200
+2019,Northern Territory,Male,Graduate Diploma or Certificate,1800
+2019,Northern Territory,Male,Bachelor Degree,9700
+2019,Northern Territory,Male,Advanced Diploma or Diploma,6500
+2019,Northern Territory,Male,Certificate III or IV,19200
+2019,Northern Territory,Male,Year 12 or equivalent,10100
+2019,Northern Territory,Male,Year 11 or equivalent,4400
+2019,Northern Territory,Male,Year 10 or equivalent,3900
+2019,Northern Territory,Female,Postgraduate Degree,7000
+2019,Northern Territory,Female,Graduate Diploma or Certificate,2100
+2019,Northern Territory,Female,Bachelor Degree,15800
+2019,Northern Territory,Female,Advanced Diploma or Diploma,6700
+2019,Northern Territory,Female,Certificate III or IV,7200
+2019,Northern Territory,Female,Year 12 or equivalent,9200
+2019,Northern Territory,Female,Year 11 or equivalent,3200
+2019,Northern Territory,Female,Year 10 or equivalent,4500
+2019,Australian Capital Territory,Male,Postgraduate Degree,18700
+2019,Australian Capital Territory,Male,Graduate Diploma or Certificate,3800
+2019,Australian Capital Territory,Male,Bachelor Degree,30600
+2019,Australian Capital Territory,Male,Advanced Diploma or Diploma,10300
+2019,Australian Capital Territory,Male,Certificate III or IV,19400
+2019,Australian Capital Territory,Male,Year 12 or equivalent,28100
+2019,Australian Capital Territory,Male,Year 11 or equivalent,2400
+2019,Australian Capital Territory,Male,Year 10 or equivalent,5900
+2019,Australian Capital Territory,Female,Postgraduate Degree,17700
+2019,Australian Capital Territory,Female,Graduate Diploma or Certificate,7500
+2019,Australian Capital Territory,Female,Bachelor Degree,35600
+2019,Australian Capital Territory,Female,Advanced Diploma or Diploma,11700
+2019,Australian Capital Territory,Female,Certificate III or IV,10200
+2019,Australian Capital Territory,Female,Year 12 or equivalent,24300
+2019,Australian Capital Territory,Female,Year 11 or equivalent,2300
+2019,Australian Capital Territory,Female,Year 10 or equivalent,4600
+2019,Total,Male,Postgraduate Degree,589800
+2019,Total,Male,Graduate Diploma or Certificate,171400
+2019,Total,Male,Bachelor Degree,1290000
+2019,Total,Male,Advanced Diploma or Diploma,664800
+2019,Total,Male,Certificate III or IV,1667500
+2019,Total,Male,Year 12 or equivalent,1183100
+2019,Total,Male,Year 11 or equivalent,285800
+2019,Total,Male,Year 10 or equivalent,513100
+2019,Total,Female,Postgraduate Degree,523800
+2019,Total,Female,Graduate Diploma or Certificate,283100
+2019,Total,Female,Bachelor Degree,1534300
+2019,Total,Female,Advanced Diploma or Diploma,762500
+2019,Total,Female,Certificate III or IV,843200
+2019,Total,Female,Year 12 or equivalent,1114600
+2019,Total,Female,Year 11 or equivalent,229000
+2019,Total,Female,Year 10 or equivalent,456700
+2020,New South Wales,Male,Postgraduate Degree,213700
+2020,New South Wales,Male,Graduate Diploma or Certificate,57400
+2020,New South Wales,Male,Bachelor Degree,450200
+2020,New South Wales,Male,Advanced Diploma or Diploma,192700
+2020,New South Wales,Male,Certificate III or IV,428100
+2020,New South Wales,Male,Year 12 or equivalent,357900
+2020,New South Wales,Male,Year 11 or equivalent,55600
+2020,New South Wales,Male,Year 10 or equivalent,185700
+2020,New South Wales,Female,Postgraduate Degree,203700
+2020,New South Wales,Female,Graduate Diploma or Certificate,78000
+2020,New South Wales,Female,Bachelor Degree,524100
+2020,New South Wales,Female,Advanced Diploma or Diploma,219500
+2020,New South Wales,Female,Certificate III or IV,233300
+2020,New South Wales,Female,Year 12 or equivalent,306900
+2020,New South Wales,Female,Year 11 or equivalent,54000
+2020,New South Wales,Female,Year 10 or equivalent,142200
+2020,Victoria,Male,Postgraduate Degree,194800
+2020,Victoria,Male,Graduate Diploma or Certificate,53800
+2020,Victoria,Male,Bachelor Degree,379100
+2020,Victoria,Male,Advanced Diploma or Diploma,198500
+2020,Victoria,Male,Certificate III or IV,351700
+2020,Victoria,Male,Year 12 or equivalent,267200
+2020,Victoria,Male,Year 11 or equivalent,87300
+2020,Victoria,Male,Year 10 or equivalent,101500
+2020,Victoria,Female,Postgraduate Degree,177200
+2020,Victoria,Female,Graduate Diploma or Certificate,102500
+2020,Victoria,Female,Bachelor Degree,435500
+2020,Victoria,Female,Advanced Diploma or Diploma,190000
+2020,Victoria,Female,Certificate III or IV,158300
+2020,Victoria,Female,Year 12 or equivalent,222700
+2020,Victoria,Female,Year 11 or equivalent,85100
+2020,Victoria,Female,Year 10 or equivalent,53700
+2020,Queensland,Male,Postgraduate Degree,88200
+2020,Queensland,Male,Graduate Diploma or Certificate,33200
+2020,Queensland,Male,Bachelor Degree,224300
+2020,Queensland,Male,Advanced Diploma or Diploma,116100
+2020,Queensland,Male,Certificate III or IV,342100
+2020,Queensland,Male,Year 12 or equivalent,251200
+2020,Queensland,Male,Year 11 or equivalent,50400
+2020,Queensland,Male,Year 10 or equivalent,91200
+2020,Queensland,Female,Postgraduate Degree,93800
+2020,Queensland,Female,Graduate Diploma or Certificate,63700
+2020,Queensland,Female,Bachelor Degree,275800
+2020,Queensland,Female,Advanced Diploma or Diploma,153200
+2020,Queensland,Female,Certificate III or IV,197900
+2020,Queensland,Female,Year 12 or equivalent,235000
+2020,Queensland,Female,Year 11 or equivalent,35900
+2020,Queensland,Female,Year 10 or equivalent,89400
+2020,South Australia,Male,Postgraduate Degree,31200
+2020,South Australia,Male,Graduate Diploma or Certificate,14300
+2020,South Australia,Male,Bachelor Degree,65400
+2020,South Australia,Male,Advanced Diploma or Diploma,35100
+2020,South Australia,Male,Certificate III or IV,110100
+2020,South Australia,Male,Year 12 or equivalent,92000
+2020,South Australia,Male,Year 11 or equivalent,40200
+2020,South Australia,Male,Year 10 or equivalent,30100
+2020,South Australia,Female,Postgraduate Degree,27500
+2020,South Australia,Female,Graduate Diploma or Certificate,20100
+2020,South Australia,Female,Bachelor Degree,90100
+2020,South Australia,Female,Advanced Diploma or Diploma,52900
+2020,South Australia,Female,Certificate III or IV,61000
+2020,South Australia,Female,Year 12 or equivalent,73200
+2020,South Australia,Female,Year 11 or equivalent,36200
+2020,South Australia,Female,Year 10 or equivalent,22300
+2020,Western Australia,Male,Postgraduate Degree,55100
+2020,Western Australia,Male,Graduate Diploma or Certificate,20500
+2020,Western Australia,Male,Bachelor Degree,145900
+2020,Western Australia,Male,Advanced Diploma or Diploma,73800
+2020,Western Australia,Male,Certificate III or IV,191000
+2020,Western Australia,Male,Year 12 or equivalent,119700
+2020,Western Australia,Male,Year 11 or equivalent,38000
+2020,Western Australia,Male,Year 10 or equivalent,60000
+2020,Western Australia,Female,Postgraduate Degree,44300
+2020,Western Australia,Female,Graduate Diploma or Certificate,37700
+2020,Western Australia,Female,Bachelor Degree,159700
+2020,Western Australia,Female,Advanced Diploma or Diploma,79600
+2020,Western Australia,Female,Certificate III or IV,84700
+2020,Western Australia,Female,Year 12 or equivalent,118100
+2020,Western Australia,Female,Year 11 or equivalent,27300
+2020,Western Australia,Female,Year 10 or equivalent,53900
+2020,Tasmania,Male,Postgraduate Degree,11400
+2020,Tasmania,Male,Graduate Diploma or Certificate,2800
+2020,Tasmania,Male,Bachelor Degree,22700
+2020,Tasmania,Male,Advanced Diploma or Diploma,10400
+2020,Tasmania,Male,Certificate III or IV,35800
+2020,Tasmania,Male,Year 12 or equivalent,21100
+2020,Tasmania,Male,Year 11 or equivalent,6900
+2020,Tasmania,Male,Year 10 or equivalent,19000
+2020,Tasmania,Female,Postgraduate Degree,9500
+2020,Tasmania,Female,Graduate Diploma or Certificate,5600
+2020,Tasmania,Female,Bachelor Degree,29000
+2020,Tasmania,Female,Advanced Diploma or Diploma,12300
+2020,Tasmania,Female,Certificate III or IV,22300
+2020,Tasmania,Female,Year 12 or equivalent,17100
+2020,Tasmania,Female,Year 11 or equivalent,6000
+2020,Tasmania,Female,Year 10 or equivalent,15700
+2020,Northern Territory,Male,Postgraduate Degree,5100
+2020,Northern Territory,Male,Graduate Diploma or Certificate,2400
+2020,Northern Territory,Male,Bachelor Degree,10900
+2020,Northern Territory,Male,Advanced Diploma or Diploma,6100
+2020,Northern Territory,Male,Certificate III or IV,17500
+2020,Northern Territory,Male,Year 12 or equivalent,10200
+2020,Northern Territory,Male,Year 11 or equivalent,3300
+2020,Northern Territory,Male,Year 10 or equivalent,4300
+2020,Northern Territory,Female,Postgraduate Degree,5600
+2020,Northern Territory,Female,Graduate Diploma or Certificate,4200
+2020,Northern Territory,Female,Bachelor Degree,11900
+2020,Northern Territory,Female,Advanced Diploma or Diploma,6400
+2020,Northern Territory,Female,Certificate III or IV,6600
+2020,Northern Territory,Female,Year 12 or equivalent,11400
+2020,Northern Territory,Female,Year 11 or equivalent,3100
+2020,Northern Territory,Female,Year 10 or equivalent,3900
+2020,Australian Capital Territory,Male,Postgraduate Degree,20600
+2020,Australian Capital Territory,Male,Graduate Diploma or Certificate,4700
+2020,Australian Capital Territory,Male,Bachelor Degree,36100
+2020,Australian Capital Territory,Male,Advanced Diploma or Diploma,11100
+2020,Australian Capital Territory,Male,Certificate III or IV,17100
+2020,Australian Capital Territory,Male,Year 12 or equivalent,22800
+2020,Australian Capital Territory,Male,Year 11 or equivalent,4200
+2020,Australian Capital Territory,Male,Year 10 or equivalent,4700
+2020,Australian Capital Territory,Female,Postgraduate Degree,19800
+2020,Australian Capital Territory,Female,Graduate Diploma or Certificate,9200
+2020,Australian Capital Territory,Female,Bachelor Degree,36900
+2020,Australian Capital Territory,Female,Advanced Diploma or Diploma,10400
+2020,Australian Capital Territory,Female,Certificate III or IV,9400
+2020,Australian Capital Territory,Female,Year 12 or equivalent,24600
+2020,Australian Capital Territory,Female,Year 11 or equivalent,2500
+2020,Australian Capital Territory,Female,Year 10 or equivalent,5100
+2020,Total,Male,Postgraduate Degree,622800
+2020,Total,Male,Graduate Diploma or Certificate,191400
+2020,Total,Male,Bachelor Degree,1329900
+2020,Total,Male,Advanced Diploma or Diploma,646800
+2020,Total,Male,Certificate III or IV,1489200
+2020,Total,Male,Year 12 or equivalent,1147000
+2020,Total,Male,Year 11 or equivalent,279900
+2020,Total,Male,Year 10 or equivalent,494400
+2020,Total,Female,Postgraduate Degree,582700
+2020,Total,Female,Graduate Diploma or Certificate,323400
+2020,Total,Female,Bachelor Degree,1569400
+2020,Total,Female,Advanced Diploma or Diploma,724200
+2020,Total,Female,Certificate III or IV,777700
+2020,Total,Female,Year 12 or equivalent,1007800
+2020,Total,Female,Year 11 or equivalent,250000
+2020,Total,Female,Year 10 or equivalent,382300
+2021,New South Wales,Male,Postgraduate Degree,236300
+2021,New South Wales,Male,Graduate Diploma or Certificate,65200
+2021,New South Wales,Male,Bachelor Degree,478000
+2021,New South Wales,Male,Advanced Diploma or Diploma,200800
+2021,New South Wales,Male,Certificate III or IV,426400
+2021,New South Wales,Male,Year 12 or equivalent,325700
+2021,New South Wales,Male,Year 11 or equivalent,53200
+2021,New South Wales,Male,Year 10 or equivalent,154900
+2021,New South Wales,Female,Postgraduate Degree,218300
+2021,New South Wales,Female,Graduate Diploma or Certificate,97000
+2021,New South Wales,Female,Bachelor Degree,551400
+2021,New South Wales,Female,Advanced Diploma or Diploma,214600
+2021,New South Wales,Female,Certificate III or IV,233400
+2021,New South Wales,Female,Year 12 or equivalent,274600
+2021,New South Wales,Female,Year 11 or equivalent,49300
+2021,New South Wales,Female,Year 10 or equivalent,108100
+2021,Victoria,Male,Postgraduate Degree,177500
+2021,Victoria,Male,Graduate Diploma or Certificate,54400
+2021,Victoria,Male,Bachelor Degree,425200
+2021,Victoria,Male,Advanced Diploma or Diploma,176000
+2021,Victoria,Male,Certificate III or IV,344300
+2021,Victoria,Male,Year 12 or equivalent,319700
+2021,Victoria,Male,Year 11 or equivalent,98700
+2021,Victoria,Male,Year 10 or equivalent,76000
+2021,Victoria,Female,Postgraduate Degree,168900
+2021,Victoria,Female,Graduate Diploma or Certificate,88800
+2021,Victoria,Female,Bachelor Degree,461400
+2021,Victoria,Female,Advanced Diploma or Diploma,189300
+2021,Victoria,Female,Certificate III or IV,160800
+2021,Victoria,Female,Year 12 or equivalent,259400
+2021,Victoria,Female,Year 11 or equivalent,88400
+2021,Victoria,Female,Year 10 or equivalent,75700
+2021,Queensland,Male,Postgraduate Degree,95500
+2021,Queensland,Male,Graduate Diploma or Certificate,37200
+2021,Queensland,Male,Bachelor Degree,214300
+2021,Queensland,Male,Advanced Diploma or Diploma,128100
+2021,Queensland,Male,Certificate III or IV,382500
+2021,Queensland,Male,Year 12 or equivalent,295300
+2021,Queensland,Male,Year 11 or equivalent,38600
+2021,Queensland,Male,Year 10 or equivalent,115000
+2021,Queensland,Female,Postgraduate Degree,87200
+2021,Queensland,Female,Graduate Diploma or Certificate,56600
+2021,Queensland,Female,Bachelor Degree,281800
+2021,Queensland,Female,Advanced Diploma or Diploma,164300
+2021,Queensland,Female,Certificate III or IV,220000
+2021,Queensland,Female,Year 12 or equivalent,261300
+2021,Queensland,Female,Year 11 or equivalent,45200
+2021,Queensland,Female,Year 10 or equivalent,108300
+2021,South Australia,Male,Postgraduate Degree,28700
+2021,South Australia,Male,Graduate Diploma or Certificate,10400
+2021,South Australia,Male,Bachelor Degree,82800
+2021,South Australia,Male,Advanced Diploma or Diploma,37600
+2021,South Australia,Male,Certificate III or IV,117000
+2021,South Australia,Male,Year 12 or equivalent,89000
+2021,South Australia,Male,Year 11 or equivalent,40000
+2021,South Australia,Male,Year 10 or equivalent,30400
+2021,South Australia,Female,Postgraduate Degree,36700
+2021,South Australia,Female,Graduate Diploma or Certificate,20200
+2021,South Australia,Female,Bachelor Degree,97000
+2021,South Australia,Female,Advanced Diploma or Diploma,52300
+2021,South Australia,Female,Certificate III or IV,70100
+2021,South Australia,Female,Year 12 or equivalent,76800
+2021,South Australia,Female,Year 11 or equivalent,33000
+2021,South Australia,Female,Year 10 or equivalent,18400
+2021,Western Australia,Male,Postgraduate Degree,59700
+2021,Western Australia,Male,Graduate Diploma or Certificate,25400
+2021,Western Australia,Male,Bachelor Degree,126000
+2021,Western Australia,Male,Advanced Diploma or Diploma,77700
+2021,Western Australia,Male,Certificate III or IV,219200
+2021,Western Australia,Male,Year 12 or equivalent,129500
+2021,Western Australia,Male,Year 11 or equivalent,32900
+2021,Western Australia,Male,Year 10 or equivalent,64100
+2021,Western Australia,Female,Postgraduate Degree,42300
+2021,Western Australia,Female,Graduate Diploma or Certificate,46100
+2021,Western Australia,Female,Bachelor Degree,159800
+2021,Western Australia,Female,Advanced Diploma or Diploma,83500
+2021,Western Australia,Female,Certificate III or IV,99700
+2021,Western Australia,Female,Year 12 or equivalent,130700
+2021,Western Australia,Female,Year 11 or equivalent,27900
+2021,Western Australia,Female,Year 10 or equivalent,57800
+2021,Tasmania,Male,Postgraduate Degree,13800
+2021,Tasmania,Male,Graduate Diploma or Certificate,4400
+2021,Tasmania,Male,Bachelor Degree,19400
+2021,Tasmania,Male,Advanced Diploma or Diploma,11900
+2021,Tasmania,Male,Certificate III or IV,40000
+2021,Tasmania,Male,Year 12 or equivalent,21800
+2021,Tasmania,Male,Year 11 or equivalent,7700
+2021,Tasmania,Male,Year 10 or equivalent,17800
+2021,Tasmania,Female,Postgraduate Degree,14700
+2021,Tasmania,Female,Graduate Diploma or Certificate,5500
+2021,Tasmania,Female,Bachelor Degree,28400
+2021,Tasmania,Female,Advanced Diploma or Diploma,9300
+2021,Tasmania,Female,Certificate III or IV,27400
+2021,Tasmania,Female,Year 12 or equivalent,17600
+2021,Tasmania,Female,Year 11 or equivalent,5500
+2021,Tasmania,Female,Year 10 or equivalent,17500
+2021,Northern Territory,Male,Postgraduate Degree,3900
+2021,Northern Territory,Male,Graduate Diploma or Certificate,1300
+2021,Northern Territory,Male,Bachelor Degree,12000
+2021,Northern Territory,Male,Advanced Diploma or Diploma,6600
+2021,Northern Territory,Male,Certificate III or IV,16500
+2021,Northern Territory,Male,Year 12 or equivalent,11700
+2021,Northern Territory,Male,Year 11 or equivalent,2700
+2021,Northern Territory,Male,Year 10 or equivalent,4500
+2021,Northern Territory,Female,Postgraduate Degree,6400
+2021,Northern Territory,Female,Graduate Diploma or Certificate,4300
+2021,Northern Territory,Female,Bachelor Degree,13500
+2021,Northern Territory,Female,Advanced Diploma or Diploma,5800
+2021,Northern Territory,Female,Certificate III or IV,9100
+2021,Northern Territory,Female,Year 12 or equivalent,9300
+2021,Northern Territory,Female,Year 11 or equivalent,3600
+2021,Northern Territory,Female,Year 10 or equivalent,3500
+2021,Australian Capital Territory,Male,Postgraduate Degree,23400
+2021,Australian Capital Territory,Male,Graduate Diploma or Certificate,6700
+2021,Australian Capital Territory,Male,Bachelor Degree,34100
+2021,Australian Capital Territory,Male,Advanced Diploma or Diploma,12800
+2021,Australian Capital Territory,Male,Certificate III or IV,14500
+2021,Australian Capital Territory,Male,Year 12 or equivalent,24600
+2021,Australian Capital Territory,Male,Year 11 or equivalent,3600
+2021,Australian Capital Territory,Male,Year 10 or equivalent,5400
+2021,Australian Capital Territory,Female,Postgraduate Degree,19800
+2021,Australian Capital Territory,Female,Graduate Diploma or Certificate,8300
+2021,Australian Capital Territory,Female,Bachelor Degree,38200
+2021,Australian Capital Territory,Female,Advanced Diploma or Diploma,9400
+2021,Australian Capital Territory,Female,Certificate III or IV,12400
+2021,Australian Capital Territory,Female,Year 12 or equivalent,20300
+2021,Australian Capital Territory,Female,Year 11 or equivalent,700
+2021,Australian Capital Territory,Female,Year 10 or equivalent,8200
+2021,Total,Male,Postgraduate Degree,639000
+2021,Total,Male,Graduate Diploma or Certificate,202500
+2021,Total,Male,Bachelor Degree,1393200
+2021,Total,Male,Advanced Diploma or Diploma,654500
+2021,Total,Male,Certificate III or IV,1563400
+2021,Total,Male,Year 12 or equivalent,1218100
+2021,Total,Male,Year 11 or equivalent,283200
+2021,Total,Male,Year 10 or equivalent,468700
+2021,Total,Female,Postgraduate Degree,597900
+2021,Total,Female,Graduate Diploma or Certificate,327300
+2021,Total,Female,Bachelor Degree,1629700
+2021,Total,Female,Advanced Diploma or Diploma,731700
+2021,Total,Female,Certificate III or IV,831400
+2021,Total,Female,Year 12 or equivalent,1050500
+2021,Total,Female,Year 11 or equivalent,252800
+2021,Total,Female,Year 10 or equivalent,393800
+2022,New South Wales,Male,Postgraduate Degree,228700
+2022,New South Wales,Male,Graduate Diploma or Certificate,57600
+2022,New South Wales,Male,Bachelor Degree,456300
+2022,New South Wales,Male,Advanced Diploma or Diploma,209300
+2022,New South Wales,Male,Certificate III or IV,469000
+2022,New South Wales,Male,Year 12 or equivalent,442400
+2022,New South Wales,Male,Year 11 or equivalent,57700
+2022,New South Wales,Male,Year 10 or equivalent,163900
+2022,New South Wales,Female,Postgraduate Degree,230400
+2022,New South Wales,Female,Graduate Diploma or Certificate,82200
+2022,New South Wales,Female,Bachelor Degree,540800
+2022,New South Wales,Female,Advanced Diploma or Diploma,223800
+2022,New South Wales,Female,Certificate III or IV,273500
+2022,New South Wales,Female,Year 12 or equivalent,358300
+2022,New South Wales,Female,Year 11 or equivalent,52600
+2022,New South Wales,Female,Year 10 or equivalent,144700
+2022,Victoria,Male,Postgraduate Degree,188000
+2022,Victoria,Male,Graduate Diploma or Certificate,70900
+2022,Victoria,Male,Bachelor Degree,402800
+2022,Victoria,Male,Advanced Diploma or Diploma,192800
+2022,Victoria,Male,Certificate III or IV,396000
+2022,Victoria,Male,Year 12 or equivalent,313300
+2022,Victoria,Male,Year 11 or equivalent,78700
+2022,Victoria,Male,Year 10 or equivalent,102200
+2022,Victoria,Female,Postgraduate Degree,201300
+2022,Victoria,Female,Graduate Diploma or Certificate,101900
+2022,Victoria,Female,Bachelor Degree,466600
+2022,Victoria,Female,Advanced Diploma or Diploma,222200
+2022,Victoria,Female,Certificate III or IV,173600
+2022,Victoria,Female,Year 12 or equivalent,251600
+2022,Victoria,Female,Year 11 or equivalent,78200
+2022,Victoria,Female,Year 10 or equivalent,78200
+2022,Queensland,Male,Postgraduate Degree,92500
+2022,Queensland,Male,Graduate Diploma or Certificate,34400
+2022,Queensland,Male,Bachelor Degree,247700
+2022,Queensland,Male,Advanced Diploma or Diploma,124600
+2022,Queensland,Male,Certificate III or IV,390400
+2022,Queensland,Male,Year 12 or equivalent,287200
+2022,Queensland,Male,Year 11 or equivalent,58500
+2022,Queensland,Male,Year 10 or equivalent,109100
+2022,Queensland,Female,Postgraduate Degree,101500
+2022,Queensland,Female,Graduate Diploma or Certificate,56400
+2022,Queensland,Female,Bachelor Degree,312900
+2022,Queensland,Female,Advanced Diploma or Diploma,164700
+2022,Queensland,Female,Certificate III or IV,244700
+2022,Queensland,Female,Year 12 or equivalent,245800
+2022,Queensland,Female,Year 11 or equivalent,42700
+2022,Queensland,Female,Year 10 or equivalent,108000
+2022,South Australia,Male,Postgraduate Degree,33800
+2022,South Australia,Male,Graduate Diploma or Certificate,14400
+2022,South Australia,Male,Bachelor Degree,78300
+2022,South Australia,Male,Advanced Diploma or Diploma,43900
+2022,South Australia,Male,Certificate III or IV,118700
+2022,South Australia,Male,Year 12 or equivalent,94000
+2022,South Australia,Male,Year 11 or equivalent,33600
+2022,South Australia,Male,Year 10 or equivalent,35300
+2022,South Australia,Female,Postgraduate Degree,39000
+2022,South Australia,Female,Graduate Diploma or Certificate,18200
+2022,South Australia,Female,Bachelor Degree,94100
+2022,South Australia,Female,Advanced Diploma or Diploma,50600
+2022,South Australia,Female,Certificate III or IV,74700
+2022,South Australia,Female,Year 12 or equivalent,87400
+2022,South Australia,Female,Year 11 or equivalent,28900
+2022,South Australia,Female,Year 10 or equivalent,23800
+2022,Western Australia,Male,Postgraduate Degree,69600
+2022,Western Australia,Male,Graduate Diploma or Certificate,18100
+2022,Western Australia,Male,Bachelor Degree,141100
+2022,Western Australia,Male,Advanced Diploma or Diploma,79100
+2022,Western Australia,Male,Certificate III or IV,212300
+2022,Western Australia,Male,Year 12 or equivalent,149600
+2022,Western Australia,Male,Year 11 or equivalent,35600
+2022,Western Australia,Male,Year 10 or equivalent,60800
+2022,Western Australia,Female,Postgraduate Degree,50900
+2022,Western Australia,Female,Graduate Diploma or Certificate,38700
+2022,Western Australia,Female,Bachelor Degree,168000
+2022,Western Australia,Female,Advanced Diploma or Diploma,85300
+2022,Western Australia,Female,Certificate III or IV,103700
+2022,Western Australia,Female,Year 12 or equivalent,128000
+2022,Western Australia,Female,Year 11 or equivalent,34700
+2022,Western Australia,Female,Year 10 or equivalent,62200
+2022,Tasmania,Male,Postgraduate Degree,12800
+2022,Tasmania,Male,Graduate Diploma or Certificate,3300
+2022,Tasmania,Male,Bachelor Degree,20600
+2022,Tasmania,Male,Advanced Diploma or Diploma,13500
+2022,Tasmania,Male,Certificate III or IV,40400
+2022,Tasmania,Male,Year 12 or equivalent,21400
+2022,Tasmania,Male,Year 11 or equivalent,5500
+2022,Tasmania,Male,Year 10 or equivalent,20000
+2022,Tasmania,Female,Postgraduate Degree,14700
+2022,Tasmania,Female,Graduate Diploma or Certificate,6800
+2022,Tasmania,Female,Bachelor Degree,28000
+2022,Tasmania,Female,Advanced Diploma or Diploma,13800
+2022,Tasmania,Female,Certificate III or IV,25400
+2022,Tasmania,Female,Year 12 or equivalent,17400
+2022,Tasmania,Female,Year 11 or equivalent,7200
+2022,Tasmania,Female,Year 10 or equivalent,18600
+2022,Northern Territory,Male,Postgraduate Degree,3500
+2022,Northern Territory,Male,Graduate Diploma or Certificate,1700
+2022,Northern Territory,Male,Bachelor Degree,11100
+2022,Northern Territory,Male,Advanced Diploma or Diploma,7100
+2022,Northern Territory,Male,Certificate III or IV,18700
+2022,Northern Territory,Male,Year 12 or equivalent,9700
+2022,Northern Territory,Male,Year 11 or equivalent,2800
+2022,Northern Territory,Male,Year 10 or equivalent,5700
+2022,Northern Territory,Female,Postgraduate Degree,6200
+2022,Northern Territory,Female,Graduate Diploma or Certificate,3000
+2022,Northern Territory,Female,Bachelor Degree,14000
+2022,Northern Territory,Female,Advanced Diploma or Diploma,6300
+2022,Northern Territory,Female,Certificate III or IV,11200
+2022,Northern Territory,Female,Year 12 or equivalent,10600
+2022,Northern Territory,Female,Year 11 or equivalent,3000
+2022,Northern Territory,Female,Year 10 or equivalent,4000
+2022,Australian Capital Territory,Male,Postgraduate Degree,27500
+2022,Australian Capital Territory,Male,Graduate Diploma or Certificate,7700
+2022,Australian Capital Territory,Male,Bachelor Degree,36300
+2022,Australian Capital Territory,Male,Advanced Diploma or Diploma,12000
+2022,Australian Capital Territory,Male,Certificate III or IV,13900
+2022,Australian Capital Territory,Male,Year 12 or equivalent,24700
+2022,Australian Capital Territory,Male,Year 11 or equivalent,2400
+2022,Australian Capital Territory,Male,Year 10 or equivalent,4100
+2022,Australian Capital Territory,Female,Postgraduate Degree,23100
+2022,Australian Capital Territory,Female,Graduate Diploma or Certificate,8600
+2022,Australian Capital Territory,Female,Bachelor Degree,39400
+2022,Australian Capital Territory,Female,Advanced Diploma or Diploma,12400
+2022,Australian Capital Territory,Female,Certificate III or IV,12400
+2022,Australian Capital Territory,Female,Year 12 or equivalent,22600
+2022,Australian Capital Territory,Female,Year 11 or equivalent,2000
+2022,Australian Capital Territory,Female,Year 10 or equivalent,4000
+2022,Total,Male,Postgraduate Degree,659900
+2022,Total,Male,Graduate Diploma or Certificate,206800
+2022,Total,Male,Bachelor Degree,1402200
+2022,Total,Male,Advanced Diploma or Diploma,679100
+2022,Total,Male,Certificate III or IV,1661100
+2022,Total,Male,Year 12 or equivalent,1339000
+2022,Total,Male,Year 11 or equivalent,277000
+2022,Total,Male,Year 10 or equivalent,503400
+2022,Total,Female,Postgraduate Degree,669500
+2022,Total,Female,Graduate Diploma or Certificate,317200
+2022,Total,Female,Bachelor Degree,1663800
+2022,Total,Female,Advanced Diploma or Diploma,780800
+2022,Total,Female,Certificate III or IV,916600
+2022,Total,Female,Year 12 or equivalent,1123700
+2022,Total,Female,Year 11 or equivalent,250500
+2022,Total,Female,Year 10 or equivalent,445700
+2023,New South Wales,Male,Postgraduate Degree,236000
+2023,New South Wales,Male,Graduate Diploma or Certificate,67300
+2023,New South Wales,Male,Bachelor Degree,492700
+2023,New South Wales,Male,Advanced Diploma or Diploma,217100
+2023,New South Wales,Male,Certificate III or IV,448400
+2023,New South Wales,Male,Year 12 or equivalent,416700
+2023,New South Wales,Male,Year 11 or equivalent,67700
+2023,New South Wales,Male,Year 10 or equivalent,192300
+2023,New South Wales,Female,Postgraduate Degree,237000
+2023,New South Wales,Female,Graduate Diploma or Certificate,94800
+2023,New South Wales,Female,Bachelor Degree,573700
+2023,New South Wales,Female,Advanced Diploma or Diploma,228500
+2023,New South Wales,Female,Certificate III or IV,249400
+2023,New South Wales,Female,Year 12 or equivalent,351900
+2023,New South Wales,Female,Year 11 or equivalent,52300
+2023,New South Wales,Female,Year 10 or equivalent,155600
+2023,Victoria,Male,Postgraduate Degree,201900
+2023,Victoria,Male,Graduate Diploma or Certificate,58600
+2023,Victoria,Male,Bachelor Degree,412800
+2023,Victoria,Male,Advanced Diploma or Diploma,213500
+2023,Victoria,Male,Certificate III or IV,374900
+2023,Victoria,Male,Year 12 or equivalent,337600
+2023,Victoria,Male,Year 11 or equivalent,93000
+2023,Victoria,Male,Year 10 or equivalent,89300
+2023,Victoria,Female,Postgraduate Degree,194700
+2023,Victoria,Female,Graduate Diploma or Certificate,111300
+2023,Victoria,Female,Bachelor Degree,510900
+2023,Victoria,Female,Advanced Diploma or Diploma,208600
+2023,Victoria,Female,Certificate III or IV,192100
+2023,Victoria,Female,Year 12 or equivalent,294800
+2023,Victoria,Female,Year 11 or equivalent,78800
+2023,Victoria,Female,Year 10 or equivalent,66100
+2023,Queensland,Male,Postgraduate Degree,109200
+2023,Queensland,Male,Graduate Diploma or Certificate,40800
+2023,Queensland,Male,Bachelor Degree,235200
+2023,Queensland,Male,Advanced Diploma or Diploma,130800
+2023,Queensland,Male,Certificate III or IV,389900
+2023,Queensland,Male,Year 12 or equivalent,300900
+2023,Queensland,Male,Year 11 or equivalent,47600
+2023,Queensland,Male,Year 10 or equivalent,122300
+2023,Queensland,Female,Postgraduate Degree,110900
+2023,Queensland,Female,Graduate Diploma or Certificate,72900
+2023,Queensland,Female,Bachelor Degree,318800
+2023,Queensland,Female,Advanced Diploma or Diploma,158500
+2023,Queensland,Female,Certificate III or IV,222100
+2023,Queensland,Female,Year 12 or equivalent,267200
+2023,Queensland,Female,Year 11 or equivalent,41100
+2023,Queensland,Female,Year 10 or equivalent,100400
+2023,South Australia,Male,Postgraduate Degree,36100
+2023,South Australia,Male,Graduate Diploma or Certificate,11800
+2023,South Australia,Male,Bachelor Degree,85700
+2023,South Australia,Male,Advanced Diploma or Diploma,42100
+2023,South Australia,Male,Certificate III or IV,118900
+2023,South Australia,Male,Year 12 or equivalent,92800
+2023,South Australia,Male,Year 11 or equivalent,40800
+2023,South Australia,Male,Year 10 or equivalent,33800
+2023,South Australia,Female,Postgraduate Degree,38100
+2023,South Australia,Female,Graduate Diploma or Certificate,21300
+2023,South Australia,Female,Bachelor Degree,114500
+2023,South Australia,Female,Advanced Diploma or Diploma,43900
+2023,South Australia,Female,Certificate III or IV,76700
+2023,South Australia,Female,Year 12 or equivalent,76900
+2023,South Australia,Female,Year 11 or equivalent,35800
+2023,South Australia,Female,Year 10 or equivalent,19300
+2023,Western Australia,Male,Postgraduate Degree,54900
+2023,Western Australia,Male,Graduate Diploma or Certificate,20100
+2023,Western Australia,Male,Bachelor Degree,146800
+2023,Western Australia,Male,Advanced Diploma or Diploma,71800
+2023,Western Australia,Male,Certificate III or IV,211100
+2023,Western Australia,Male,Year 12 or equivalent,162200
+2023,Western Australia,Male,Year 11 or equivalent,32900
+2023,Western Australia,Male,Year 10 or equivalent,72200
+2023,Western Australia,Female,Postgraduate Degree,60600
+2023,Western Australia,Female,Graduate Diploma or Certificate,33100
+2023,Western Australia,Female,Bachelor Degree,167800
+2023,Western Australia,Female,Advanced Diploma or Diploma,86200
+2023,Western Australia,Female,Certificate III or IV,93200
+2023,Western Australia,Female,Year 12 or equivalent,154400
+2023,Western Australia,Female,Year 11 or equivalent,31400
+2023,Western Australia,Female,Year 10 or equivalent,62400
+2023,Tasmania,Male,Postgraduate Degree,12000
+2023,Tasmania,Male,Graduate Diploma or Certificate,3700
+2023,Tasmania,Male,Bachelor Degree,22400
+2023,Tasmania,Male,Advanced Diploma or Diploma,11900
+2023,Tasmania,Male,Certificate III or IV,42700
+2023,Tasmania,Male,Year 12 or equivalent,20500
+2023,Tasmania,Male,Year 11 or equivalent,7700
+2023,Tasmania,Male,Year 10 or equivalent,17800
+2023,Tasmania,Female,Postgraduate Degree,14200
+2023,Tasmania,Female,Graduate Diploma or Certificate,9500
+2023,Tasmania,Female,Bachelor Degree,30700
+2023,Tasmania,Female,Advanced Diploma or Diploma,14100
+2023,Tasmania,Female,Certificate III or IV,22000
+2023,Tasmania,Female,Year 12 or equivalent,18700
+2023,Tasmania,Female,Year 11 or equivalent,6300
+2023,Tasmania,Female,Year 10 or equivalent,17500
+2023,Northern Territory,Male,Postgraduate Degree,6300
+2023,Northern Territory,Male,Graduate Diploma or Certificate,1900
+2023,Northern Territory,Male,Bachelor Degree,10600
+2023,Northern Territory,Male,Advanced Diploma or Diploma,6400
+2023,Northern Territory,Male,Certificate III or IV,16900
+2023,Northern Territory,Male,Year 12 or equivalent,11600
+2023,Northern Territory,Male,Year 11 or equivalent,3800
+2023,Northern Territory,Male,Year 10 or equivalent,3700
+2023,Northern Territory,Female,Postgraduate Degree,6200
+2023,Northern Territory,Female,Graduate Diploma or Certificate,3100
+2023,Northern Territory,Female,Bachelor Degree,16500
+2023,Northern Territory,Female,Advanced Diploma or Diploma,6800
+2023,Northern Territory,Female,Certificate III or IV,8500
+2023,Northern Territory,Female,Year 12 or equivalent,10900
+2023,Northern Territory,Female,Year 11 or equivalent,3500
+2023,Northern Territory,Female,Year 10 or equivalent,1800
+2023,Australian Capital Territory,Male,Postgraduate Degree,25700
+2023,Australian Capital Territory,Male,Graduate Diploma or Certificate,7300
+2023,Australian Capital Territory,Male,Bachelor Degree,33900
+2023,Australian Capital Territory,Male,Advanced Diploma or Diploma,10900
+2023,Australian Capital Territory,Male,Certificate III or IV,21900
+2023,Australian Capital Territory,Male,Year 12 or equivalent,22300
+2023,Australian Capital Territory,Male,Year 11 or equivalent,2500
+2023,Australian Capital Territory,Male,Year 10 or equivalent,7000
+2023,Australian Capital Territory,Female,Postgraduate Degree,21600
+2023,Australian Capital Territory,Female,Graduate Diploma or Certificate,11200
+2023,Australian Capital Territory,Female,Bachelor Degree,39900
+2023,Australian Capital Territory,Female,Advanced Diploma or Diploma,12400
+2023,Australian Capital Territory,Female,Certificate III or IV,12300
+2023,Australian Capital Territory,Female,Year 12 or equivalent,19700
+2023,Australian Capital Territory,Female,Year 11 or equivalent,2300
+2023,Australian Capital Territory,Female,Year 10 or equivalent,4000
+2023,Total,Male,Postgraduate Degree,684400
+2023,Total,Male,Graduate Diploma or Certificate,210600
+2023,Total,Male,Bachelor Degree,1435800
+2023,Total,Male,Advanced Diploma or Diploma,702900
+2023,Total,Male,Certificate III or IV,1626100
+2023,Total,Male,Year 12 or equivalent,1362700
+2023,Total,Male,Year 11 or equivalent,296000
+2023,Total,Male,Year 10 or equivalent,538200
+2023,Total,Female,Postgraduate Degree,687800
+2023,Total,Female,Graduate Diploma or Certificate,358200
+2023,Total,Female,Bachelor Degree,1775800
+2023,Total,Female,Advanced Diploma or Diploma,761100
+2023,Total,Female,Certificate III or IV,873300
+2023,Total,Female,Year 12 or equivalent,1197200
+2023,Total,Female,Year 11 or equivalent,255600
+2023,Total,Female,Year 10 or equivalent,428500
