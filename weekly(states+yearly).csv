@@ -1,0 +1,181 @@
+Year,State,Sex,Yearly 
+2014,New South Wales,Male,62348
+2014,New South Wales,Female,44200
+2014,Victoria,Male,57200
+2014,Victoria,Female,42640
+2014,Queensland,Male,59800
+2014,Queensland,Female,41652
+2014,South Australia,Male,57200
+2014,South Australia,Female,39837.2
+2014,Western Australia,Male,74776
+2014,Western Australia,Female,44288.4
+2014,Tasmania,Male,52696.8
+2014,Tasmania,Female,36400
+2014,Northern Territory,Male,78000
+2014,Northern Territory,Female,56243.2
+2014,Australian Capital Territory,Male,71827.6
+2014,Australian Capital Territory,Female,57491.2
+2014,Total,Male,62192
+2014,Total,Female,42900
+2015,New South Wales,Male,62400
+2015,New South Wales,Female,44980
+2015,Victoria,Male,57304
+2015,Victoria,Female,41600
+2015,Queensland,Male,60060
+2015,Queensland,Female,44298.8
+2015,South Australia,Male,57200
+2015,South Australia,Female,42166.8
+2015,Western Australia,Male,70200
+2015,Western Australia,Female,44912.4
+2015,Tasmania,Male,52000
+2015,Tasmania,Female,39884
+2015,Northern Territory,Male,70200
+2015,Northern Territory,Female,55052.4
+2015,Australian Capital Territory,Male,70200
+2015,Australian Capital Territory,Female,60486.4
+2015,Total,Male,62192
+2015,Total,Female,44200
+2016,New South Wales,Male,62400
+2016,New South Wales,Female,46800
+2016,Victoria,Male,60174.4
+2016,Victoria,Female,43004
+2016,Queensland,Male,59956
+2016,Queensland,Female,45500
+2016,South Australia,Male,57200
+2016,South Australia,Female,41600
+2016,Western Australia,Male,68629.6
+2016,Western Australia,Female,45583.2
+2016,Tasmania,Male,53362.4
+2016,Tasmania,Female,39000
+2016,Northern Territory,Male,75691.2
+2016,Northern Territory,Female,55567.2
+2016,Australian Capital Territory,Male,72373.6
+2016,Australian Capital Territory,Female,57200
+2016,Total,Male,62400
+2016,Total,Female,45344
+2017,New South Wales,Male,62400
+2017,New South Wales,Female,46800
+2017,Victoria,Male,61266.4
+2017,Victoria,Female,46748
+2017,Queensland,Male,62400
+2017,Queensland,Female,44943.6
+2017,South Australia,Male,57200
+2017,South Australia,Female,43446
+2017,Western Australia,Male,71786
+2017,Western Australia,Female,45676.8
+2017,Tasmania,Male,57200
+2017,Tasmania,Female,39000
+2017,Northern Territory,Male,72800
+2017,Northern Territory,Female,57200
+2017,Australian Capital Territory,Male,77485.2
+2017,Australian Capital Territory,Female,59956
+2017,Total,Male,62400
+2017,Total,Female,46748
+2018,New South Wales,Male,66606.8
+2018,New South Wales,Female,48822.8
+2018,Victoria,Male,65000
+2018,Victoria,Female,47268
+2018,Queensland,Male,65000
+2018,Queensland,Female,46800
+2018,South Australia,Male,59800
+2018,South Australia,Female,44278
+2018,Western Australia,Male,76008.4
+2018,Western Australia,Female,47840
+2018,Tasmania,Male,58494.8
+2018,Tasmania,Female,43778.8
+2018,Northern Territory,Male,70200
+2018,Northern Territory,Female,59800
+2018,Australian Capital Territory,Male,75280.4
+2018,Australian Capital Territory,Female,59800
+2018,Total,Male,66440.4
+2018,Total,Female,47647.6
+2019,New South Wales,Male,67600
+2019,New South Wales,Female,52000
+2019,Victoria,Male,64792
+2019,Victoria,Female,47840
+2019,Queensland,Male,67002
+2019,Queensland,Female,47424
+2019,South Australia,Male,62400
+2019,South Australia,Female,46789.6
+2019,Western Australia,Male,78000
+2019,Western Australia,Female,50523.2
+2019,Tasmania,Male,61791.6
+2019,Tasmania,Female,46394.4
+2019,Northern Territory,Male,72508.8
+2019,Northern Territory,Female,57200
+2019,Australian Capital Territory,Male,76991.2
+2019,Australian Capital Territory,Female,62400
+2019,Total,Male,67600
+2019,Total,Female,49400
+2020,New South Wales,Male,67724.8
+2020,New South Wales,Female,52000
+2020,Victoria,Male,67600
+2020,Victoria,Female,52000
+2020,Queensland,Male,64272
+2020,Queensland,Female,51173.2
+2020,South Australia,Male,62400
+2020,South Australia,Female,47720.4
+2020,Western Australia,Male,81993.6
+2020,Western Australia,Female,49712
+2020,Tasmania,Male,59800
+2020,Tasmania,Female,46602.4
+2020,Northern Territory,Male,67600
+2020,Northern Territory,Female,57803.2
+2020,Australian Capital Territory,Male,82180.8
+2020,Australian Capital Territory,Female,64214.8
+2020,Total,Male,67600
+2020,Total,Female,52000
+2021,New South Wales,Male,72800
+2021,New South Wales,Female,57558.8
+2021,Victoria,Male,70200
+2021,Victoria,Female,52000
+2021,Queensland,Male,69784
+2021,Queensland,Female,52000
+2021,South Australia,Male,65036.4
+2021,South Australia,Female,49540.4
+2021,Western Australia,Male,79976
+2021,Western Australia,Female,52000
+2021,Tasmania,Male,59800
+2021,Tasmania,Female,46956
+2021,Northern Territory,Male,78000
+2021,Northern Territory,Female,62400
+2021,Australian Capital Territory,Male,83200
+2021,Australian Capital Territory,Female,69378.4
+2021,Total,Male,72092.8
+2021,Total,Female,53196
+2022,New South Wales,Male,74776
+2022,New South Wales,Female,56024.8
+2022,Victoria,Male,72966.4
+2022,Victoria,Female,57200
+2022,Queensland,Male,72800
+2022,Queensland,Female,56680
+2022,South Australia,Male,67184
+2022,South Australia,Female,52000
+2022,Western Australia,Male,87708.4
+2022,Western Australia,Female,53986.4
+2022,Tasmania,Male,64896
+2022,Tasmania,Female,49795.2
+2022,Northern Territory,Male,78000
+2022,Northern Territory,Female,64069.2
+2022,Australian Capital Territory,Male,84723.6
+2022,Australian Capital Territory,Female,71006
+2022,Total,Male,74776
+2022,Total,Female,56056
+2023,New South Wales,Male,78000
+2023,New South Wales,Female,62400
+2023,Victoria,Male,78000
+2023,Victoria,Female,59800
+2023,Queensland,Male,78000
+2023,Queensland,Female,59800
+2023,South Australia,Male,72800
+2023,South Australia,Female,54964
+2023,Western Australia,Male,87037.6
+2023,Western Australia,Female,57200
+2023,Tasmania,Male,68473.6
+2023,Tasmania,Female,56030
+2023,Northern Territory,Male,85592
+2023,Northern Territory,Female,65000
+2023,Australian Capital Territory,Male,84760
+2023,Australian Capital Territory,Female,78499.2
+2023,Total,Male,78000
+2023,Total,Female,59800
