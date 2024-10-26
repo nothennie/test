@@ -1,4 +1,4 @@
-Reference year,Region of usual residence (SA4),Sex,Hours paid for in main job (ranges),Weighted median of Weekly earnings in main job (for means and medians) (%)
+Year,State,Sex,Hours,Median_Weekly
 2014,New South Wales,Sex,1-9 hours,160.0
 2014,New South Wales,Sex,10-19 hours,374.1
 2014,New South Wales,Sex,20-29 hours,600.0
